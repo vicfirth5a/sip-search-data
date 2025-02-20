@@ -1,11 +1,51 @@
-{"users": [
-    
-  ],
-  "posts": [
-    { "id": 1, "title": "json-server0915", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{
+  "bars": [
+    {
+      "id": 1,
+      "region": "台北市",
+      "type": "特色酒吧",
+      "likeCount": 66,
+      "favoriteCount": 34,
+      "imagesUrl": [],
+      "contactInfo": {
+        "address": "完整地址",
+        "phone": "聯絡電話",
+        "openingHours": {
+          "sunday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "monday": {
+            "open": false
+          },
+          "tuesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "wednesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "thursday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "friday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          },
+          "saturday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          }
+        }
+      }
+    }
+  ]
 }
