@@ -56,93 +56,173 @@
       "content": "一杯美麗的熱帶調酒，帶有鳳梨和朗姆酒的風味。",
       "flavor": "",
       "likes": 120,
-      "imagesUrl": ["https://i.imgur.com/eocXieO.png", "https://reurl.cc/geyDWz"],
-      "tags": ["蘭姆酒", "鳳梨", "果汁"],
+      "imagesUrl": [
+        "https://i.imgur.com/eocXieO.png",
+        "https://reurl.cc/geyDWz"
+      ],
+      "tags": [
+        "蘭姆酒",
+        "鳳梨",
+        "果汁"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "黑朗姆酒" },
-        { "amount": "20 毫升", "ingredient": "新鮮鳳梨汁" },
-        { "amount": "15 毫升", "ingredient": "橙皮利口酒（如橙酒）" },
-        { "amount": "15 毫升", "ingredient": "新鮮青檸汁" },
-        { "amount": "10 毫升", "ingredient": "細砂糖漿（可選）" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "黑朗姆酒"
+        },
+        {
+          "amount": "20 毫升",
+          "ingredient": "新鮮鳳梨汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "橙皮利口酒（如橙酒）"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮青檸汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "細砂糖漿（可選）"
+        }
       ],
       "instructions": [
         "在調酒壺中加入黑朗姆酒、鳳梨汁、橙皮利口酒、青檸汁及糖漿。",
         "加入冰塊，充分搖勻。",
         "使用濾網倒入裝有冰塊的高球杯中。"
       ],
-      "garnish": ["鳳梨片", "櫻桃"]
+      "garnish": [
+        "鳳梨片",
+        "櫻桃"
+      ]
     },
-  {
-    "id": 2,
-    "title": "尼格羅尼",
-    "title_en": "Negroni",
-    "content": "金酒、甜苦艾酒與苦味橙酒的經典組合。",
-    "flavor": "",
-    "likes": 180,
-    "imagesUrl": [
-      "https://i.imgur.com/6DGnFqc.png",
-      "https://plus.unsplash.com/premium_photo-1661370085023-16bf34456bbf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "tags": ["金酒", "苦艾酒", "苦味橙酒"],
-    "ingredients": [
-      { "amount": "30 毫升", "ingredient": "金酒" },
-      { "amount": "30 毫升", "ingredient": "甜苦艾酒" },
-      { "amount": "30 毫升", "ingredient": "苦味橙酒" }
-    ],
-    "instructions": [
-      "在攪拌杯中加入金酒、甜苦艾酒和苦味橙酒。",
-      "加入冰塊並輕輕攪拌約 20 秒，直到混合物變冷。",
-      "使用濾網將混合液倒入裝有冰塊的低球杯中。"
-    ],
-    "garnish": ["橙片"]
-  },
-  {
-    "id": 3,
-    "title": "瑪格麗特",
-    "title_en": "Margarita",
-    "content": "清新酸甜的經典雞尾酒，充滿龍舌蘭的味道。",
-    "flavor": "",
-    "likes": 250,
-    "imagesUrl": [
-      "https://i.imgur.com/RyXp6Ds.png",
-      "https://images.unsplash.com/photo-1634003311194-152e30e732f7?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    ],
-    "tags": ["龍舌蘭", "果汁", "檸檬"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "龍舌蘭酒" },
-      { "amount": "15 毫升", "ingredient": "橙酒（如君度）" },
-      { "amount": "15 毫升", "ingredient": "新鮮青檸汁" },
-      { "amount": "10 毫升", "ingredient": "細砂糖漿（可選）" }
-    ],
-    "instructions": [
-      "在調酒壺中加入龍舌蘭酒、橙酒、青檸汁及糖漿（如果需要）。",
-      "加入冰塊，充分搖勻。",
-      "將混合液倒入已經塗上鹽邊的瑪格麗特杯中。"
-    ],
-    "garnish": ["青檸片", "鹽邊"]
-  },
-  {
-    "id": 4,
-    "title": "花花公子",
-    "title_en": "Playboy",
-    "content": "甜美的桃子味調酒，清爽又醉人。",
-    "flavor": "",
-    "likes": 90,
-    "imagesUrl": ["https://i.imgur.com/j0XOHVd.png", "https://images.unsplash.com/photo-1497534446932-c925b458314e?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["伏特加", "桃子", "果汁"],
-    "ingredients": [
-      { "amount": "30 毫升", "ingredient": "琴酒" },
-      { "amount": "30 毫升", "ingredient": "苦艾酒" },
-      { "amount": "30 毫升", "ingredient": "苦味橙酒" },
-      { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" }
-    ],
-    "instructions": [
-      "在調酒壺中加入琴酒、苦艾酒、苦味橙酒和檸檬汁。",
-      "加入冰塊並充分搖勻。",
-      "將混合液倒入裝有冰塊的低球杯中。"
-    ],
-    "garnish": ["檸檬片"]
-  },
+    {
+      "id": 2,
+      "title": "尼格羅尼",
+      "title_en": "Negroni",
+      "content": "金酒、甜苦艾酒與苦味橙酒的經典組合。",
+      "flavor": "",
+      "likes": 180,
+      "imagesUrl": [
+        "https://i.imgur.com/6DGnFqc.png",
+        "https://plus.unsplash.com/premium_photo-1661370085023-16bf34456bbf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "金酒",
+        "苦艾酒",
+        "苦味橙酒"
+      ],
+      "ingredients": [
+        {
+          "amount": "30 毫升",
+          "ingredient": "金酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "甜苦艾酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "苦味橙酒"
+        }
+      ],
+      "instructions": [
+        "在攪拌杯中加入金酒、甜苦艾酒和苦味橙酒。",
+        "加入冰塊並輕輕攪拌約 20 秒，直到混合物變冷。",
+        "使用濾網將混合液倒入裝有冰塊的低球杯中。"
+      ],
+      "garnish": [
+        "橙片"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "瑪格麗特",
+      "title_en": "Margarita",
+      "content": "清新酸甜的經典雞尾酒，充滿龍舌蘭的味道。",
+      "flavor": "",
+      "likes": 250,
+      "imagesUrl": [
+        "https://i.imgur.com/RyXp6Ds.png",
+        "https://images.unsplash.com/photo-1634003311194-152e30e732f7?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "龍舌蘭",
+        "果汁",
+        "檸檬"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "龍舌蘭酒"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "橙酒（如君度）"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮青檸汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "細砂糖漿（可選）"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入龍舌蘭酒、橙酒、青檸汁及糖漿（如果需要）。",
+        "加入冰塊，充分搖勻。",
+        "將混合液倒入已經塗上鹽邊的瑪格麗特杯中。"
+      ],
+      "garnish": [
+        "青檸片",
+        "鹽邊"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "花花公子",
+      "title_en": "Playboy",
+      "content": "甜美的桃子味調酒，清爽又醉人。",
+      "flavor": "",
+      "likes": 90,
+      "imagesUrl": [
+        "https://i.imgur.com/j0XOHVd.png",
+        "https://images.unsplash.com/photo-1497534446932-c925b458314e?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "伏特加",
+        "桃子",
+        "果汁"
+      ],
+      "ingredients": [
+        {
+          "amount": "30 毫升",
+          "ingredient": "琴酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "苦艾酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "苦味橙酒"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入琴酒、苦艾酒、苦味橙酒和檸檬汁。",
+        "加入冰塊並充分搖勻。",
+        "將混合液倒入裝有冰塊的低球杯中。"
+      ],
+      "garnish": [
+        "檸檬片"
+      ]
+    },
     {
       "id": 5,
       "title": "阿佩羅雞尾酒",
@@ -150,309 +230,770 @@
       "content": "帶有苦橙風味的經典開胃酒，夏日必備。",
       "flavor": "",
       "likes": 220,
-      "imagesUrl":[ "https://i.imgur.com/SCYj4RQ.png","https://images.unsplash.com/photo-1560512823-829485b8bf24?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-      "tags": ["苦艾酒", "甜酒", "果汁"],
+      "imagesUrl": [
+        "https://i.imgur.com/SCYj4RQ.png",
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "苦艾酒",
+        "甜酒",
+        "果汁"
+      ],
       "ingredients": [
-        { "amount": "60 毫升", "ingredient": "阿佩羅" },
-        { "amount": "90 毫升", "ingredient": "氣泡水" },
-        { "amount": "30 毫升", "ingredient": "蘇打水" }
+        {
+          "amount": "60 毫升",
+          "ingredient": "阿佩羅"
+        },
+        {
+          "amount": "90 毫升",
+          "ingredient": "氣泡水"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "蘇打水"
+        }
       ],
       "instructions": [
         "將阿佩羅倒入玻璃杯中。",
         "加入冰塊，然後倒入氣泡水與蘇打水。",
         "輕輕攪拌混合，直到冰塊融化稍微冷卻。"
       ],
-      "garnish": ["橙片"]
+      "garnish": [
+        "橙片"
+      ]
     },
-  {
-    "id": 6,
-    "title": "奧林匹克",
-    "title_en": "Olympic",
-    "content": "一杯由琴酒、苦艾酒與檸檬汁調成的清新酒品。",
-    "flavor": "",
-    "likes": 140,
-    "imagesUrl": ["https://i.imgur.com/rmp6cje.png","https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["琴酒", "苦艾酒", "檸檬"],
-    "ingredients": [
-      { "amount": "30 毫升", "ingredient": "琴酒" },
-      { "amount": "30 毫升", "ingredient": "橙酒（如君度）" },
-      { "amount": "15 毫升", "ingredient": "鮮榨檸檬汁" },
-      { "amount": "15 毫升", "ingredient": "橙汁" }
-    ],
-    "instructions": [
-      "在調酒壺中加入琴酒、橙酒、檸檬汁和橙汁。",
-      "加入冰塊並充分搖勻。",
-      "將混合液倒入冷卻過的雞尾酒杯中。"
-    ],
-    "garnish": ["橙片"]
-  },
-  {
-    "id": 7,
-    "title": "蘭姆果汁",
-    "title_en": "Rum Juice",
-    "content": "蘭姆酒與水果的完美結合，酸甜開胃。",
-    "flavor": "",
-    "likes": 105,
-    "imagesUrl": ["https://images.unsplash.com/photo-1555766720-1e727844cc8f?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1624487394217-6d192d003564?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["蘭姆酒", "果汁", "水果"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "白蘭姆酒" },
-      { "amount": "30 毫升", "ingredient": "橙汁" },
-      { "amount": "30 毫升", "ingredient": "菠蘿汁" },
-      { "amount": "15 毫升", "ingredient": "青檸汁" },
-      { "amount": "15 毫升", "ingredient": "糖漿" }
-    ],
-    "instructions": [
-      "在調酒壺中加入白蘭姆酒、橙汁、菠蘿汁、青檸汁和糖漿。",
-      "加入冰塊，搖勻直到充分冷卻。",
-      "將混合液倒入裝有冰塊的高球杯中，輕輕攪拌。"
-    ],
-    "garnish": ["橙片", "櫻桃"]
-  },
-  {
-    "id": 8,
-    "title": "伏特加漿果",
-    "title_en": "Vodka Berry",
-    "content": "混合了伏特加與新鮮漿果的果香調酒。",
-    "flavor": "",
-    "likes": 200,
-    "imagesUrl": ["https://images.unsplash.com/photo-1527761939622-9119094630cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://plus.unsplash.com/premium_photo-1720785519308-853615297fad?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["伏特加", "水果", "果汁"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "伏特加" },
-      { "amount": "30 毫升", "ingredient": "藍莓汁" },
-      { "amount": "30 毫升", "ingredient": "草莓汁" },
-      { "amount": "10 毫升", "ingredient": "檸檬汁" },
-      { "amount": "10 毫升", "ingredient": "簡單糖漿" }
-    ],
-    "instructions": [
-      "在調酒壺中加入伏特加、藍莓汁、草莓汁、檸檬汁和糖漿。",
-      "加入冰塊，搖勻直到充分冷卻。",
-      "將混合液倒入冷卻過的雞尾酒杯中，並輕輕攪拌。"
-    ],
-    "garnish": ["新鮮漿果（如藍莓、草莓）"]
-  },
-  {
-    "id": 9,
-    "title": "金巴利夜幕",
-    "title_en": "Campari Night",
-    "content": "金巴利與苦艾酒的組合，帶來濃烈的口感。",
-    "flavor": "",
-    "likes": 160,
-    "imagesUrl": ["https://images.unsplash.com/photo-1712025853693-d16e904d0662?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["金巴利", "苦艾酒"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "金巴利（Campari）" },
-      { "amount": "30 毫升", "ingredient": "甜苦艾酒" },
-      { "amount": "30 毫升", "ingredient": "橙汁" },
-      { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" }
-    ],
-    "instructions": [
-      "在調酒壺中加入金巴利、甜苦艾酒、橙汁和檸檬汁。",
-      "加入冰塊並充分搖勻，直到混合物變冷。",
-      "將混合液倒入冷卻過的低球杯中。"
-    ],
-    "garnish": ["橙片", "檸檬片"]
-  },
-  {
-    "id": 10,
-    "title": "龍舌蘭玫瑰",
-    "title_en": "Tequila Rose",
-    "content": "酸甜的龍舌蘭與玫瑰口味調酒，具有濃郁花香。",
-    "flavor": "",
-    "likes": 130,
-    "imagesUrl": ["https://plus.unsplash.com/premium_photo-1702834004994-a7eeb1b5cc1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://plus.unsplash.com/premium_photo-1687977548082-4705375cbbcf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["龍舌蘭", "果汁", "玫瑰"],
-    "ingredients": [
-    { "amount": "45 毫升", "ingredient": "龍舌蘭酒" },
-    { "amount": "30 毫升", "ingredient": "玫瑰糖漿" },
-    { "amount": "30 毫升", "ingredient": "鮮奶油" },
-    { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" }
+    {
+      "id": 6,
+      "title": "奧林匹克",
+      "title_en": "Olympic",
+      "content": "一杯由琴酒、苦艾酒與檸檬汁調成的清新酒品。",
+      "flavor": "",
+      "likes": 140,
+      "imagesUrl": [
+        "https://i.imgur.com/rmp6cje.png",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "琴酒",
+        "苦艾酒",
+        "檸檬"
+      ],
+      "ingredients": [
+        {
+          "amount": "30 毫升",
+          "ingredient": "琴酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "橙酒（如君度）"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "鮮榨檸檬汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "橙汁"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入琴酒、橙酒、檸檬汁和橙汁。",
+        "加入冰塊並充分搖勻。",
+        "將混合液倒入冷卻過的雞尾酒杯中。"
+      ],
+      "garnish": [
+        "橙片"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "蘭姆果汁",
+      "title_en": "Rum Juice",
+      "content": "蘭姆酒與水果的完美結合，酸甜開胃。",
+      "flavor": "",
+      "likes": 105,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1555766720-1e727844cc8f?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1624487394217-6d192d003564?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "蘭姆酒",
+        "果汁",
+        "水果"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "白蘭姆酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "橙汁"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "菠蘿汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "青檸汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "糖漿"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入白蘭姆酒、橙汁、菠蘿汁、青檸汁和糖漿。",
+        "加入冰塊，搖勻直到充分冷卻。",
+        "將混合液倒入裝有冰塊的高球杯中，輕輕攪拌。"
+      ],
+      "garnish": [
+        "橙片",
+        "櫻桃"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "伏特加漿果",
+      "title_en": "Vodka Berry",
+      "content": "混合了伏特加與新鮮漿果的果香調酒。",
+      "flavor": "",
+      "likes": 200,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1527761939622-9119094630cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1720785519308-853615297fad?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "伏特加",
+        "水果",
+        "果汁"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "伏特加"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "藍莓汁"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "草莓汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入伏特加、藍莓汁、草莓汁、檸檬汁和糖漿。",
+        "加入冰塊，搖勻直到充分冷卻。",
+        "將混合液倒入冷卻過的雞尾酒杯中，並輕輕攪拌。"
+      ],
+      "garnish": [
+        "新鮮漿果（如藍莓、草莓）"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "金巴利夜幕",
+      "title_en": "Campari Night",
+      "content": "金巴利與苦艾酒的組合，帶來濃烈的口感。",
+      "flavor": "",
+      "likes": 160,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1712025853693-d16e904d0662?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "金巴利",
+        "苦艾酒"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "金巴利（Campari）"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "甜苦艾酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "橙汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入金巴利、甜苦艾酒、橙汁和檸檬汁。",
+        "加入冰塊並充分搖勻，直到混合物變冷。",
+        "將混合液倒入冷卻過的低球杯中。"
+      ],
+      "garnish": [
+        "橙片",
+        "檸檬片"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "龍舌蘭玫瑰",
+      "title_en": "Tequila Rose",
+      "content": "酸甜的龍舌蘭與玫瑰口味調酒，具有濃郁花香。",
+      "flavor": "",
+      "likes": 130,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1702834004994-a7eeb1b5cc1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1687977548082-4705375cbbcf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "龍舌蘭",
+        "果汁",
+        "玫瑰"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "龍舌蘭酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "玫瑰糖漿"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "鮮奶油"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入龍舌蘭酒、玫瑰糖漿、鮮奶油和檸檬汁。",
+        "加入冰塊，充分搖勻直到混合物變冷。",
+        "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
+      ],
+      "garnish": [
+        "玫瑰花瓣"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "威士忌可可",
+      "title_en": "Whiskey Cocoa",
+      "content": "帶有濃厚可可粉與威士忌的調酒，口感香滑。",
+      "flavor": "",
+      "likes": 95,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1668063245248-90ee5a1ff77c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "威士忌",
+        "可可粉"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "可可利口酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "鮮奶油"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入威士忌、可可利口酒、鮮奶油和糖漿。",
+        "加入冰塊，充分搖勻直到混合物變冷。",
+        "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
+      ],
+      "garnish": [
+        "可可粉",
+        "巧克力片"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "葡萄酒氣泡  ",
+      "title_en": "Wine Spritzer",
+      "content": "葡萄酒與氣泡水的清爽調和，適合夏季飲用。",
+      "flavor": "",
+      "likes": 115,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1689163351000-5fed60a2a331?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "葡萄酒",
+        "果汁"
+      ],
+      "ingredients": [
+        {
+          "amount": "90 毫升",
+          "ingredient": "白葡萄酒"
+        },
+        {
+          "amount": "60 毫升",
+          "ingredient": "蘇打水"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "糖漿（可選）"
+        }
+      ],
+      "instructions": [
+        "將白葡萄酒倒入高球杯中。",
+        "加入蘇打水和檸檬汁。",
+        "輕輕攪拌，如果需要，可以加入糖漿調味。",
+        "加入冰塊，繼續攪拌直到混合物均勻冷卻。"
+      ],
+      "garnish": [
+        "檸檬片",
+        "薄荷葉"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "龍舌蘭蜜桃",
+      "title_en": "Tequila Peach",
+      "content": "甜美的桃子與龍舌蘭相結合，口感柔和。",
+      "flavor": "",
+      "likes": 180,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1687977548453-50d9e2b89dce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "龍舌蘭",
+        "水果",
+        "桃子"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "龍舌蘭酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "蜜桃利口酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "新鮮橙汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "青檸汁"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入龍舌蘭酒、蜜桃利口酒、橙汁和青檸汁。",
+        "加入冰塊，充分搖勻直到混合物變冷。",
+        "將混合液倒入冷卻過的雞尾酒杯中。"
+      ],
+      "garnish": [
+        "橙片",
+        "薄荷葉"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "白蘭地熱情果",
+      "title_en": "Brandy Passionfruit",
+      "content": "白蘭地與熱情果的混合，帶有獨特的酸甜風味。",
+      "flavor": "",
+      "likes": 200,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1729719930700-51fc4f0c6731?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "白蘭地",
+        "水果",
+        "熱情果"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "白蘭地"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "熱情果汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入白蘭地、熱情果汁、檸檬汁和糖漿。",
+        "加入冰塊，充分搖勻直到混合物變冷。",
+        "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
+      ],
+      "garnish": [
+        "熱情果片",
+        "薄荷葉"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "蜂蜜威士忌",
+      "title_en": "Honey Whiskey",
+      "content": "威士忌與蜂蜜的結合，味道溫暖且甘甜。",
+      "flavor": "",
+      "likes": 230,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1694994137835-196def6d9aa9?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1664391791898-000961bce086?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "威士忌",
+        "甜酒"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "蜂蜜糖漿"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "熱水"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入威士忌、蜂蜜糖漿、檸檬汁和熱水。",
+        "輕輕攪拌，直到蜂蜜完全溶解。",
+        "將混合液倒入溫暖的玻璃杯中，享受這款溫暖的飲品。"
+      ],
+      "garnish": [
+        "檸檬片",
+        "肉桂棒"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "啤酒蘋果",
+      "title_en": "Beer Apple",
+      "content": "啤酒與蘋果汁混合的飲品，帶有微微的酸甜。",
+      "flavor": "",
+      "likes": 140,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1602093675596-19cee418220b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "啤酒",
+        "水果",
+        "蘋果"
+      ],
+      "ingredients": [
+        {
+          "amount": "60 毫升",
+          "ingredient": "蘋果汁"
+        },
+        {
+          "amount": "120 毫升",
+          "ingredient": "啤酒"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿（可選）"
+        }
+      ],
+      "instructions": [
+        "將蘋果汁和檸檬汁倒入高球杯中。",
+        "加入冰塊，輕輕攪拌均勻。",
+        "倒入啤酒，輕輕攪拌，使其與蘋果汁混合。",
+        "如果需要，可以加入少量糖漿來調整甜度。"
+      ],
+      "garnish": [
+        "蘋果片",
+        "薄荷葉"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "葡萄柚威士忌",
+      "title_en": "Grapefruit Whiskey",
+      "content": "葡萄柚的清新與威士忌的醇厚融合。",
+      "flavor": "",
+      "likes": 155,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1671013031985-b6d00dadc67b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "威士忌",
+        "果汁",
+        "葡萄柚"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "60 毫升",
+          "ingredient": "葡萄柚汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "簡單糖漿"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入威士忌、葡萄柚汁、糖漿和檸檬汁。",
+        "加入冰塊，充分搖勻直到混合物變冷。",
+        "將混合液倒入冷卻過的雞尾酒杯中。"
+      ],
+      "garnish": [
+        "葡萄柚片",
+        "薄荷葉"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "金巴利葡萄",
+      "title_en": "Campari Grape",
+      "content": "金巴利與葡萄的獨特風味搭配，口感濃烈。",
+      "flavor": "",
+      "likes": 170,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1457518919282-b199744eefd6?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": [
+        "金巴利",
+        "水果",
+        "葡萄"
+      ],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "金巴利"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "葡萄汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入金巴利、葡萄汁、檸檬汁和糖漿。",
+        "加入冰塊，充分搖勻直到混合物變冷。",
+        "將混合液倒入冷卻過的雞尾酒杯中。"
+      ],
+      "garnish": [
+        "葡萄串",
+        "薄荷葉"
+      ]
+    }
   ],
-  "instructions": [
-    "在調酒壺中加入龍舌蘭酒、玫瑰糖漿、鮮奶油和檸檬汁。",
-    "加入冰塊，充分搖勻直到混合物變冷。",
-    "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
-  ],
-  "garnish": ["玫瑰花瓣"]
-  },
-  {
-    "id": 11,
-    "title": "威士忌可可",
-    "title_en": "Whiskey Cocoa",
-    "content": "帶有濃厚可可粉與威士忌的調酒，口感香滑。",
-    "flavor": "",
-    "likes": 95,
-    "imagesUrl": ["https://plus.unsplash.com/premium_photo-1668063245248-90ee5a1ff77c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["威士忌", "可可粉"],
-    "ingredients": [
-    { "amount": "45 毫升", "ingredient": "威士忌" },
-    { "amount": "30 毫升", "ingredient": "可可利口酒" },
-    { "amount": "30 毫升", "ingredient": "鮮奶油" },
-    { "amount": "10 毫升", "ingredient": "簡單糖漿" }
-  ],
-  "instructions": [
-    "在調酒壺中加入威士忌、可可利口酒、鮮奶油和糖漿。",
-    "加入冰塊，充分搖勻直到混合物變冷。",
-    "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
-  ],
-  "garnish": ["可可粉", "巧克力片"]
-  },
-  {
-    "id": 12,
-    "title": "葡萄酒氣泡  ",
-    "title_en": "Wine Spritzer",
-    "content": "葡萄酒與氣泡水的清爽調和，適合夏季飲用。",
-    "flavor": "",
-    "likes": 115,
-    "imagesUrl": ["https://images.unsplash.com/photo-1689163351000-5fed60a2a331?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["葡萄酒", "果汁"],
-    "ingredients": [
-      { "amount": "90 毫升", "ingredient": "白葡萄酒" },
-      { "amount": "60 毫升", "ingredient": "蘇打水" },
-      { "amount": "15 毫升", "ingredient": "檸檬汁" },
-      { "amount": "10 毫升", "ingredient": "糖漿（可選）" }
-    ],
-    "instructions": [
-      "將白葡萄酒倒入高球杯中。",
-      "加入蘇打水和檸檬汁。",
-      "輕輕攪拌，如果需要，可以加入糖漿調味。",
-      "加入冰塊，繼續攪拌直到混合物均勻冷卻。"
-    ],
-    "garnish": ["檸檬片", "薄荷葉"]
-  },
-  {
-    "id": 13,
-    "title": "龍舌蘭蜜桃",
-    "title_en": "Tequila Peach",
-    "content": "甜美的桃子與龍舌蘭相結合，口感柔和。",
-    "flavor": "",
-    "likes": 180,
-    "imagesUrl": ["https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://plus.unsplash.com/premium_photo-1687977548453-50d9e2b89dce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["龍舌蘭", "水果", "桃子"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "龍舌蘭酒" },
-      { "amount": "30 毫升", "ingredient": "蜜桃利口酒" },
-      { "amount": "30 毫升", "ingredient": "新鮮橙汁" },
-      { "amount": "15 毫升", "ingredient": "青檸汁" }
-    ],
-    "instructions": [
-      "在調酒壺中加入龍舌蘭酒、蜜桃利口酒、橙汁和青檸汁。",
-      "加入冰塊，充分搖勻直到混合物變冷。",
-      "將混合液倒入冷卻過的雞尾酒杯中。"
-    ],
-    "garnish": ["橙片", "薄荷葉"]
-  },
-  {
-    "id": 14,
-    "title": "白蘭地熱情果",
-    "title_en": "Brandy Passionfruit",
-    "content": "白蘭地與熱情果的混合，帶有獨特的酸甜風味。",
-    "flavor": "",
-    "likes": 200,
-    "imagesUrl": ["https://images.unsplash.com/photo-1729719930700-51fc4f0c6731?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["白蘭地", "水果", "熱情果"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "白蘭地" },
-      { "amount": "30 毫升", "ingredient": "熱情果汁" },
-      { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" },
-      { "amount": "10 毫升", "ingredient": "簡單糖漿" }
-    ],
-    "instructions": [
-      "在調酒壺中加入白蘭地、熱情果汁、檸檬汁和糖漿。",
-      "加入冰塊，充分搖勻直到混合物變冷。",
-      "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
-    ],
-    "garnish": ["熱情果片", "薄荷葉"]
-  },
-  {
-    "id": 15,
-    "title": "蜂蜜威士忌",
-    "title_en": "Honey Whiskey",
-    "content": "威士忌與蜂蜜的結合，味道溫暖且甘甜。",
-    "flavor": "",
-    "likes": 230,
-    "imagesUrl": ["https://plus.unsplash.com/premium_photo-1694994137835-196def6d9aa9?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://plus.unsplash.com/premium_photo-1664391791898-000961bce086?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["威士忌", "甜酒"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "威士忌" },
-      { "amount": "15 毫升", "ingredient": "蜂蜜糖漿" },
-      { "amount": "15 毫升", "ingredient": "檸檬汁" },
-      { "amount": "15 毫升", "ingredient": "熱水" }
-    ],
-    "instructions": [
-      "在調酒壺中加入威士忌、蜂蜜糖漿、檸檬汁和熱水。",
-      "輕輕攪拌，直到蜂蜜完全溶解。",
-      "將混合液倒入溫暖的玻璃杯中，享受這款溫暖的飲品。"
-    ],
-    "garnish": ["檸檬片", "肉桂棒"]
-  },
-  {
-    "id": 16,
-    "title": "啤酒蘋果",
-    "title_en": "Beer Apple",
-    "content": "啤酒與蘋果汁混合的飲品，帶有微微的酸甜。",
-    "flavor": "",
-    "likes": 140,
-    "imagesUrl": ["https://images.unsplash.com/photo-1602093675596-19cee418220b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["啤酒", "水果", "蘋果"],
-    "ingredients": [
-      { "amount": "60 毫升", "ingredient": "蘋果汁" },
-      { "amount": "120 毫升", "ingredient": "啤酒" },
-      { "amount": "15 毫升", "ingredient": "檸檬汁" },
-      { "amount": "10 毫升", "ingredient": "簡單糖漿（可選）" }
-    ],
-    "instructions": [
-      "將蘋果汁和檸檬汁倒入高球杯中。",
-      "加入冰塊，輕輕攪拌均勻。",
-      "倒入啤酒，輕輕攪拌，使其與蘋果汁混合。",
-      "如果需要，可以加入少量糖漿來調整甜度。"
-    ],
-    "garnish": ["蘋果片", "薄荷葉"]
-  },
-  {
-    "id": 17,
-    "title": "葡萄柚威士忌",
-    "title_en": "Grapefruit Whiskey",
-    "content": "葡萄柚的清新與威士忌的醇厚融合。",
-    "flavor": "",
-    "likes": 155,
-    "imagesUrl": ["https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://plus.unsplash.com/premium_photo-1671013031985-b6d00dadc67b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["威士忌", "果汁", "葡萄柚"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "威士忌" },
-      { "amount": "60 毫升", "ingredient": "葡萄柚汁" },
-      { "amount": "15 毫升", "ingredient": "簡單糖漿" },
-      { "amount": "10 毫升", "ingredient": "新鮮檸檬汁" }
-    ],
-    "instructions": [
-      "在調酒壺中加入威士忌、葡萄柚汁、糖漿和檸檬汁。",
-      "加入冰塊，充分搖勻直到混合物變冷。",
-      "將混合液倒入冷卻過的雞尾酒杯中。"
-    ],
-    "garnish": ["葡萄柚片", "薄荷葉"]
-  },
-  {
-    "id": 18,
-    "title": "金巴利葡萄",
-    "title_en": "Campari Grape",
-    "content": "金巴利與葡萄的獨特風味搭配，口感濃烈。",
-    "flavor": "",
-    "likes": 170,
-    "imagesUrl": ["https://images.unsplash.com/photo-1457518919282-b199744eefd6?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
-    "tags": ["金巴利", "水果", "葡萄"],
-    "ingredients": [
-      { "amount": "45 毫升", "ingredient": "金巴利" },
-      { "amount": "30 毫升", "ingredient": "葡萄汁" },
-      { "amount": "15 毫升", "ingredient": "檸檬汁" },
-      { "amount": "10 毫升", "ingredient": "簡單糖漿" }
-    ],
-    "instructions": [
-      "在調酒壺中加入金巴利、葡萄汁、檸檬汁和糖漿。",
-      "加入冰塊，充分搖勻直到混合物變冷。",
-      "將混合液倒入冷卻過的雞尾酒杯中。"
-    ],
-    "garnish": ["葡萄串", "薄荷葉"]
-  }
-]
+  "users": [
+    {
+      "users": [
+        {
+          "id": 1,
+          "name": "Ken",
+          "birthday": "20200101",
+          "account": "example@gmail.com",
+          "password": "123456",
+          "is_subscribed": true,
+          "is_active": false,
+          "is_deleted": true,
+          "deleted_at": "2024-02-12T12:34:56Z",
+          "favorite_recipes": [
+            1,
+            3
+          ],
+          "favorite_bars": [
+            1,
+            2
+          ],
+          "coupon": [
+            {
+              "id": 1,
+              "title": "生日優惠券",
+              "description": "生日優惠券 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100,
+              "min_spend": 500,
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z",
+              "end_date": "2024-02-29T23:59:59Z",
+              "is_active": true,
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": false,
+              "redeemed_at": null,
+              "redeemed_location": null
+            },
+            {
+              "id": 2,
+              "code": "WELCOME100",
+              "description": "新會員優惠 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100,
+              "min_spend": 500,
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z",
+              "end_date": "2024-02-29T23:59:59Z",
+              "is_active": true,
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": true,
+              "redeemed_at": "2024-02-12T14:30:00Z",
+              "redeemed_location": "台北 The Cocktail Lounge"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Jaone",
+          "birthday": "19980620",
+          "account": "jane@gmail.com",
+          "password": "123456abc",
+          "is_subscribed": true,
+          "is_active": true,
+          "favorite_recipes": [
+            1,
+            3,
+            12,
+            16
+          ],
+          "favorite_bars": [
+            1,
+            2
+          ],
+          "coupon": [
+            {
+              "id": 1,
+              "title": "生日優惠券",
+              "description": "生日優惠券 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100,
+              "min_spend": 500,
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z",
+              "end_date": "2024-02-29T23:59:59Z",
+              "is_active": true,
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": false,
+              "redeemed_at": null,
+              "redeemed_location": null
+            },
+            {
+              "id": 2,
+              "code": "WELCOME100",
+              "description": "新會員優惠 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100,
+              "min_spend": 500,
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z",
+              "end_date": "2024-02-29T23:59:59Z",
+              "is_active": true,
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": true,
+              "redeemed_at": "2024-02-12T14:30:00Z",
+              "redeemed_location": "台北 The Cocktail Lounge"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "brielle",
+          "birthday": "19871011",
+          "account": "brielle@gmail.com",
+          "password": "abc123456",
+          "is_subscribed": true,
+          "is_active": true,
+          "favorite_recipes": [
+            3,
+            7,
+            8
+          ],
+          "favorite_bars": [
+            1,
+            2
+          ],
+          "coupon": [
+            {
+              "id": 1,
+              "title": "生日優惠券",
+              "description": "生日優惠券 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100,
+              "min_spend": 399,
+              "max_discount": 100,
+              "start_date": "2024-02-10T00:00:00Z",
+              "end_date": "2024-02-29T23:59:59Z",
+              "is_active": true,
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": false,
+              "redeemed_at": null,
+              "redeemed_location": null
+            },
+            {
+              "id": 2,
+              "code": "WELCOME100",
+              "description": "新會員優惠 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100,
+              "min_spend": 500,
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z",
+              "end_date": "2024-02-29T23:59:59Z",
+              "is_active": true,
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": true,
+              "redeemed_at": "2024-02-12T14:30:00Z",
+              "redeemed_location": "台北 The Cocktail Lounge"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
