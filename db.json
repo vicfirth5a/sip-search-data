@@ -1,10 +1,10 @@
 {
-  "bars": [
+  "bars": [ 
     {
       "id": 1,
       "name": "Indulge",
       "description": "位於台北市大安區的 Indulge Experimental Bistro 是一家結合創意調酒與美食的特色酒吧，以台灣在地食材與現代混搭風格聞名，提供茶香雞尾酒與舒適的用餐環境。",
-      "region": "台北市",
+      "region": ["台北市"],
       "type": "特色酒吧",
       "isReservable": true,
       "likeCount": 66,
@@ -61,7 +61,7 @@
       "id": 2,
       "name": "Draft Land",
       "description": "台北市中山區的 Draft Land 以創新的雞尾酒直取概念聞名，提供多款桶裝調酒，讓顧客體驗輕鬆的飲酒樂趣。",
-      "region": "台北市",
+      "region": ["台北市"],
       "type": "熱門酒吧",
       "isReservable": false,
       "likeCount": 82,
@@ -118,7 +118,7 @@
       "id": 3,
       "name": "Ounce Taipei",
       "description": "隱身於台北東區巷弄中的 Ounce Taipei 是一家復古風格的秘密酒吧，以經典調酒和高品質威士忌吸引愛好者。",
-      "region": "台北市",
+      "region": ["台北市"],
       "type": "特色酒吧",
       "isReservable": true,
       "likeCount": 57,
@@ -175,7 +175,7 @@
       "id": 4,
       "name": "Alchemy",
       "description": "台中市西區的 Alchemy 將調酒視為一門藝術，提供視覺與味覺兼具的創意飲品，深受年輕族群喜愛。",
-      "region": "台中市",
+      "region": ["台中市"],
       "type": "特色酒吧",
       "isReservable": true,
       "likeCount": 73,
@@ -232,7 +232,7 @@
       "id": 5,
       "name": "Woo Bar",
       "description": "位於高雄市前鎮區的 Woo Bar 以其時尚設計和海景露台聞名，是夜生活愛好者的熱門聚點。",
-      "region": "高雄市",
+      "region": ["高雄市"],
       "type": "熱門酒吧",
       "isReservable": true,
       "likeCount": 91,
@@ -289,7 +289,7 @@
       "id": 6,
       "name": "R&D Cocktail Lab",
       "description": "台北市信義區的 R&D Cocktail Lab 專注於分子調酒技術，帶來令人驚艷的飲酒體驗。",
-      "region": "台北市",
+      "region":[ "台北市"],
       "type": "特色酒吧",
       "isReservable": false,
       "likeCount": 48,
@@ -346,7 +346,7 @@
       "id": 7,
       "name": "Fourplay Cuisine",
       "description": "台北松山區的 Fourplay Cuisine 結合餐酒館與酒吧，提供精緻料理與手工調酒的完美搭配。",
-      "region": "台北市",
+      "region": ["台北市"],
       "type": "熱門酒吧",
       "isReservable": true,
       "likeCount": 77,
@@ -403,7 +403,7 @@
       "id": 8,
       "name": "Mood Swing",
       "description": "台南市中西區的 Mood Swing 是一家以爵士音樂為主題的酒吧，氛圍輕鬆且充滿懷舊情調。",
-      "region": "台南市",
+      "region": ["台南市"],
       "type": "特色酒吧",
       "isReservable": false,
       "likeCount": 63,
@@ -460,7 +460,7 @@
       "id": 9,
       "name": "Le Bistro",
       "description": "高雄市鼓山區的 Le Bistro 提供法式風情的葡萄酒與小份料理，是浪漫約會的理想地點。",
-      "region": "高雄市",
+      "region": ["高雄市"],
       "type": "熱門酒吧",
       "isReservable": true,
       "likeCount": 55,
@@ -517,7 +517,7 @@
       "id": 10,
       "name": "The Speakeasy",
       "description": "台北大安區的 The Speakeasy 是一家隱密酒吧，靈感來自禁酒令時代，提供濃厚復古氛圍。",
-      "region": "台北市",
+      "region": ["台北市"],
       "type": "熱門酒吧",
       "isReservable": false,
       "likeCount": 69,
@@ -574,7 +574,7 @@
       "id": 11,
       "name": "Bitter & Sweet",
       "description": "台中北區的 Bitter & Sweet 以苦甜交織的調酒為特色，搭配舒適的工業風裝潢。",
-      "region": "台中市",
+      "region": ["台中市"],
       "type": "熱門酒吧",
       "isReservable": true,
       "likeCount": 84,
@@ -631,7 +631,7 @@
       "id": 12,
       "name": "TCRC",
       "description": "台南東區的 TCRC（The Checkered Record Club）以其溫暖燈光和創意調酒聞名，是當地文青最愛。",
-      "region": "台南市",
+      "region": ["台南市"],
       "type": "特色酒吧",
       "isReservable": false,
       "likeCount": 95,
@@ -643,6 +643,177 @@
         "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1556745763-1a6f0ddb0250?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1525268323446-0505b6fe7778?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "contactInfo": {
+        "address": "完整地址",
+        "phone": "聯絡電話",
+        "openingHours": {
+          "sunday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "monday": {
+            "open": false
+          },
+          "tuesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "wednesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "thursday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "friday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          },
+          "saturday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          }
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "The Speakeasy",
+      "description": "台北大安區的 The Speakeasy 是一家隱密酒吧，靈感來自禁酒令時代，提供濃厚復古氛圍。",
+      "region": ["台北市"],
+      "type": "熱門酒吧",
+      "isReservable": false,
+      "likeCount": 69,
+      "favoriteCount": 33,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1468056961052-15507578a50d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=2029&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1568644396922-5c3bfae12521?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1516997121675-4c2d1684aa3e?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1583227061267-8428fb76fbfd?q=80&w=2026&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1485872299829-c673f5194813?q=80&w=2054&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "contactInfo": {
+        "address": "完整地址",
+        "phone": "聯絡電話",
+        "openingHours": {
+          "sunday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "monday": {
+            "open": false
+          },
+          "tuesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "wednesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "thursday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "friday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          },
+          "saturday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Fourplay Cuisine",
+      "description": "台北松山區的 Fourplay Cuisine 結合餐酒館與酒吧，提供精緻料理與手工調酒的完美搭配。",
+      "region": ["台北市"],
+      "type": "熱門酒吧",
+      "isReservable": true,
+      "likeCount": 77,
+      "favoriteCount": 41,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1582819509237-d5b75f20ff7a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1597241693839-07d7fb803af1?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1612325508365-22caba7bb69e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1617538031312-0d54d0258822?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1622827855145-0afff4452387?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1572299448190-d7a84f6e6bc9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "contactInfo": {
+        "address": "完整地址",
+        "phone": "聯絡電話",
+        "openingHours": {
+          "sunday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "monday": {
+            "open": false
+          },
+          "tuesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "wednesday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "thursday": {
+            "open": true,
+            "start": "17:00",
+            "end": "02:00"
+          },
+          "friday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          },
+          "saturday": {
+            "open": true,
+            "start": "17:00",
+            "end": "03:00"
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "R&D Cocktail Lab",
+      "description": "台北市信義區的 R&D Cocktail Lab 專注於分子調酒技術，帶來令人驚艷的飲酒體驗。",
+      "region":[ "台北市"],
+      "type": "特色酒吧",
+      "isReservable": false,
+      "likeCount": 48,
+      "favoriteCount": 22,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1601673731978-9da3b00d6b54?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1485686531765-ba63b07845a7?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1517334266-b25264dbe6f3?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1615887625746-f3d2aa27e048?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1619111228874-26c73d205227?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1576661929310-a29e8fc38c7f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "contactInfo": {
         "address": "完整地址",
@@ -1209,126 +1380,147 @@
       "garnish": ["葡萄串", "薄荷葉"]
     }
   ],
-  "recipscommits":[
+  "recipscomments": [
     {
       "id": 1,
-      "content": "這杯叢林鳥真的很好喝，鳳梨味很濃，完美的熱帶風味！",
+      "content": ["這杯叢林鳥真的很好喝，鳳梨味很濃，完美的熱帶風味！"],
       "recipeId": 1,
-      "userId": 101
+      "userId": 101,
+      "date": "2025-02-08"
     },
     {
       "id": 2,
-      "content": "尼格羅尼的苦味正好，這是我最喜歡的經典調酒之一。",
+      "content": ["尼格羅尼的苦味正好，這是我最喜歡的經典調酒之一。"],
       "recipeId": 2,
-      "userId": 102
+      "userId": 102,
+      "date": "2025-02-09"
     },
     {
       "id": 3,
-      "content": "瑪格麗特的酸味和龍舌蘭的口感很搭，真的是完美的平衡！",
+      "content": ["瑪格麗特的酸味和龍舌蘭的口感很搭，真的是完美的平衡！"],
       "recipeId": 3,
-      "userId": 103
+      "userId": 103,
+      "date": "2025-02-10"
     },
     {
       "id": 4,
-      "content": "花花公子很適合夏天，桃子的香氣真的很迷人。",
+      "content": ["花花公子很適合夏天，桃子的香氣真的很迷人。"],
       "recipeId": 4,
-      "userId": 104
+      "userId": 104,
+      "date": "2025-02-11"
     },
     {
       "id": 5,
-      "content": "阿佩羅雞尾酒喝起來超級清爽，非常適合開胃！",
+      "content": ["阿佩羅雞尾酒喝起來超級清爽，非常適合開胃！"],
       "recipeId": 5,
-      "userId": 105
+      "userId": 105,
+      "date": "2025-02-12"
     },
     {
       "id": 6,
-      "content": "奧林匹克的味道簡單卻很有層次，非常好喝！",
+      "content": ["奧林匹克的味道簡單卻很有層次，非常好喝！"],
       "recipeId": 6,
-      "userId": 106
+      "userId": 106,
+      "date": "2025-02-13"
     },
     {
       "id": 7,
-      "content": "蘭姆果汁是我最喜歡的蘭姆酒調酒，果汁的酸甜剛好。",
+      "content": ["蘭姆果汁是我最喜歡的蘭姆酒調酒，果汁的酸甜剛好。"],
       "recipeId": 7,
-      "userId": 107
+      "userId": 107,
+      "date": "2025-02-14"
     },
     {
       "id": 8,
-      "content": "伏特加漿果的水果風味讓我每一口都覺得新鮮，好喜歡這杯！",
+      "content": ["伏特加漿果的水果風味讓我每一口都覺得新鮮，好喜歡這杯！"],
       "recipeId": 8,
-      "userId": 108
+      "userId": 108,
+      "date": "2025-02-15"
     },
     {
       "id": 9,
-      "content": "金巴利夜幕有著非常深邃的味道，適合喜歡苦酒的人。",
+      "content": ["金巴利夜幕有著非常深邃的味道，適合喜歡苦酒的人。"],
       "recipeId": 9,
-      "userId": 109
+      "userId": 109,
+      "date": "2025-02-16"
     },
     {
       "id": 10,
-      "content": "龍舌蘭玫瑰非常有花香，喝起來讓人感覺很浪漫。",
+      "content": ["龍舌蘭玫瑰非常有花香，喝起來讓人感覺很浪漫。"],
       "recipeId": 10,
-      "userId": 110
+      "userId": 110,
+      "date": "2025-02-17"
     },
     {
       "id": 11,
-      "content": "威士忌可可的口感濃郁，非常適合冬天飲用。",
+      "content": ["威士忌可可的口感濃郁，非常適合冬天飲用。"],
       "recipeId": 11,
-      "userId": 111
+      "userId": 111,
+      "date": "2025-02-18"
     },
     {
       "id": 12,
-      "content": "葡萄酒氣泡的清爽和氣泡水的口感真的是完美的結合！",
+      "content": ["葡萄酒氣泡的清爽和氣泡水的口感真的是完美的結合！"],
       "recipeId": 12,
-      "userId": 112
+      "userId": 112,
+      "date": "2025-02-19"
     },
     {
       "id": 13,
-      "content": "龍舌蘭蜜桃的味道很平衡，喝起來不會太甜，非常適合當作開胃酒。",
+      "content": ["龍舌蘭蜜桃的味道很平衡，喝起來不會太甜，非常適合當作開胃酒。"],
       "recipeId": 13,
-      "userId": 113
+      "userId": 113,
+      "date": "2025-02-20"
     },
     {
       "id": 14,
-      "content": "白蘭地熱情果非常獨特，熱情果的酸味搭配白蘭地的醇厚口感超級好喝。",
+      "content": ["白蘭地熱情果非常獨特，熱情果的酸味搭配白蘭地的醇厚口感超級好喝。"],
       "recipeId": 14,
-      "userId": 114
+      "userId": 114,
+      "date": "2025-02-21"
     },
     {
       "id": 15,
-      "content": "蜂蜜威士忌的甜味與威士忌的醇香搭配得非常好，超級順口。",
+      "content": ["蜂蜜威士忌的甜味與威士忌的醇香搭配得非常好，超級順口。"],
       "recipeId": 15,
-      "userId": 115
+      "userId": 115,
+      "date": "2025-02-22"
     },
     {
       "id": 16,
-      "content": "啤酒蘋果的酸甜口感讓我很驚艷，是一杯很輕鬆的調酒。",
+      "content": ["啤酒蘋果的酸甜口感讓我很驚艷，是一杯很輕鬆的調酒。"],
       "recipeId": 16,
-      "userId": 116
+      "userId": 116,
+      "date": "2025-02-23"
     },
     {
       "id": 17,
-      "content": "葡萄柚威士忌有很好的酸味平衡，威士忌的香氣也不會被蓋過。",
+      "content": ["葡萄柚威士忌有很好的酸味平衡，威士忌的香氣也不會被蓋過。"],
       "recipeId": 17,
-      "userId": 117
+      "userId": 117,
+      "date": "2025-02-24"
     },
     {
       "id": 18,
-      "content": "金巴利葡萄的果香讓人覺得很清新，這是一杯適合放鬆的調酒。",
+      "content": ["金巴利葡萄的果香讓人覺得很清新，這是一杯適合放鬆的調酒。"],
       "recipeId": 18,
-      "userId": 118
+      "userId": 118,
+      "date": "2025-02-25"
     },
     {
       "id": 19,
-      "content": "每次喝瑪格麗特都會想起度假的日子，這真的是一杯好喝的經典調酒。",
+      "content": ["每次喝瑪格麗特都會想起度假的日子，這真的是一杯好喝的經典調酒。"],
       "recipeId": 3,
-      "userId": 119
+      "userId": 119,
+      "date": "2025-02-26"
     },
     {
       "id": 20,
-      "content": "奧林匹克簡單卻不失高雅，非常適合聚會時飲用。",
+      "content": ["奧林匹克簡單卻不失高雅，非常適合聚會時飲用。"],
       "recipeId": 6,
-      "userId": 120
+      "userId": 120,
+      "date": "2025-02-27"
     }
   ]
+
 }
