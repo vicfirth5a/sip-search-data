@@ -2508,8 +2508,8 @@
          "https://example.com/event20_img2.jpg"
        ]
      }
-    ],
-"users": [
+  ],
+  "users": [
   {
     "id": 101,
     "imagesUrl": "https://randomuser.me/api/portraits/men/21.jpg",
