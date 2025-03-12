@@ -813,7 +813,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "R&D Cocktail Lab",
       "description": "台北市信義區的 R&D Cocktail Lab 專注於分子調酒技術，帶來令人驚艷的飲酒體驗。",
       "region": "台北市",
@@ -1667,11 +1667,185 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": [
-        "葡萄串",
-        "薄荷葉"
-      ]
+
+      "garnish": ["葡萄串", "薄荷葉"]
+    },
+    {
+      "id": 19,
+      "title": "奧綸莉",
+      "title_en": "Aperol Daiquiri",
+      "content": "這是一杯具有鮮明橙色風味的調酒，加入了經典的萊姆酒和奧綸莉，帶有清新的酸甜感。",
+      "flavor": "酸甜",
+      "likes": 145,
+      "favorite": 102,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1661369896155-07e1be87c43f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1661380265633-bb1e654df3d7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": ["萊姆酒", "奧綸莉","白朗姆酒"],
+      "ingredients": [
+        {
+          "amount": "45 毫升",
+          "ingredient": "白朗姆酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "奧綸莉"
+        },
+        {
+          "amount": "20 毫升",
+          "ingredient": "新鮮青檸汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "糖漿"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入白朗姆酒、奧綸莉、青檸汁與糖漿。",
+        "加入冰塊，充分搖勻。",
+        "過濾後倒入事先冷卻的雞尾酒杯中。"
+      ],
+      "garnish": ["檸檬皮", "薄荷"]
+    },
+    {
+      "id": 20,
+      "title": "琴湯尼",
+      "title_en": "Gin Tonic",
+      "content": "這是一杯簡單經典的調酒，清爽的金酒與蘇打水結合，帶來微微的苦味和清涼感。",
+      "flavor": "清爽、苦",
+      "likes": 210,
+      "favorite": 150,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1617524455170-ca63c7f0d472?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1585778226755-167cecfec8c5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": ["金酒", "蘇打水"],
+      "ingredients": [
+        {
+          "amount": "50 毫升",
+          "ingredient": "金酒"
+        },
+        {
+          "amount": "150 毫升",
+          "ingredient": "蘇打水"
+        },
+        {
+          "amount": "適量",
+          "ingredient": "青檸"
+        }
+      ],
+      "instructions": [
+        "將金酒倒入冰塊填滿的高球杯中。",
+        "加入蘇打水並輕輕攪拌。",
+        "用青檸片裝飾，隨後即可享用。"
+      ],
+      "garnish": ["青檸片"]
+    },
+    {
+      "id": 21,
+      "title": "曼哈頓 ",
+      "title_en": "Manhattan",
+      "content": "經典的美式雞尾酒，搭配黑麥威士忌、苦精和甜味美酒，味道強烈且富有層次。",
+      "flavor": "濃烈、微甜",
+      "likes": 175,
+      "favorite": 130,
+      "imagesUrl": [
+        "https://plus.unsplash.com/premium_photo-1661377336516-2d802ad096c4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1671647122567-ade48287e971?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": ["威士忌", "美酒"],
+      "ingredients": [
+        {
+          "amount": "50 毫升",
+          "ingredient": "黑麥威士忌"
+        },
+        {
+          "amount": "25 毫升",
+          "ingredient": "甜味美酒"
+        },
+        {
+          "amount": "2 滴",
+          "ingredient": "苦精"
+        }
+      ],
+      "instructions": [
+        "將所有成分倒入調酒壺中。",
+        "加入冰塊，充分搖勻。",
+        "過濾後倒入事先冷卻的雞尾酒杯中。"
+      ],
+      "garnish": ["櫻桃"]
+    },
+    {
+      "id": 22,
+      "title": "老廣場 ",
+      "title_en": "Vieux Carre",
+      "content": "這款雞尾酒包含多種烈酒，口感豐富，帶有少許苦味，適合喜歡挑戰味覺的人。",
+      "flavor": "複雜、苦",
+      "likes": 160,
+      "favorite": 110,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1650814843722-2498e2aa8e3e?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1712025853733-b7fe9947055c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": ["威士忌", "甜酒", "白蘭地", "苦精"],
+      "ingredients": [
+        {
+          "amount": "30 毫升",
+          "ingredient": "黑麥威士忌"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "白蘭地"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "甜味美酒"
+        },
+        {
+          "amount": "2 滴",
+          "ingredient": "苦精"
+        }
+      ],
+      "instructions": [
+        "在調酒壺中加入黑麥威士忌、白蘭地、甜味美酒與苦精。",
+        "加入冰塊，充分攪拌。",
+        "過濾後倒入裝有冰塊的低球杯中。"
+      ],
+      "garnish": ["檸檬皮"]
+    },
+    {
+      "id": 23,
+      "title": "教父 ",
+      "title_en": "Godfather",
+      "content": "這款簡單的調酒以威士忌為基底，並混合了杏仁味的利口酒，風味濃烈且略帶堅果香。",
+      "flavor": "濃烈、堅果",
+      "likes": 190,
+      "favorite": 140,
+      "imagesUrl": [
+        "https://images.unsplash.com/photo-1634564324736-1049b7c440ec?q=80&w=2018&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1608182843647-7f5a220f36ed?q=80&w=1988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "tags": ["威士忌", "杏仁", "利口酒"],
+      "ingredients": [
+        {
+          "amount": "50 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "25 毫升",
+          "ingredient": "杏仁利口酒"
+        }
+      ],
+      "instructions": [
+        "將威士忌與杏仁利口酒倒入調酒壺中。",
+        "加入冰塊，輕輕攪拌。",
+        "過濾後倒入低球杯中。"
+      ],
+      "garnish": ["橙皮"]
+
     }
+    
   ],
   "recipscomments": [
     {
