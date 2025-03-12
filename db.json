@@ -871,6 +871,148 @@
       }
     }
   ],
+  "barcomments":[
+    {
+      "id": 1,
+      "barId": 1,
+      "userId": 3,
+      "content": "氣氛很棒，音樂也很對我的胃口！",
+      "createdAt": "2025-01-15T19:45:00Z"
+    },
+    {
+      "id": 2,
+      "barId": 2,
+      "userId": 7,
+      "content": "調酒師很專業，推薦的飲品超好喝！",
+      "createdAt": "2025-02-20T21:10:00Z"
+    },
+    {
+      "id": 3,
+      "barId": 3,
+      "userId": 12,
+      "content": "環境乾淨，服務態度很好。",
+      "createdAt": "2025-03-05T16:25:00Z"
+    },
+    {
+      "id": 4,
+      "barId": 4,
+      "userId": 5,
+      "content": "價格合理，氛圍很放鬆。",
+      "createdAt": "2025-01-28T20:00:00Z"
+    },
+    {
+      "id": 5,
+      "barId": 5,
+      "userId": 19,
+      "content": "酒單很有特色，值得一試！",
+      "createdAt": "2025-02-14T22:30:00Z"
+    },
+    {
+      "id": 6,
+      "barId": 6,
+      "userId": 1,
+      "content": "燈光設計很美，拍照超好看。",
+      "createdAt": "2025-03-01T18:15:00Z"
+    },
+    {
+      "id": 7,
+      "barId": 7,
+      "userId": 15,
+      "content": "服務生很親切，會再來！",
+      "createdAt": "2025-02-25T17:50:00Z"
+    },
+    {
+      "id": 8,
+      "barId": 8,
+      "userId": 9,
+      "content": "調酒創意十足，口感也很棒。",
+      "createdAt": "2025-01-10T23:00:00Z"
+    },
+    {
+      "id": 9,
+      "barId": 9,
+      "userId": 4,
+      "content": "位置方便，晚上很熱鬧。",
+      "createdAt": "2025-03-08T20:40:00Z"
+    },
+    {
+      "id": 10,
+      "barId": 10,
+      "userId": 11,
+      "content": "環境舒適，適合朋友聚會。",
+      "createdAt": "2025-02-03T19:20:00Z"
+    },
+    {
+      "id": 11,
+      "barId": 11,
+      "userId": 16,
+      "content": "酒的品質很高，CP值不錯。",
+      "createdAt": "2025-01-22T21:35:00Z"
+    },
+    {
+      "id": 12,
+      "barId": 12,
+      "userId": 2,
+      "content": "音樂選擇很棒，整體很chill。",
+      "createdAt": "2025-03-10T22:15:00Z"
+    },
+    {
+      "id": 13,
+      "barId": 1,
+      "userId": 8,
+      "content": "調酒很有層次感，驚艷！",
+      "createdAt": "2025-02-17T18:00:00Z"
+    },
+    {
+      "id": 14,
+      "barId": 2,
+      "userId": 13,
+      "content": "服務速度快，態度也很親切。",
+      "createdAt": "2025-01-30T20:50:00Z"
+    },
+    {
+      "id": 15,
+      "barId": 3,
+      "userId": 20,
+      "content": "環境有特色，適合約會。",
+      "createdAt": "2025-03-03T19:10:00Z"
+    },
+    {
+      "id": 16,
+      "barId": 4,
+      "userId": 6,
+      "content": "酒吧設計很時尚，喜歡！",
+      "createdAt": "2025-02-07T21:25:00Z"
+    },
+    {
+      "id": 17,
+      "barId": 5,
+      "userId": 14,
+      "content": "氣氛輕鬆，適合下班放鬆。",
+      "createdAt": "2025-01-18T22:45:00Z"
+    },
+    {
+      "id": 18,
+      "barId": 6,
+      "userId": 10,
+      "content": "調酒很有創意，推推！",
+      "createdAt": "2025-03-06T20:30:00Z"
+    },
+    {
+      "id": 19,
+      "barId": 7,
+      "userId": 17,
+      "content": "環境安靜，適合聊天。",
+      "createdAt": "2025-02-12T19:55:00Z"
+    },
+    {
+      "id": 20,
+      "barId": 8,
+      "userId": 18,
+      "content": "整體體驗很好，下次還會來！",
+      "createdAt": "2025-01-25T21:05:00Z"
+    }
+  ],
   "recipes": [
     {
       "id": 1,
@@ -1711,6 +1853,417 @@
       "userId": 120,
       "date": "2025-02-27"
     }
-  ]
-
+  ],
+  "events":[
+    {
+     "id": 1,
+     "barId": 101,
+     "name": "夏日海灘派對",
+     "tags": ["台北市", "其他"],
+     "area": "台北市",
+     "address": "台北市信義區海灘大道88號",
+     "phone": "02-1234-5678",
+     "themes": ["其他"],
+     "startDate": "2025-07-15",
+     "endDate": "2025-07-15",
+     "description": "來場海灘狂歡夜，享受音樂、雞尾酒與沙灘的完美結合！",
+     "imagesUrl": [
+       "https://example.com/event1_img1.jpg",
+       "https://example.com/event1_img2.jpg"
+     ]
+   },
+   {
+     "id": 2,
+     "barId": 102,
+     "name": "萬聖節變裝夜",
+     "tags": ["台中市", "萬聖節"],
+     "area": "台中市",
+     "address": "台中市西屯區神秘巷弄66號",
+     "phone": "04-8765-4321",
+     "themes": ["萬聖節"],
+     "startDate": "2025-10-31",
+     "endDate": "2025-10-31",
+     "description": "穿上你的最狂裝扮，參加一年一度的萬聖節驚悚之夜！",
+     "imagesUrl": [
+       "https://example.com/event2_img1.jpg",
+       "https://example.com/event2_img2.jpg"
+     ]
+   },
+   {
+     "id": 3,
+     "barId": 103,
+     "name": "聖誕夜微醺",
+     "tags": ["新竹市", "聖誕節"],
+     "area": "新竹市",
+     "address": "新竹市北區雪松路45號",
+     "phone": "03-2345-6789",
+     "themes": ["聖誕節"],
+     "startDate": "2025-12-24",
+     "endDate": "2025-12-25",
+     "description": "聖誕燈飾、特製熱紅酒、溫馨夜晚，這是一場不能錯過的微醺聖誕！",
+     "imagesUrl": [
+       "https://example.com/event3_img1.jpg",
+       "https://example.com/event3_img2.jpg"
+     ]
+   },
+   {
+     "id": 4,
+     "barId": 104,
+     "name": "世界盃足球夜",
+     "tags": ["高雄市", "世足賽"],
+     "area": "高雄市",
+     "address": "高雄市苓雅區運動路101號",
+     "phone": "07-3456-7890",
+     "themes": ["世足賽"],
+     "startDate": "2025-07-20",
+     "endDate": "2025-07-20",
+     "description": "與球迷一起為你的隊伍加油，享受啤酒與足球的完美夜晚！",
+     "imagesUrl": [
+       "https://example.com/event4_img1.jpg",
+       "https://example.com/event4_img2.jpg"
+     ]
+   },
+   {
+     "id": 5,
+     "barId": 105,
+     "name": "情人節雙人特調",
+     "tags": ["台南市", "情人節"],
+     "area": "台南市",
+     "address": "台南市安平區愛情路77號",
+     "phone": "06-4567-8901",
+     "themes": ["情人節"],
+     "startDate": "2025-02-14",
+     "endDate": "2025-02-14",
+     "description": "與心愛的人一起學習調酒，創造專屬於你們的愛情特調！",
+     "imagesUrl": [
+       "https://example.com/event5_img1.jpg",
+       "https://example.com/event5_img2.jpg"
+     ]
+   },
+   {
+     "id": 6,
+     "barId": 106,
+     "name": "跨年煙火狂歡",
+     "tags": ["台北市", "跨年夜"],
+     "area": "台北市",
+     "address": "台北市大安區信義路99號",
+     "phone": "02-5678-1234",
+     "themes": ["跨年夜"],
+     "startDate": "2025-12-31",
+     "endDate": "2026-01-01",
+     "description": "一場盛大的跨年煙火派對，現場音樂表演與免費香檳倒數迎新年！",
+     "imagesUrl": [
+       "https://example.com/event6_img1.jpg",
+       "https://example.com/event6_img2.jpg"
+     ]
+   },
+   {
+     "id": 7,
+     "barId": 107,
+     "name": "情人節微光晚宴",
+     "tags": ["桃園市", "情人節"],
+     "area": "桃園市",
+     "address": "桃園市中壢區愛情大道55號",
+     "phone": "03-6789-2345",
+     "themes": ["情人節"],
+     "startDate": "2025-02-14",
+     "endDate": "2025-02-14",
+     "description": "燭光晚餐搭配現場小提琴演奏，讓你的情人節充滿浪漫氛圍！",
+     "imagesUrl": [
+       "https://example.com/event7_img1.jpg",
+       "https://example.com/event7_img2.jpg"
+     ]
+   },
+   {
+     "id": 8,
+     "barId": 108,
+     "name": "搖滾之夜",
+     "tags": ["台中市", "歌手表演"],
+     "area": "台中市",
+     "address": "台中市西區音樂街77號",
+     "phone": "04-7890-3456",
+     "themes": ["歌手表演"],
+     "startDate": "2025-06-20",
+     "endDate": "2025-06-20",
+     "description": "搖滾樂隊現場演出，感受震撼音浪與極致音樂熱情！",
+     "imagesUrl": [
+       "https://example.com/event8_img1.jpg",
+       "https://example.com/event8_img2.jpg"
+     ]
+   },
+   {
+     "id": 9,
+     "barId": 109,
+     "name": "調酒師大賽",
+     "tags": ["新竹市", "其他"],
+     "area": "新竹市",
+     "address": "新竹市東區酒吧街88號",
+     "phone": "03-8901-4567",
+     "themes": ["其他"],
+     "startDate": "2025-09-10",
+     "endDate": "2025-09-10",
+     "description": "全台最厲害的調酒師同台競技，品嚐創意雞尾酒！",
+     "imagesUrl": [
+       "https://example.com/event9_img1.jpg",
+       "https://example.com/event9_img2.jpg"
+     ]
+   },
+   {
+     "id": 10,
+     "barId": 110,
+     "name": "復古迪斯可夜",
+     "tags": ["台南市", "歌手表演"],
+     "area": "台南市",
+     "address": "台南市永康區舞廳路66號",
+     "phone": "06-9012-5678",
+     "themes": ["歌手表演", "其他"],
+     "startDate": "2025-08-15",
+     "endDate": "2025-08-15",
+     "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！DJ現場混音，帶你重返80 年代的經典時光。",
+     "imagesUrl": [
+       "https://example.com/event10_img1.jpg",
+       "https://example.com/event10_img2.jpg"
+     ]
+   },
+   {
+     "id": 11,
+     "barId": 111,
+     "name": "復古迪斯可夜",
+     "tags": ["台南市", "歌手表演"],
+     "area": "台南市",
+     "address": "台南市永康區舞廳路66號",
+     "phone": "06-9012-5678",
+     "themes": ["歌手表演", "其他"],
+     "startDate": "2025-08-15",
+     "endDate": "2025-08-15",
+     "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！",
+     "imagesUrl": [
+       "https://example.com/event11_img1.jpg",
+       "https://example.com/event11_img2.jpg"
+     ]
+   },
+   {
+     "id": 12,
+     "barId": 112,
+     "name": "深夜狼人殺",
+     "tags": ["高雄市", "桌遊競賽"],
+     "area": "高雄市",
+     "address": "高雄市鼓山區遊戲街99號",
+     "phone": "07-1234-6789",
+     "themes": ["桌遊競賽"],
+     "startDate": "2025-09-25",
+     "endDate": "2025-09-25",
+     "description": "午夜的狼人正在出沒，來一場驚心動魄的邏輯對決！",
+     "imagesUrl": [
+       "https://example.com/event12_img1.jpg",
+       "https://example.com/event12_img2.jpg"
+     ]
+   },
+   {
+     "id": 13,
+     "barId": 113,
+     "name": "基隆港夜景音樂會",
+     "tags": ["基隆市", "歌手表演"],
+     "area": "基隆市",
+     "address": "基隆市仁愛區港灣路10號",
+     "phone": "02-2468-1357",
+     "themes": ["歌手表演", "其他"],
+     "startDate": "2025-08-05",
+     "endDate": "2025-08-05",
+     "description": "享受海風輕拂與現場音樂演出，搭配特製海洋風味調酒，打造難忘的夜晚！",
+     "imagesUrl": [
+       "https://example.com/event13_img1.jpg",
+       "https://example.com/event13_img2.jpg"
+     ]
+   },
+   {
+     "id": 14,
+     "barId": 114,
+     "name": "世界盃足球之夜",
+     "tags": ["彰化縣", "世足賽"],
+     "area": "彰化縣",
+     "address": "彰化縣彰化市體育路101號",
+     "phone": "04-7523-6789",
+     "themes": ["世足賽", "其他"],
+     "startDate": "2025-07-14",
+     "endDate": "2025-07-14",
+     "description": "與全球球迷同步觀看世界盃決賽，享受啤酒與足球的熱血激情！",
+     "imagesUrl": [
+       "https://example.com/event14_img1.jpg",
+       "https://example.com/event14_img2.jpg"
+     ]
+   },
+   {
+     "id": 15,
+     "barId": 115,
+     "name": "墾丁沙灘派對",
+     "tags": ["屏東縣", "其他"],
+     "area": "屏東縣",
+     "address": "屏東縣恆春鎮墾丁大道99號",
+     "phone": "08-8889-5678",
+     "themes": ["其他"],
+     "startDate": "2025-07-20",
+     "endDate": "2025-07-20",
+     "description": "海灘、雞尾酒、DJ 音樂！與朋友一起迎接最嗨的南國之夜！",
+     "imagesUrl": [
+       "https://example.com/event15_img1.jpg",
+       "https://example.com/event15_img2.jpg"
+     ]
+   },
+   {
+     "id": 16,
+     "barId": 116,
+     "name": "桌遊對決之夜",
+     "tags": ["台南市", "桌遊競賽"],
+     "area": "台南市",
+     "address": "台南市安南區遊戲館22號",
+     "phone": "06-7890-1234",
+     "themes": ["桌遊競賽", "其他"],
+     "startDate": "2025-06-10",
+     "endDate": "2025-06-10",
+     "description": "挑戰桌遊界最強對手，贏家將獲得豐厚獎品！",
+     "imagesUrl": [
+       "https://example.com/event16_img1.jpg",
+       "https://example.com/event16_img2.jpg"
+     ]
+   },
+   {
+     "id": 17,
+     "barId": 117,
+     "name": "浪漫情人節調酒夜",
+     "tags": ["桃園市", "情人節"],
+     "area": "桃園市",
+     "address": "桃園市中壢區戀人巷55號",
+     "phone": "03-8901-2345",
+     "themes": ["情人節", "歌手表演"],
+     "startDate": "2025-02-14",
+     "endDate": "2025-02-14",
+     "description": "親手為你的愛人調製一杯專屬於你們的雞尾酒，享受現場浪漫音樂。",
+     "imagesUrl": [
+       "https://example.com/event17_img1.jpg",
+       "https://example.com/event17_img2.jpg"
+     ]
+   },
+   {
+     "id": 18,
+     "barId": 118,
+     "name": "萬聖節恐怖之夜",
+     "tags": ["南投縣", "萬聖節"],
+     "area": "南投縣",
+     "address": "南投縣魚池鄉鬼屋巷88號",
+     "phone": "049-7890-3456",
+     "themes": ["萬聖節", "其他"],
+     "startDate": "2025-10-31",
+     "endDate": "2025-10-31",
+     "description": "來場驚悚的鬼屋探險，特製萬聖節驚悚調酒等你來挑戰！",
+     "imagesUrl": [
+       "https://example.com/event18_img1.jpg",
+       "https://example.com/event18_img2.jpg"
+     ]
+   },
+   {
+     "id": 19,
+     "barId": 119,
+     "name": "聯誼遊戲派對",
+     "tags": ["台北市", "聯誼遊戲"],
+     "area": "台北市",
+     "address": "台北市士林區戀愛路66號",
+     "phone": "02-1234-5678",
+     "themes": ["聯誼遊戲", "其他"],
+     "startDate": "2025-09-18",
+     "endDate": "2025-09-18",
+     "description": "單身的你還在等什麼？來場輕鬆愉快的聯誼遊戲，認識新朋友！",
+     "imagesUrl": [
+       "https://example.com/event19_img1.jpg",
+       "https://example.com/event19_img2.jpg"
+     ]
+   },
+   {
+     "id": 20,
+     "barId": 120,
+     "name": "電音狂潮之夜",
+     "tags": ["新北市", "歌手表演"],
+     "area": "新北市",
+     "address": "新北市板橋區潮流大道88號",
+     "phone": "02-9876-5432",
+     "themes": ["歌手表演", "跨年夜"],
+     "startDate": "2025-07-22",
+     "endDate": "2025-07-22",
+     "description": "電音與舞池完美結合，來場極致的夜晚派對！超強 DJ 陣容搭配雷射燈光秀，讓你嗨翻整夜！",
+     "imagesUrl": [
+       "https://example.com/event20_img1.jpg",
+       "https://example.com/event20_img2.jpg"
+     ]
+   }
+ ],
+   "users": [
+    {
+      "id": 1,
+      "name": "Ken",
+      "birthday": "20200101",
+      "account": "example@gmai.com",
+      "password": "123456",
+      "is_subscribed": true,
+      "is_active": false,
+      "is_deleted": true,
+      "deleted_at": "2024-02-12T12:34:56Z",
+      "favorite_recipes": [
+          1,
+          3
+      ],
+      "favorite_bars": [
+          1,
+          2
+      ],
+      "coupon": [
+          {
+              "id": 1,
+              "title": "生日優惠券",
+              "description": "生日優惠券 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100, 
+              "min_spend": 500, 
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z", 
+              "end_date": "2024-02-29T23:59:59Z", 
+              "is_active": true, 
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": false, 
+              "redeemed_at": null,
+              "redeemed_location": null 
+          },
+          {
+              "id": 2,
+              "code": "WELCOME100",
+              "description": "新會員優惠 $100 折扣",
+              "discount_type": "fixed",
+              "discount_value": 100, 
+              "min_spend": 500, 
+              "max_discount": 300,
+              "start_date": "2024-02-10T00:00:00Z", 
+              "end_date": "2024-02-29T23:59:59Z", 
+              "is_active": true, 
+              "qr_code_url": "https://example.com/qrcode/1",
+              "is_redeemed": true,
+              "redeemed_at": "2024-02-12T14:30:00Z",
+              "redeemed_location": "台北 The Cocktail Lounge"
+          }
+      ]
+  },
+  {
+      "id": 2,
+      "name": "Jane",
+      "birthday": "19980912",
+      "is_subscribed": true,
+      "is_active": true,
+      "favorite_recipes": [
+          1,
+          2
+      ],
+      "favorite_bars": [
+          1,
+          2
+      ]
+  }
+]
 }
