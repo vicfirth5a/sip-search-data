@@ -2196,74 +2196,56 @@
      ]
    }
  ],
-   "users": [
-    {
-      "id": 1,
-      "name": "Ken",
-      "birthday": "20200101",
-      "account": "example@gmai.com",
-      "password": "123456",
-      "is_subscribed": true,
-      "is_active": false,
-      "is_deleted": true,
-      "deleted_at": "2024-02-12T12:34:56Z",
-      "favorite_recipes": [
-          1,
-          3
-      ],
-      "favorite_bars": [
-          1,
-          2
-      ],
-      "coupon": [
-          {
-              "id": 1,
-              "title": "生日優惠券",
-              "description": "生日優惠券 $100 折扣",
-              "discount_type": "fixed",
-              "discount_value": 100, 
-              "min_spend": 500, 
-              "max_discount": 300,
-              "start_date": "2024-02-10T00:00:00Z", 
-              "end_date": "2024-02-29T23:59:59Z", 
-              "is_active": true, 
-              "qr_code_url": "https://example.com/qrcode/1",
-              "is_redeemed": false, 
-              "redeemed_at": null,
-              "redeemed_location": null 
-          },
-          {
-              "id": 2,
-              "code": "WELCOME100",
-              "description": "新會員優惠 $100 折扣",
-              "discount_type": "fixed",
-              "discount_value": 100, 
-              "min_spend": 500, 
-              "max_discount": 300,
-              "start_date": "2024-02-10T00:00:00Z", 
-              "end_date": "2024-02-29T23:59:59Z", 
-              "is_active": true, 
-              "qr_code_url": "https://example.com/qrcode/1",
-              "is_redeemed": true,
-              "redeemed_at": "2024-02-12T14:30:00Z",
-              "redeemed_location": "台北 The Cocktail Lounge"
-          }
-      ]
+ "users": [
+  {
+    "id": 101,
+    "imagesUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+    "name": "Alex Chen"
   },
   {
-      "id": 2,
-      "name": "Jane",
-      "birthday": "19980912",
-      "is_subscribed": true,
-      "is_active": true,
-      "favorite_recipes": [
-          1,
-          2
-      ],
-      "favorite_bars": [
-          1,
-          2
-      ]
+    "id": 102,
+    "imagesUrl": "https://randomuser.me/api/portraits/women/32.jpg",
+    "name": "Lisa Wang"
+  },
+  {
+    "id": 103,
+    "imagesUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+    "name": "Kevin Lin"
+  },
+  {
+    "id": 104,
+    "imagesUrl": "https://randomuser.me/api/portraits/women/54.jpg",
+    "name": "Emily Wu"
+  },
+  {
+    "id": 105,
+    "imagesUrl": "https://randomuser.me/api/portraits/men/67.jpg",
+    "name": "Daniel Yang"
+  },
+  {
+    "id": 106,
+    "imagesUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+    "name": "Sophia Lee"
+  },
+  {
+    "id": 107,
+    "imagesUrl": "https://randomuser.me/api/portraits/men/89.jpg",
+    "name": "Jason Huang"
+  },
+  {
+    "id": 108,
+    "imagesUrl": "https://randomuser.me/api/portraits/women/76.jpg",
+    "name": "Maggie Chang"
+  },
+  {
+    "id": 109,
+    "imagesUrl": "https://randomuser.me/api/portraits/men/34.jpg",
+    "name": "Eric Tsai"
+  },
+  {
+    "id": 110,
+    "imagesUrl": "https://randomuser.me/api/portraits/women/43.jpg",
+    "name": "Cindy Hsu"
   }
 ]
 }
