@@ -1,15 +1,15 @@
 {
-  "bars": [ 
+  "bars": [
     {
       "id": 1,
       "name": "Indulge",
       "description": "位於台北市大安區的 Indulge Experimental Bistro 是一家結合創意調酒與美食的特色酒吧，以台灣在地食材與現代混搭風格聞名，提供茶香雞尾酒與舒適的用餐環境。",
       "region": "台北市",
-      "type":"特色",
+      "type": "特色",
       "isReservable": true,
       "likeCount": 66,
       "favoriteCount": 34,
-      "minimum_spend" : 250,
+      "minimum_spend": 250,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1618659525444-49206d11d0b6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1556855810-ac404aa91e85?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -67,7 +67,7 @@
       "isReservable": false,
       "likeCount": 82,
       "favoriteCount": 45,
-      "minimum_spend" : 350,
+      "minimum_spend": 350,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1586338211598-e2d64cf97e28?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1514447357535-f21ac8c34538?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -125,7 +125,7 @@
       "isReservable": true,
       "likeCount": 57,
       "favoriteCount": 28,
-      "minimum_spend" : 450,
+      "minimum_spend": 450,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1535958636474-b021ee887b13?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1594063834707-57413e4221f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -183,7 +183,7 @@
       "isReservable": true,
       "likeCount": 73,
       "favoriteCount": 39,
-      "minimum_spend" : 550,
+      "minimum_spend": 550,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1615887023544-3a566f29d822?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1562259934-6e09f6a89a98?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -241,7 +241,7 @@
       "isReservable": true,
       "likeCount": 91,
       "favoriteCount": 52,
-      "minimum_spend" : 550,
+      "minimum_spend": 550,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1590423859012-39c5ee2845bd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1500217052183-bc01eee1a74e?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -299,7 +299,7 @@
       "isReservable": false,
       "likeCount": 48,
       "favoriteCount": 22,
-      "minimum_spend" : 650,
+      "minimum_spend": 650,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1601673731978-9da3b00d6b54?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1485686531765-ba63b07845a7?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -357,7 +357,7 @@
       "isReservable": true,
       "likeCount": 77,
       "favoriteCount": 41,
-      "minimum_spend" : 250,
+      "minimum_spend": 250,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1582819509237-d5b75f20ff7a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1597241693839-07d7fb803af1?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -415,7 +415,7 @@
       "isReservable": false,
       "likeCount": 63,
       "favoriteCount": 30,
-      "minimum_spend" : 350,
+      "minimum_spend": 350,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1540224769541-7e6e20a42330?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1615887584283-91f1be7fdc34?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -473,7 +473,7 @@
       "isReservable": true,
       "likeCount": 55,
       "favoriteCount": 27,
-      "minimum_spend" : 450,
+      "minimum_spend": 450,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1437418747212-8d9709afab22?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1508253730651-e5ace80a7025?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -531,7 +531,7 @@
       "isReservable": false,
       "likeCount": 69,
       "favoriteCount": 33,
-      "minimum_spend" : 550,
+      "minimum_spend": 550,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1468056961052-15507578a50d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=2029&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -589,7 +589,7 @@
       "isReservable": true,
       "likeCount": 84,
       "favoriteCount": 47,
-      "minimum_spend" : 650,
+      "minimum_spend": 650,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1539639885136-56332d18071d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1556741574-0ddb65d14311?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -647,7 +647,7 @@
       "isReservable": false,
       "likeCount": 95,
       "favoriteCount": 58,
-      "minimum_spend" : 250,
+      "minimum_spend": 250,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1597290282695-edc43d0e7129?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1556741533-f6acd6474059?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -705,7 +705,7 @@
       "isReservable": false,
       "likeCount": 69,
       "favoriteCount": 33,
-      "minimum_spend" : 350,
+      "minimum_spend": 350,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1468056961052-15507578a50d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?q=80&w=2029&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -763,7 +763,7 @@
       "isReservable": true,
       "likeCount": 77,
       "favoriteCount": 41,
-      "minimum_spend" : 450,
+      "minimum_spend": 450,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1582819509237-d5b75f20ff7a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1597241693839-07d7fb803af1?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -816,12 +816,12 @@
       "id": 15,
       "name": "R&D Cocktail Lab",
       "description": "台北市信義區的 R&D Cocktail Lab 專注於分子調酒技術，帶來令人驚艷的飲酒體驗。",
-      "region":"台北市",
+      "region": "台北市",
       "type": "特色",
       "isReservable": false,
       "likeCount": 48,
       "favoriteCount": 22,
-      "minimum_spend" : 550,
+      "minimum_spend": 550,
       "imagesUrl": [
         "https://images.unsplash.com/photo-1601673731978-9da3b00d6b54?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1485686531765-ba63b07845a7?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -1026,7 +1026,11 @@
         "https://i.imgur.com/eocXieO.png",
         "https://reurl.cc/geyDWz"
       ],
-      "tags": ["蘭姆酒", "鳳梨", "果汁"],
+      "tags": [
+        "蘭姆酒",
+        "鳳梨",
+        "果汁"
+      ],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1054,7 +1058,10 @@
         "加入冰塊，充分搖勻。",
         "使用濾網倒入裝有冰塊的高球杯中。"
       ],
-      "garnish": ["鳳梨片", "櫻桃"]
+      "garnish": [
+        "鳳梨片",
+        "櫻桃"
+      ]
     },
     {
       "id": 2,
@@ -1068,7 +1075,11 @@
         "https://i.imgur.com/6DGnFqc.png",
         "https://plus.unsplash.com/premium_photo-1661370085023-16bf34456bbf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["金酒", "苦艾酒", "苦味橙酒"],
+      "tags": [
+        "金酒",
+        "苦艾酒",
+        "苦味橙酒"
+      ],
       "ingredients": [
         {
           "amount": "30 毫升",
@@ -1088,7 +1099,9 @@
         "加入冰塊並輕輕攪拌約 20 秒，直到混合物變冷。",
         "使用濾網將混合液倒入裝有冰塊的低球杯中。"
       ],
-      "garnish": ["橙片"]
+      "garnish": [
+        "橙片"
+      ]
     },
     {
       "id": 3,
@@ -1102,7 +1115,11 @@
         "https://i.imgur.com/RyXp6Ds.png",
         "https://images.unsplash.com/photo-1634003311194-152e30e732f7?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["龍舌蘭", "果汁", "檸檬"],
+      "tags": [
+        "龍舌蘭",
+        "果汁",
+        "檸檬"
+      ],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1126,7 +1143,10 @@
         "加入冰塊，充分搖勻。",
         "將混合液倒入已經塗上鹽邊的瑪格麗特杯中。"
       ],
-      "garnish": ["青檸片", "鹽邊"]
+      "garnish": [
+        "青檸片",
+        "鹽邊"
+      ]
     },
     {
       "id": 4,
@@ -1140,7 +1160,11 @@
         "https://i.imgur.com/j0XOHVd.png",
         "https://images.unsplash.com/photo-1497534446932-c925b458314e?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["伏特加", "桃子", "果汁"],
+      "tags": [
+        "伏特加",
+        "桃子",
+        "果汁"
+      ],
       "ingredients": [
         {
           "amount": "30 毫升",
@@ -1164,7 +1188,9 @@
         "加入冰塊並充分搖勻。",
         "將混合液倒入裝有冰塊的低球杯中。"
       ],
-      "garnish": ["檸檬片"]
+      "garnish": [
+        "檸檬片"
+      ]
     },
     {
       "id": 5,
@@ -1178,7 +1204,11 @@
         "https://i.imgur.com/SCYj4RQ.png",
         "https://images.unsplash.com/photo-1560512823-829485b8bf24?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["苦艾酒", "甜酒", "果汁"],
+      "tags": [
+        "苦艾酒",
+        "甜酒",
+        "果汁"
+      ],
       "ingredients": [
         {
           "amount": "60 毫升",
@@ -1198,7 +1228,9 @@
         "加入冰塊，然後倒入氣泡水與蘇打水。",
         "輕輕攪拌混合，直到冰塊融化稍微冷卻。"
       ],
-      "garnish": ["橙片"]
+      "garnish": [
+        "橙片"
+      ]
     },
     {
       "id": 6,
@@ -1212,19 +1244,37 @@
         "https://i.imgur.com/rmp6cje.png",
         "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["琴酒", "苦艾酒", "檸檬"],
+      "tags": [
+        "琴酒",
+        "苦艾酒",
+        "檸檬"
+      ],
       "ingredients": [
-        { "amount": "30 毫升", "ingredient": "琴酒" },
-        { "amount": "30 毫升", "ingredient": "橙酒（如君度）" },
-        { "amount": "15 毫升", "ingredient": "鮮榨檸檬汁" },
-        { "amount": "15 毫升", "ingredient": "橙汁" }
+        {
+          "amount": "30 毫升",
+          "ingredient": "琴酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "橙酒（如君度）"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "鮮榨檸檬汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "橙汁"
+        }
       ],
       "instructions": [
         "在調酒壺中加入琴酒、橙酒、檸檬汁和橙汁。",
         "加入冰塊並充分搖勻。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": ["橙片"]
+      "garnish": [
+        "橙片"
+      ]
     },
     {
       "id": 7,
@@ -1238,20 +1288,42 @@
         "https://images.unsplash.com/photo-1555766720-1e727844cc8f?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1624487394217-6d192d003564?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["蘭姆酒", "果汁", "水果"],
+      "tags": [
+        "蘭姆酒",
+        "果汁",
+        "水果"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "白蘭姆酒" },
-        { "amount": "30 毫升", "ingredient": "橙汁" },
-        { "amount": "30 毫升", "ingredient": "菠蘿汁" },
-        { "amount": "15 毫升", "ingredient": "青檸汁" },
-        { "amount": "15 毫升", "ingredient": "糖漿" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "白蘭姆酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "橙汁"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "菠蘿汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "青檸汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "糖漿"
+        }
       ],
       "instructions": [
         "在調酒壺中加入白蘭姆酒、橙汁、菠蘿汁、青檸汁和糖漿。",
         "加入冰塊，搖勻直到充分冷卻。",
         "將混合液倒入裝有冰塊的高球杯中，輕輕攪拌。"
       ],
-      "garnish": ["橙片", "櫻桃"]
+      "garnish": [
+        "橙片",
+        "櫻桃"
+      ]
     },
     {
       "id": 8,
@@ -1265,20 +1337,41 @@
         "https://images.unsplash.com/photo-1527761939622-9119094630cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1720785519308-853615297fad?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["伏特加", "水果", "果汁"],
+      "tags": [
+        "伏特加",
+        "水果",
+        "果汁"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "伏特加" },
-        { "amount": "30 毫升", "ingredient": "藍莓汁" },
-        { "amount": "30 毫升", "ingredient": "草莓汁" },
-        { "amount": "10 毫升", "ingredient": "檸檬汁" },
-        { "amount": "10 毫升", "ingredient": "簡單糖漿" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "伏特加"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "藍莓汁"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "草莓汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
       ],
       "instructions": [
         "在調酒壺中加入伏特加、藍莓汁、草莓汁、檸檬汁和糖漿。",
         "加入冰塊，搖勻直到充分冷卻。",
         "將混合液倒入冷卻過的雞尾酒杯中，並輕輕攪拌。"
       ],
-      "garnish": ["新鮮漿果（如藍莓、草莓）"]
+      "garnish": [
+        "新鮮漿果（如藍莓、草莓）"
+      ]
     },
     {
       "id": 9,
@@ -1291,19 +1384,37 @@
       "imagesUrl": [
         "https://images.unsplash.com/photo-1712025853693-d16e904d0662?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["金巴利", "苦艾酒"],
+      "tags": [
+        "金巴利",
+        "苦艾酒"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "金巴利（Campari）" },
-        { "amount": "30 毫升", "ingredient": "甜苦艾酒" },
-        { "amount": "30 毫升", "ingredient": "橙汁" },
-        { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "金巴利（Campari）"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "甜苦艾酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "橙汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
       ],
       "instructions": [
         "在調酒壺中加入金巴利、甜苦艾酒、橙汁和檸檬汁。",
         "加入冰塊並充分搖勻，直到混合物變冷。",
         "將混合液倒入冷卻過的低球杯中。"
       ],
-      "garnish": ["橙片", "檸檬片"]
+      "garnish": [
+        "橙片",
+        "檸檬片"
+      ]
     },
     {
       "id": 10,
@@ -1317,19 +1428,37 @@
         "https://plus.unsplash.com/premium_photo-1702834004994-a7eeb1b5cc1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1687977548082-4705375cbbcf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["龍舌蘭", "果汁", "玫瑰"],
+      "tags": [
+        "龍舌蘭",
+        "果汁",
+        "玫瑰"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "龍舌蘭酒" },
-        { "amount": "30 毫升", "ingredient": "玫瑰糖漿" },
-        { "amount": "30 毫升", "ingredient": "鮮奶油" },
-        { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "龍舌蘭酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "玫瑰糖漿"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "鮮奶油"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
       ],
       "instructions": [
         "在調酒壺中加入龍舌蘭酒、玫瑰糖漿、鮮奶油和檸檬汁。",
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
       ],
-      "garnish": ["玫瑰花瓣"]
+      "garnish": [
+        "玫瑰花瓣"
+      ]
     },
     {
       "id": 11,
@@ -1342,19 +1471,37 @@
       "imagesUrl": [
         "https://plus.unsplash.com/premium_photo-1668063245248-90ee5a1ff77c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["威士忌", "可可粉"],
+      "tags": [
+        "威士忌",
+        "可可粉"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "威士忌" },
-        { "amount": "30 毫升", "ingredient": "可可利口酒" },
-        { "amount": "30 毫升", "ingredient": "鮮奶油" },
-        { "amount": "10 毫升", "ingredient": "簡單糖漿" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "可可利口酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "鮮奶油"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
       ],
       "instructions": [
         "在調酒壺中加入威士忌、可可利口酒、鮮奶油和糖漿。",
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
       ],
-      "garnish": ["可可粉", "巧克力片"]
+      "garnish": [
+        "可可粉",
+        "巧克力片"
+      ]
     },
     {
       "id": 12,
@@ -1367,12 +1514,27 @@
       "imagesUrl": [
         "https://images.unsplash.com/photo-1689163351000-5fed60a2a331?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["葡萄酒", "果汁"],
+      "tags": [
+        "葡萄酒",
+        "果汁"
+      ],
       "ingredients": [
-        { "amount": "90 毫升", "ingredient": "白葡萄酒" },
-        { "amount": "60 毫升", "ingredient": "蘇打水" },
-        { "amount": "15 毫升", "ingredient": "檸檬汁" },
-        { "amount": "10 毫升", "ingredient": "糖漿（可選）" }
+        {
+          "amount": "90 毫升",
+          "ingredient": "白葡萄酒"
+        },
+        {
+          "amount": "60 毫升",
+          "ingredient": "蘇打水"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "糖漿（可選）"
+        }
       ],
       "instructions": [
         "將白葡萄酒倒入高球杯中。",
@@ -1380,7 +1542,10 @@
         "輕輕攪拌，如果需要，可以加入糖漿調味。",
         "加入冰塊，繼續攪拌直到混合物均勻冷卻。"
       ],
-      "garnish": ["檸檬片", "薄荷葉"]
+      "garnish": [
+        "檸檬片",
+        "薄荷葉"
+      ]
     },
     {
       "id": 13,
@@ -1394,19 +1559,38 @@
         "https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1687977548453-50d9e2b89dce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["龍舌蘭", "水果", "桃子"],
+      "tags": [
+        "龍舌蘭",
+        "水果",
+        "桃子"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "龍舌蘭酒" },
-        { "amount": "30 毫升", "ingredient": "蜜桃利口酒" },
-        { "amount": "30 毫升", "ingredient": "新鮮橙汁" },
-        { "amount": "15 毫升", "ingredient": "青檸汁" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "龍舌蘭酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "蜜桃利口酒"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "新鮮橙汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "青檸汁"
+        }
       ],
       "instructions": [
         "在調酒壺中加入龍舌蘭酒、蜜桃利口酒、橙汁和青檸汁。",
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": ["橙片", "薄荷葉"]
+      "garnish": [
+        "橙片",
+        "薄荷葉"
+      ]
     },
     {
       "id": 14,
@@ -1419,19 +1603,38 @@
       "imagesUrl": [
         "https://images.unsplash.com/photo-1729719930700-51fc4f0c6731?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["白蘭地", "水果", "熱情果"],
+      "tags": [
+        "白蘭地",
+        "水果",
+        "熱情果"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "白蘭地" },
-        { "amount": "30 毫升", "ingredient": "熱情果汁" },
-        { "amount": "15 毫升", "ingredient": "新鮮檸檬汁" },
-        { "amount": "10 毫升", "ingredient": "簡單糖漿" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "白蘭地"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "熱情果汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "新鮮檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
       ],
       "instructions": [
         "在調酒壺中加入白蘭地、熱情果汁、檸檬汁和糖漿。",
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
       ],
-      "garnish": ["熱情果片", "薄荷葉"]
+      "garnish": [
+        "熱情果片",
+        "薄荷葉"
+      ]
     },
     {
       "id": 15,
@@ -1445,19 +1648,37 @@
         "https://plus.unsplash.com/premium_photo-1694994137835-196def6d9aa9?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1664391791898-000961bce086?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["威士忌", "甜酒"],
+      "tags": [
+        "威士忌",
+        "甜酒"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "威士忌" },
-        { "amount": "15 毫升", "ingredient": "蜂蜜糖漿" },
-        { "amount": "15 毫升", "ingredient": "檸檬汁" },
-        { "amount": "15 毫升", "ingredient": "熱水" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "蜂蜜糖漿"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "熱水"
+        }
       ],
       "instructions": [
         "在調酒壺中加入威士忌、蜂蜜糖漿、檸檬汁和熱水。",
         "輕輕攪拌，直到蜂蜜完全溶解。",
         "將混合液倒入溫暖的玻璃杯中，享受這款溫暖的飲品。"
       ],
-      "garnish": ["檸檬片", "肉桂棒"]
+      "garnish": [
+        "檸檬片",
+        "肉桂棒"
+      ]
     },
     {
       "id": 16,
@@ -1470,12 +1691,28 @@
       "imagesUrl": [
         "https://images.unsplash.com/photo-1602093675596-19cee418220b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["啤酒", "水果", "蘋果"],
+      "tags": [
+        "啤酒",
+        "水果",
+        "蘋果"
+      ],
       "ingredients": [
-        { "amount": "60 毫升", "ingredient": "蘋果汁" },
-        { "amount": "120 毫升", "ingredient": "啤酒" },
-        { "amount": "15 毫升", "ingredient": "檸檬汁" },
-        { "amount": "10 毫升", "ingredient": "簡單糖漿（可選）" }
+        {
+          "amount": "60 毫升",
+          "ingredient": "蘋果汁"
+        },
+        {
+          "amount": "120 毫升",
+          "ingredient": "啤酒"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿（可選）"
+        }
       ],
       "instructions": [
         "將蘋果汁和檸檬汁倒入高球杯中。",
@@ -1483,7 +1720,10 @@
         "倒入啤酒，輕輕攪拌，使其與蘋果汁混合。",
         "如果需要，可以加入少量糖漿來調整甜度。"
       ],
-      "garnish": ["蘋果片", "薄荷葉"]
+      "garnish": [
+        "蘋果片",
+        "薄荷葉"
+      ]
     },
     {
       "id": 17,
@@ -1497,19 +1737,38 @@
         "https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1671013031985-b6d00dadc67b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["威士忌", "果汁", "葡萄柚"],
+      "tags": [
+        "威士忌",
+        "果汁",
+        "葡萄柚"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "威士忌" },
-        { "amount": "60 毫升", "ingredient": "葡萄柚汁" },
-        { "amount": "15 毫升", "ingredient": "簡單糖漿" },
-        { "amount": "10 毫升", "ingredient": "新鮮檸檬汁" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "威士忌"
+        },
+        {
+          "amount": "60 毫升",
+          "ingredient": "葡萄柚汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "簡單糖漿"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "新鮮檸檬汁"
+        }
       ],
       "instructions": [
         "在調酒壺中加入威士忌、葡萄柚汁、糖漿和檸檬汁。",
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": ["葡萄柚片", "薄荷葉"]
+      "garnish": [
+        "葡萄柚片",
+        "薄荷葉"
+      ]
     },
     {
       "id": 18,
@@ -1522,18 +1781,35 @@
       "imagesUrl": [
         "https://images.unsplash.com/photo-1457518919282-b199744eefd6?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": ["金巴利", "水果", "葡萄"],
+      "tags": [
+        "金巴利",
+        "水果",
+        "葡萄"
+      ],
       "ingredients": [
-        { "amount": "45 毫升", "ingredient": "金巴利" },
-        { "amount": "30 毫升", "ingredient": "葡萄汁" },
-        { "amount": "15 毫升", "ingredient": "檸檬汁" },
-        { "amount": "10 毫升", "ingredient": "簡單糖漿" }
+        {
+          "amount": "45 毫升",
+          "ingredient": "金巴利"
+        },
+        {
+          "amount": "30 毫升",
+          "ingredient": "葡萄汁"
+        },
+        {
+          "amount": "15 毫升",
+          "ingredient": "檸檬汁"
+        },
+        {
+          "amount": "10 毫升",
+          "ingredient": "簡單糖漿"
+        }
       ],
       "instructions": [
         "在調酒壺中加入金巴利、葡萄汁、檸檬汁和糖漿。",
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
+
       "garnish": ["葡萄串", "薄荷葉"]
     },
     {
@@ -1709,132 +1985,169 @@
         "過濾後倒入低球杯中。"
       ],
       "garnish": ["橙皮"]
+
     }
     
   ],
   "recipscomments": [
     {
       "id": 1,
-      "content": ["這杯叢林鳥真的很好喝，鳳梨味很濃，完美的熱帶風味！"],
+      "content": [
+        "這杯叢林鳥真的很好喝，鳳梨味很濃，完美的熱帶風味！"
+      ],
       "recipeId": 1,
       "userId": 101,
       "date": "2025-02-08"
     },
     {
       "id": 2,
-      "content": ["尼格羅尼的苦味正好，這是我最喜歡的經典調酒之一。"],
+      "content": [
+        "尼格羅尼的苦味正好，這是我最喜歡的經典調酒之一。"
+      ],
       "recipeId": 2,
       "userId": 102,
       "date": "2025-02-09"
     },
     {
       "id": 3,
-      "content": ["瑪格麗特的酸味和龍舌蘭的口感很搭，真的是完美的平衡！"],
+      "content": [
+        "瑪格麗特的酸味和龍舌蘭的口感很搭，真的是完美的平衡！"
+      ],
       "recipeId": 3,
       "userId": 103,
       "date": "2025-02-10"
     },
     {
       "id": 4,
-      "content": ["花花公子很適合夏天，桃子的香氣真的很迷人。"],
+      "content": [
+        "花花公子很適合夏天，桃子的香氣真的很迷人。"
+      ],
       "recipeId": 4,
       "userId": 104,
       "date": "2025-02-11"
     },
     {
       "id": 5,
-      "content": ["阿佩羅雞尾酒喝起來超級清爽，非常適合開胃！"],
+      "content": [
+        "阿佩羅雞尾酒喝起來超級清爽，非常適合開胃！"
+      ],
       "recipeId": 5,
       "userId": 105,
       "date": "2025-02-12"
     },
     {
       "id": 6,
-      "content": ["奧林匹克的味道簡單卻很有層次，非常好喝！"],
+      "content": [
+        "奧林匹克的味道簡單卻很有層次，非常好喝！"
+      ],
       "recipeId": 6,
       "userId": 106,
       "date": "2025-02-13"
     },
     {
       "id": 7,
-      "content": ["蘭姆果汁是我最喜歡的蘭姆酒調酒，果汁的酸甜剛好。"],
+      "content": [
+        "蘭姆果汁是我最喜歡的蘭姆酒調酒，果汁的酸甜剛好。"
+      ],
       "recipeId": 7,
       "userId": 107,
       "date": "2025-02-14"
     },
     {
       "id": 8,
-      "content": ["伏特加漿果的水果風味讓我每一口都覺得新鮮，好喜歡這杯！"],
+      "content": [
+        "伏特加漿果的水果風味讓我每一口都覺得新鮮，好喜歡這杯！"
+      ],
       "recipeId": 8,
       "userId": 108,
       "date": "2025-02-15"
     },
     {
       "id": 9,
-      "content": ["金巴利夜幕有著非常深邃的味道，適合喜歡苦酒的人。"],
+      "content": [
+        "金巴利夜幕有著非常深邃的味道，適合喜歡苦酒的人。"
+      ],
       "recipeId": 9,
       "userId": 109,
       "date": "2025-02-16"
     },
     {
       "id": 10,
-      "content": ["龍舌蘭玫瑰非常有花香，喝起來讓人感覺很浪漫。"],
+      "content": [
+        "龍舌蘭玫瑰非常有花香，喝起來讓人感覺很浪漫。"
+      ],
       "recipeId": 10,
       "userId": 110,
       "date": "2025-02-17"
     },
     {
       "id": 11,
-      "content": ["威士忌可可的口感濃郁，非常適合冬天飲用。"],
+      "content": [
+        "威士忌可可的口感濃郁，非常適合冬天飲用。"
+      ],
       "recipeId": 11,
       "userId": 111,
       "date": "2025-02-18"
     },
     {
       "id": 12,
-      "content": ["葡萄酒氣泡的清爽和氣泡水的口感真的是完美的結合！"],
+      "content": [
+        "葡萄酒氣泡的清爽和氣泡水的口感真的是完美的結合！"
+      ],
       "recipeId": 12,
       "userId": 112,
       "date": "2025-02-19"
     },
     {
       "id": 13,
-      "content": ["龍舌蘭蜜桃的味道很平衡，喝起來不會太甜，非常適合當作開胃酒。"],
+      "content": [
+        "龍舌蘭蜜桃的味道很平衡，喝起來不會太甜，非常適合當作開胃酒。"
+      ],
       "recipeId": 13,
       "userId": 113,
       "date": "2025-02-20"
     },
     {
       "id": 14,
-      "content": ["白蘭地熱情果非常獨特，熱情果的酸味搭配白蘭地的醇厚口感超級好喝。"],
+      "content": [
+        "白蘭地熱情果非常獨特，熱情果的酸味搭配白蘭地的醇厚口感超級好喝。"
+      ],
       "recipeId": 14,
       "userId": 114,
       "date": "2025-02-21"
     },
     {
       "id": 15,
-      "content": ["蜂蜜威士忌的甜味與威士忌的醇香搭配得非常好，超級順口。"],
+      "content": [
+        "蜂蜜威士忌的甜味與威士忌的醇香搭配得非常好，超級順口。"
+      ],
       "recipeId": 15,
       "userId": 115,
       "date": "2025-02-22"
     },
     {
       "id": 16,
-      "content": ["啤酒蘋果的酸甜口感讓我很驚艷，是一杯很輕鬆的調酒。"],
+      "content": [
+        "啤酒蘋果的酸甜口感讓我很驚艷，是一杯很輕鬆的調酒。"
+      ],
       "recipeId": 16,
       "userId": 116,
       "date": "2025-02-23"
     },
     {
       "id": 17,
-      "content": ["葡萄柚威士忌有很好的酸味平衡，威士忌的香氣也不會被蓋過。"],
+      "content": [
+        "葡萄柚威士忌有很好的酸味平衡，威士忌的香氣也不會被蓋過。"
+      ],
       "recipeId": 17,
       "userId": 117,
       "date": "2025-02-24"
     },
     {
       "id": 18,
-      "content": ["金巴利葡萄的果香讓人覺得很清新，這是一杯適合放鬆的調酒。"],
+      "content": [
+        "金巴利葡萄的果香讓人覺得很清新，這是一杯適合放鬆的調酒。"
+      ],
       "recipeId": 18,
       "userId": 118,
       "date": "2025-02-25"
@@ -1856,347 +2169,347 @@
   ],
   "events":[
     {
-     "id": 1,
-     "barId": 1,
-     "name": "夏日海灘派對",
-     "tags": ["台北市", "其他"],
-     "area": "台北市",
-     "address": "台北市信義區海灘大道88號",
-     "phone": "02-1234-5678",
-     "themes": ["其他"],
-     "startDate": "2025-07-15",
-     "endDate": "2025-07-15",
-     "description": "來場海灘狂歡夜，享受音樂、雞尾酒與沙灘的完美結合！",
-     "imagesUrl": [
-       "https://example.com/event1_img1.jpg",
-       "https://example.com/event1_img2.jpg"
-     ]
-   },
-   {
-     "id": 2,
-     "barId": 2,
-     "name": "萬聖節變裝夜",
-     "tags": ["台中市", "萬聖節"],
-     "area": "台中市",
-     "address": "台中市西屯區神秘巷弄66號",
-     "phone": "04-8765-4321",
-     "themes": ["萬聖節"],
-     "startDate": "2025-10-31",
-     "endDate": "2025-10-31",
-     "description": "穿上你的最狂裝扮，參加一年一度的萬聖節驚悚之夜！",
-     "imagesUrl": [
-       "https://example.com/event2_img1.jpg",
-       "https://example.com/event2_img2.jpg"
-     ]
-   },
-   {
-     "id": 3,
-     "barId": 3,
-     "name": "聖誕夜微醺",
-     "tags": ["新竹市", "聖誕節"],
-     "area": "新竹市",
-     "address": "新竹市北區雪松路45號",
-     "phone": "03-2345-6789",
-     "themes": ["聖誕節"],
-     "startDate": "2025-12-24",
-     "endDate": "2025-12-25",
-     "description": "聖誕燈飾、特製熱紅酒、溫馨夜晚，這是一場不能錯過的微醺聖誕！",
-     "imagesUrl": [
-       "https://example.com/event3_img1.jpg",
-       "https://example.com/event3_img2.jpg"
-     ]
-   },
-   {
-     "id": 4,
-     "barId": 4,
-     "name": "世界盃足球夜",
-     "tags": ["高雄市", "世足賽"],
-     "area": "高雄市",
-     "address": "高雄市苓雅區運動路101號",
-     "phone": "07-3456-7890",
-     "themes": ["世足賽"],
-     "startDate": "2025-07-20",
-     "endDate": "2025-07-20",
-     "description": "與球迷一起為你的隊伍加油，享受啤酒與足球的完美夜晚！",
-     "imagesUrl": [
-       "https://example.com/event4_img1.jpg",
-       "https://example.com/event4_img2.jpg"
-     ]
-   },
-   {
-     "id": 5,
-     "barId": 5,
-     "name": "情人節雙人特調",
-     "tags": ["台南市", "情人節"],
-     "area": "台南市",
-     "address": "台南市安平區愛情路77號",
-     "phone": "06-4567-8901",
-     "themes": ["情人節"],
-     "startDate": "2025-02-14",
-     "endDate": "2025-02-14",
-     "description": "與心愛的人一起學習調酒，創造專屬於你們的愛情特調！",
-     "imagesUrl": [
-       "https://example.com/event5_img1.jpg",
-       "https://example.com/event5_img2.jpg"
-     ]
-   },
-   {
-     "id": 6,
-     "barId": 6,
-     "name": "跨年煙火狂歡",
-     "tags": ["台北市", "跨年夜"],
-     "area": "台北市",
-     "address": "台北市大安區信義路99號",
-     "phone": "02-5678-1234",
-     "themes": ["跨年夜"],
-     "startDate": "2025-12-31",
-     "endDate": "2026-01-01",
-     "description": "一場盛大的跨年煙火派對，現場音樂表演與免費香檳倒數迎新年！",
-     "imagesUrl": [
-       "https://example.com/event6_img1.jpg",
-       "https://example.com/event6_img2.jpg"
-     ]
-   },
-   {
-     "id": 7,
-     "barId": 7,
-     "name": "情人節微光晚宴",
-     "tags": ["桃園市", "情人節"],
-     "area": "桃園市",
-     "address": "桃園市中壢區愛情大道55號",
-     "phone": "03-6789-2345",
-     "themes": ["情人節"],
-     "startDate": "2025-02-14",
-     "endDate": "2025-02-14",
-     "description": "燭光晚餐搭配現場小提琴演奏，讓你的情人節充滿浪漫氛圍！",
-     "imagesUrl": [
-       "https://example.com/event7_img1.jpg",
-       "https://example.com/event7_img2.jpg"
-     ]
-   },
-   {
-     "id": 8,
-     "barId": 8,
-     "name": "搖滾之夜",
-     "tags": ["台中市", "歌手表演"],
-     "area": "台中市",
-     "address": "台中市西區音樂街77號",
-     "phone": "04-7890-3456",
-     "themes": ["歌手表演"],
-     "startDate": "2025-06-20",
-     "endDate": "2025-06-20",
-     "description": "搖滾樂隊現場演出，感受震撼音浪與極致音樂熱情！",
-     "imagesUrl": [
-       "https://example.com/event8_img1.jpg",
-       "https://example.com/event8_img2.jpg"
-     ]
-   },
-   {
-     "id": 9,
-     "barId": 9,
-     "name": "調酒師大賽",
-     "tags": ["新竹市", "其他"],
-     "area": "新竹市",
-     "address": "新竹市東區酒吧街88號",
-     "phone": "03-8901-4567",
-     "themes": ["其他"],
-     "startDate": "2025-09-10",
-     "endDate": "2025-09-10",
-     "description": "全台最厲害的調酒師同台競技，品嚐創意雞尾酒！",
-     "imagesUrl": [
-       "https://example.com/event9_img1.jpg",
-       "https://example.com/event9_img2.jpg"
-     ]
-   },
-   {
-     "id": 10,
-     "barId": 10,
-     "name": "復古迪斯可夜",
-     "tags": ["台南市", "歌手表演"],
-     "area": "台南市",
-     "address": "台南市永康區舞廳路66號",
-     "phone": "06-9012-5678",
-     "themes": ["歌手表演", "其他"],
-     "startDate": "2025-08-15",
-     "endDate": "2025-08-15",
-     "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！DJ現場混音，帶你重返80 年代的經典時光。",
-     "imagesUrl": [
-       "https://example.com/event10_img1.jpg",
-       "https://example.com/event10_img2.jpg"
-     ]
-   },
-   {
-     "id": 11,
-     "barId": 11,
-     "name": "復古迪斯可夜",
-     "tags": ["台南市", "歌手表演"],
-     "area": "台南市",
-     "address": "台南市永康區舞廳路66號",
-     "phone": "06-9012-5678",
-     "themes": ["歌手表演", "其他"],
-     "startDate": "2025-08-15",
-     "endDate": "2025-08-15",
-     "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！",
-     "imagesUrl": [
-       "https://example.com/event11_img1.jpg",
-       "https://example.com/event11_img2.jpg"
-     ]
-   },
-   {
-     "id": 12,
-     "barId": 12,
-     "name": "深夜狼人殺",
-     "tags": ["高雄市", "桌遊競賽"],
-     "area": "高雄市",
-     "address": "高雄市鼓山區遊戲街99號",
-     "phone": "07-1234-6789",
-     "themes": ["桌遊競賽"],
-     "startDate": "2025-09-25",
-     "endDate": "2025-09-25",
-     "description": "午夜的狼人正在出沒，來一場驚心動魄的邏輯對決！",
-     "imagesUrl": [
-       "https://example.com/event12_img1.jpg",
-       "https://example.com/event12_img2.jpg"
-     ]
-   },
-   {
-     "id": 13,
-     "barId": 13,
-     "name": "基隆港夜景音樂會",
-     "tags": ["基隆市", "歌手表演"],
-     "area": "基隆市",
-     "address": "基隆市仁愛區港灣路10號",
-     "phone": "02-2468-1357",
-     "themes": ["歌手表演", "其他"],
-     "startDate": "2025-08-05",
-     "endDate": "2025-08-05",
-     "description": "享受海風輕拂與現場音樂演出，搭配特製海洋風味調酒，打造難忘的夜晚！",
-     "imagesUrl": [
-       "https://example.com/event13_img1.jpg",
-       "https://example.com/event13_img2.jpg"
-     ]
-   },
-   {
-     "id": 14,
-     "barId": 14,
-     "name": "世界盃足球之夜",
-     "tags": ["彰化縣", "世足賽"],
-     "area": "彰化縣",
-     "address": "彰化縣彰化市體育路101號",
-     "phone": "04-7523-6789",
-     "themes": ["世足賽", "其他"],
-     "startDate": "2025-07-14",
-     "endDate": "2025-07-14",
-     "description": "與全球球迷同步觀看世界盃決賽，享受啤酒與足球的熱血激情！",
-     "imagesUrl": [
-       "https://example.com/event14_img1.jpg",
-       "https://example.com/event14_img2.jpg"
-     ]
-   },
-   {
-     "id": 15,
-     "barId": 15,
-     "name": "墾丁沙灘派對",
-     "tags": ["屏東縣", "其他"],
-     "area": "屏東縣",
-     "address": "屏東縣恆春鎮墾丁大道99號",
-     "phone": "08-8889-5678",
-     "themes": ["其他"],
-     "startDate": "2025-07-20",
-     "endDate": "2025-07-20",
-     "description": "海灘、雞尾酒、DJ 音樂！與朋友一起迎接最嗨的南國之夜！",
-     "imagesUrl": [
-       "https://example.com/event15_img1.jpg",
-       "https://example.com/event15_img2.jpg"
-     ]
-   },
-   {
-     "id": 16,
-     "barId": 1,
-     "name": "桌遊對決之夜",
-     "tags": ["台南市", "桌遊競賽"],
-     "area": "台南市",
-     "address": "台南市安南區遊戲館22號",
-     "phone": "06-7890-1234",
-     "themes": ["桌遊競賽", "其他"],
-     "startDate": "2025-06-10",
-     "endDate": "2025-06-10",
-     "description": "挑戰桌遊界最強對手，贏家將獲得豐厚獎品！",
-     "imagesUrl": [
-       "https://example.com/event16_img1.jpg",
-       "https://example.com/event16_img2.jpg"
-     ]
-   },
-   {
-     "id": 17,
-     "barId": 2,
-     "name": "浪漫情人節調酒夜",
-     "tags": ["桃園市", "情人節"],
-     "area": "桃園市",
-     "address": "桃園市中壢區戀人巷55號",
-     "phone": "03-8901-2345",
-     "themes": ["情人節", "歌手表演"],
-     "startDate": "2025-02-14",
-     "endDate": "2025-02-14",
-     "description": "親手為你的愛人調製一杯專屬於你們的雞尾酒，享受現場浪漫音樂。",
-     "imagesUrl": [
-       "https://example.com/event17_img1.jpg",
-       "https://example.com/event17_img2.jpg"
-     ]
-   },
-   {
-     "id": 18,
-     "barId": 8,
-     "name": "萬聖節恐怖之夜",
-     "tags": ["南投縣", "萬聖節"],
-     "area": "南投縣",
-     "address": "南投縣魚池鄉鬼屋巷88號",
-     "phone": "049-7890-3456",
-     "themes": ["萬聖節", "其他"],
-     "startDate": "2025-10-31",
-     "endDate": "2025-10-31",
-     "description": "來場驚悚的鬼屋探險，特製萬聖節驚悚調酒等你來挑戰！",
-     "imagesUrl": [
-       "https://example.com/event18_img1.jpg",
-       "https://example.com/event18_img2.jpg"
-     ]
-   },
-   {
-     "id": 19,
-     "barId": 9,
-     "name": "聯誼遊戲派對",
-     "tags": ["台北市", "聯誼遊戲"],
-     "area": "台北市",
-     "address": "台北市士林區戀愛路66號",
-     "phone": "02-1234-5678",
-     "themes": ["聯誼遊戲", "其他"],
-     "startDate": "2025-09-18",
-     "endDate": "2025-09-18",
-     "description": "單身的你還在等什麼？來場輕鬆愉快的聯誼遊戲，認識新朋友！",
-     "imagesUrl": [
-       "https://example.com/event19_img1.jpg",
-       "https://example.com/event19_img2.jpg"
-     ]
-   },
-   {
-     "id": 20,
-     "barId": 12,
-     "name": "電音狂潮之夜",
-     "tags": ["新北市", "歌手表演"],
-     "area": "新北市",
-     "address": "新北市板橋區潮流大道88號",
-     "phone": "02-9876-5432",
-     "themes": ["歌手表演", "跨年夜"],
-     "startDate": "2025-07-22",
-     "endDate": "2025-07-22",
-     "description": "電音與舞池完美結合，來場極致的夜晚派對！超強 DJ 陣容搭配雷射燈光秀，讓你嗨翻整夜！",
-     "imagesUrl": [
-       "https://example.com/event20_img1.jpg",
-       "https://example.com/event20_img2.jpg"
-     ]
-   }
- ],
- "users": [
+    "id": 1,
+      "barId": 1,
+      "name": "夏日海灘派對",
+      "tags": ["台北市", "其他"],
+      "area": "台北市",
+      "address": "台北市信義區海灘大道88號",
+    "phone": "02-1234-5678",
+      "themes": ["其他"],
+      "startDate": "2025-07-15",
+      "endDate": "2025-07-15",
+    "description": "來場海灘狂歡夜，享受音樂、雞尾酒與沙灘的完美結合！",
+      "imagesUrl": [
+        "https://example.com/event1_img1.jpg",
+      "https://example.com/event1_img2.jpg"
+      ]
+    },
+     {
+       "id": 2,
+       "barId": 2,
+       "name": "萬聖節變裝夜",
+       "tags": ["台中市", "萬聖節"],
+       "area": "台中市",
+       "address": "台中市西屯區神秘巷弄66號",
+       "phone": "04-8765-4321",
+       "themes": ["萬聖節"],
+       "startDate": "2025-10-31",
+       "endDate": "2025-10-31",
+       "description": "穿上你的最狂裝扮，參加一年一度的萬聖節驚悚之夜！",
+       "imagesUrl": [
+         "https://example.com/event2_img1.jpg",
+         "https://example.com/event2_img2.jpg"
+       ]
+     },
+     {
+       "id": 3,
+       "barId": 3,
+       "name": "聖誕夜微醺",
+       "tags": ["新竹市", "聖誕節"],
+       "area": "新竹市",
+       "address": "新竹市北區雪松路45號",
+       "phone": "03-2345-6789",
+       "themes": ["聖誕節"],
+       "startDate": "2025-12-24",
+       "endDate": "2025-12-25",
+       "description": "聖誕燈飾、特製熱紅酒、溫馨夜晚，這是一場不能錯過的微醺聖誕！",
+       "imagesUrl": [
+         "https://example.com/event3_img1.jpg",
+         "https://example.com/event3_img2.jpg"
+       ]
+     },
+     {
+       "id": 4,
+       "barId": 4,
+       "name": "世界盃足球夜",
+       "tags": ["高雄市", "世足賽"],
+       "area": "高雄市",
+       "address": "高雄市苓雅區運動路101號",
+       "phone": "07-3456-7890",
+       "themes": ["世足賽"],
+       "startDate": "2025-07-20",
+       "endDate": "2025-07-20",
+       "description": "與球迷一起為你的隊伍加油，享受啤酒與足球的完美夜晚！",
+       "imagesUrl": [
+         "https://example.com/event4_img1.jpg",
+         "https://example.com/event4_img2.jpg"
+       ]
+     },
+     {
+       "id": 5,
+       "barId": 5,
+       "name": "情人節雙人特調",
+       "tags": ["台南市", "情人節"],
+       "area": "台南市",
+       "address": "台南市安平區愛情路77號",
+       "phone": "06-4567-8901",
+       "themes": ["情人節"],
+       "startDate": "2025-02-14",
+       "endDate": "2025-02-14",
+       "description": "與心愛的人一起學習調酒，創造專屬於你們的愛情特調！",
+       "imagesUrl": [
+         "https://example.com/event5_img1.jpg",
+         "https://example.com/event5_img2.jpg"
+       ]
+     },
+     {
+       "id": 6,
+       "barId": 6,
+       "name": "跨年煙火狂歡",
+       "tags": ["台北市", "跨年夜"],
+       "area": "台北市",
+       "address": "台北市大安區信義路99號",
+       "phone": "02-5678-1234",
+       "themes": ["跨年夜"],
+       "startDate": "2025-12-31",
+       "endDate": "2026-01-01",
+       "description": "一場盛大的跨年煙火派對，現場音樂表演與免費香檳倒數迎新年！",
+       "imagesUrl": [
+         "https://example.com/event6_img1.jpg",
+         "https://example.com/event6_img2.jpg"
+       ]
+     },
+     {
+       "id": 7,
+       "barId": 7,
+       "name": "情人節微光晚宴",
+       "tags": ["桃園市", "情人節"],
+       "area": "桃園市",
+       "address": "桃園市中壢區愛情大道55號",
+       "phone": "03-6789-2345",
+       "themes": ["情人節"],
+       "startDate": "2025-02-14",
+       "endDate": "2025-02-14",
+       "description": "燭光晚餐搭配現場小提琴演奏，讓你的情人節充滿浪漫氛圍！",
+       "imagesUrl": [
+         "https://example.com/event7_img1.jpg",
+         "https://example.com/event7_img2.jpg"
+       ]
+     },
+     {
+       "id": 8,
+       "barId": 8,
+       "name": "搖滾之夜",
+       "tags": ["台中市", "歌手表演"],
+       "area": "台中市",
+       "address": "台中市西區音樂街77號",
+       "phone": "04-7890-3456",
+       "themes": ["歌手表演"],
+       "startDate": "2025-06-20",
+       "endDate": "2025-06-20",
+       "description": "搖滾樂隊現場演出，感受震撼音浪與極致音樂熱情！",
+       "imagesUrl": [
+         "https://example.com/event8_img1.jpg",
+         "https://example.com/event8_img2.jpg"
+       ]
+     },
+     {
+       "id": 9,
+       "barId": 9,
+       "name": "調酒師大賽",
+       "tags": ["新竹市", "其他"],
+       "area": "新竹市",
+       "address": "新竹市東區酒吧街88號",
+       "phone": "03-8901-4567",
+       "themes": ["其他"],
+       "startDate": "2025-09-10",
+       "endDate": "2025-09-10",
+       "description": "全台最厲害的調酒師同台競技，品嚐創意雞尾酒！",
+       "imagesUrl": [
+         "https://example.com/event9_img1.jpg",
+         "https://example.com/event9_img2.jpg"
+       ]
+     },
+     {
+       "id": 10,
+       "barId": 10,
+       "name": "復古迪斯可夜",
+       "tags": ["台南市", "歌手表演"],
+       "area": "台南市",
+       "address": "台南市永康區舞廳路66號",
+       "phone": "06-9012-5678",
+       "themes": ["歌手表演", "其他"],
+       "startDate": "2025-08-15",
+       "endDate": "2025-08-15",
+       "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！DJ現場混音，帶你重返80 年代的經典時光。",
+       "imagesUrl": [
+         "https://example.com/event10_img1.jpg",
+         "https://example.com/event10_img2.jpg"
+       ]
+     },
+     {
+       "id": 11,
+       "barId": 11,
+       "name": "復古迪斯可夜",
+       "tags": ["台南市", "歌手表演"],
+       "area": "台南市",
+       "address": "台南市永康區舞廳路66號",
+       "phone": "06-9012-5678",
+       "themes": ["歌手表演", "其他"],
+       "startDate": "2025-08-15",
+       "endDate": "2025-08-15",
+       "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！",
+       "imagesUrl": [
+         "https://example.com/event11_img1.jpg",
+         "https://example.com/event11_img2.jpg"
+       ]
+     },
+     {
+       "id": 12,
+       "barId": 12,
+       "name": "深夜狼人殺",
+       "tags": ["高雄市", "桌遊競賽"],
+       "area": "高雄市",
+       "address": "高雄市鼓山區遊戲街99號",
+       "phone": "07-1234-6789",
+       "themes": ["桌遊競賽"],
+       "startDate": "2025-09-25",
+       "endDate": "2025-09-25",
+       "description": "午夜的狼人正在出沒，來一場驚心動魄的邏輯對決！",
+       "imagesUrl": [
+         "https://example.com/event12_img1.jpg",
+         "https://example.com/event12_img2.jpg"
+       ]
+     },
+     {
+       "id": 13,
+       "barId": 13,
+       "name": "基隆港夜景音樂會",
+       "tags": ["基隆市", "歌手表演"],
+       "area": "基隆市",
+       "address": "基隆市仁愛區港灣路10號",
+       "phone": "02-2468-1357",
+       "themes": ["歌手表演", "其他"],
+       "startDate": "2025-08-05",
+       "endDate": "2025-08-05",
+       "description": "享受海風輕拂與現場音樂演出，搭配特製海洋風味調酒，打造難忘的夜晚！",
+       "imagesUrl": [
+         "https://example.com/event13_img1.jpg",
+         "https://example.com/event13_img2.jpg"
+       ]
+     },
+     {
+       "id": 14,
+       "barId": 14,
+       "name": "世界盃足球之夜",
+       "tags": ["彰化縣", "世足賽"],
+       "area": "彰化縣",
+       "address": "彰化縣彰化市體育路101號",
+       "phone": "04-7523-6789",
+       "themes": ["世足賽", "其他"],
+       "startDate": "2025-07-14",
+       "endDate": "2025-07-14",
+       "description": "與全球球迷同步觀看世界盃決賽，享受啤酒與足球的熱血激情！",
+       "imagesUrl": [
+         "https://example.com/event14_img1.jpg",
+         "https://example.com/event14_img2.jpg"
+       ]
+     },
+     {
+       "id": 15,
+       "barId": 15,
+       "name": "墾丁沙灘派對",
+       "tags": ["屏東縣", "其他"],
+       "area": "屏東縣",
+       "address": "屏東縣恆春鎮墾丁大道99號",
+       "phone": "08-8889-5678",
+       "themes": ["其他"],
+       "startDate": "2025-07-20",
+       "endDate": "2025-07-20",
+       "description": "海灘、雞尾酒、DJ 音樂！與朋友一起迎接最嗨的南國之夜！",
+       "imagesUrl": [
+         "https://example.com/event15_img1.jpg",
+         "https://example.com/event15_img2.jpg"
+       ]
+     },
+     {
+       "id": 16,
+       "barId": 1,
+       "name": "桌遊對決之夜",
+       "tags": ["台南市", "桌遊競賽"],
+       "area": "台南市",
+       "address": "台南市安南區遊戲館22號",
+       "phone": "06-7890-1234",
+       "themes": ["桌遊競賽", "其他"],
+       "startDate": "2025-06-10",
+       "endDate": "2025-06-10",
+       "description": "挑戰桌遊界最強對手，贏家將獲得豐厚獎品！",
+       "imagesUrl": [
+         "https://example.com/event16_img1.jpg",
+         "https://example.com/event16_img2.jpg"
+       ]
+     },
+     {
+       "id": 17,
+       "barId": 2,
+       "name": "浪漫情人節調酒夜",
+       "tags": ["桃園市", "情人節"],
+       "area": "桃園市",
+       "address": "桃園市中壢區戀人巷55號",
+       "phone": "03-8901-2345",
+       "themes": ["情人節", "歌手表演"],
+       "startDate": "2025-02-14",
+       "endDate": "2025-02-14",
+       "description": "親手為你的愛人調製一杯專屬於你們的雞尾酒，享受現場浪漫音樂。",
+       "imagesUrl": [
+         "https://example.com/event17_img1.jpg",
+         "https://example.com/event17_img2.jpg"
+       ]
+     },
+     {
+       "id": 18,
+       "barId": 8,
+       "name": "萬聖節恐怖之夜",
+       "tags": ["南投縣", "萬聖節"],
+       "area": "南投縣",
+       "address": "南投縣魚池鄉鬼屋巷88號",
+       "phone": "049-7890-3456",
+       "themes": ["萬聖節", "其他"],
+       "startDate": "2025-10-31",
+       "endDate": "2025-10-31",
+       "description": "來場驚悚的鬼屋探險，特製萬聖節驚悚調酒等你來挑戰！",
+       "imagesUrl": [
+         "https://example.com/event18_img1.jpg",
+         "https://example.com/event18_img2.jpg"
+       ]
+     },
+     {
+       "id": 19,
+       "barId": 9,
+       "name": "聯誼遊戲派對",
+       "tags": ["台北市", "聯誼遊戲"],
+       "area": "台北市",
+       "address": "台北市士林區戀愛路66號",
+       "phone": "02-1234-5678",
+       "themes": ["聯誼遊戲", "其他"],
+       "startDate": "2025-09-18",
+       "endDate": "2025-09-18",
+       "description": "單身的你還在等什麼？來場輕鬆愉快的聯誼遊戲，認識新朋友！",
+       "imagesUrl": [
+         "https://example.com/event19_img1.jpg",
+         "https://example.com/event19_img2.jpg"
+       ]
+     },
+     {
+       "id": 20,
+       "barId": 12,
+       "name": "電音狂潮之夜",
+       "tags": ["新北市", "歌手表演"],
+       "area": "新北市",
+       "address": "新北市板橋區潮流大道88號",
+       "phone": "02-9876-5432",
+       "themes": ["歌手表演", "跨年夜"],
+       "startDate": "2025-07-22",
+       "endDate": "2025-07-22",
+       "description": "電音與舞池完美結合，來場極致的夜晚派對！超強 DJ 陣容搭配雷射燈光秀，讓你嗨翻整夜！",
+       "imagesUrl": [
+         "https://example.com/event20_img1.jpg",
+         "https://example.com/event20_img2.jpg"
+       ]
+     }
+    ],
+"users": [
   {
     "id": 101,
     "imagesUrl": "https://randomuser.me/api/portraits/men/21.jpg",
@@ -2247,5 +2560,5 @@
     "imagesUrl": "https://randomuser.me/api/portraits/women/43.jpg",
     "name": "Cindy Hsu"
   }
-]
+  ]
 }
