@@ -2237,12 +2237,12 @@
       "themes": [
         "其他"
       ],
-      "startDate": "2025-07-15",
-      "endDate": "2025-07-15",
+      "startDate": "2025-07-03",
+      "endDate": "2025-08-18",
       "description": "來場海灘狂歡夜，享受音樂、雞尾酒與沙灘的完美結合！",
       "imagesUrl": [
-        "https://example.com/event1_img1.jpg",
-        "https://example.com/event1_img2.jpg"
+        "https://images.unsplash.com/photo-1546484458-6904289cd4f0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1546484488-2a1430996887?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2263,8 +2263,8 @@
       "endDate": "2025-10-31",
       "description": "穿上你的最狂裝扮，參加一年一度的萬聖節驚悚之夜！",
       "imagesUrl": [
-        "https://example.com/event2_img1.jpg",
-        "https://example.com/event2_img2.jpg"
+        "https://images.unsplash.com/photo-1636442021109-e93bf88357d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1701262580152-001da5515afa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2285,8 +2285,8 @@
       "endDate": "2025-12-25",
       "description": "聖誕燈飾、特製熱紅酒、溫馨夜晚，這是一場不能錯過的微醺聖誕！",
       "imagesUrl": [
-        "https://example.com/event3_img1.jpg",
-        "https://example.com/event3_img2.jpg"
+        "https://images.unsplash.com/photo-1601118964938-228a89955311?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1605744435823-b88e4e9bc044?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2303,12 +2303,12 @@
       "themes": [
         "世足賽"
       ],
-      "startDate": "2025-07-20",
-      "endDate": "2025-07-20",
+      "startDate": "2025-06-20",
+      "endDate": "2025-07-25",
       "description": "與球迷一起為你的隊伍加油，享受啤酒與足球的完美夜晚！",
       "imagesUrl": [
-        "https://example.com/event4_img1.jpg",
-        "https://example.com/event4_img2.jpg"
+        "https://images.unsplash.com/photo-1671368913134-c211bc02487f?q=80&w=1998&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1625006981702-ef37d4eda8b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2329,8 +2329,8 @@
       "endDate": "2025-02-14",
       "description": "與心愛的人一起學習調酒，創造專屬於你們的愛情特調！",
       "imagesUrl": [
-        "https://example.com/event5_img1.jpg",
-        "https://example.com/event5_img2.jpg"
+        "https://images.unsplash.com/photo-1671116810473-ba453ea6d6c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1671116809653-21fbd5078a5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2351,8 +2351,8 @@
       "endDate": "2026-01-01",
       "description": "一場盛大的跨年煙火派對，現場音樂表演與免費香檳倒數迎新年！",
       "imagesUrl": [
-        "https://example.com/event6_img1.jpg",
-        "https://example.com/event6_img2.jpg"
+        "https://images.unsplash.com/photo-1535379665706-aea78de84a41?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1643186921363-d9fb2191f798?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2369,12 +2369,12 @@
       "themes": [
         "情人節"
       ],
-      "startDate": "2025-02-14",
+      "startDate": "2025-02-07",
       "endDate": "2025-02-14",
       "description": "燭光晚餐搭配現場小提琴演奏，讓你的情人節充滿浪漫氛圍！",
       "imagesUrl": [
-        "https://example.com/event7_img1.jpg",
-        "https://example.com/event7_img2.jpg"
+        "https://images.unsplash.com/photo-1579999962881-30d3cbcbbc28?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1608538242779-113f7b19baa1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2391,12 +2391,12 @@
       "themes": [
         "歌手表演"
       ],
-      "startDate": "2025-06-20",
-      "endDate": "2025-06-20",
+      "startDate": "2025-05-20",
+      "endDate": "2025-06-26",
       "description": "搖滾樂隊現場演出，感受震撼音浪與極致音樂熱情！",
       "imagesUrl": [
-        "https://example.com/event8_img1.jpg",
-        "https://example.com/event8_img2.jpg"
+        "https://images.unsplash.com/photo-1667617103558-dabb9d81ddcd?q=80&w=1956&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1640680406508-6da20a3338b6?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2413,35 +2413,36 @@
       "themes": [
         "其他"
       ],
-      "startDate": "2025-09-10",
-      "endDate": "2025-09-10",
+      "startDate": "2025-01-10",
+      "endDate": "2025-09-23",
       "description": "全台最厲害的調酒師同台競技，品嚐創意雞尾酒！",
       "imagesUrl": [
-        "https://example.com/event9_img1.jpg",
-        "https://example.com/event9_img2.jpg"
+        "https://images.unsplash.com/photo-1722537049087-88b6a257dd32?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1627962738328-93e0c6f2db57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
       "id": 10,
       "barId": 10,
-      "name": "復古迪斯可夜",
+      "name": "部落之夜・音樂與傳統的交會",
       "tags": [
-        "台南市",
+        "花蓮縣",
+        "原住民",
+        "音樂"
+      ],
+      "area": "花蓮縣",
+      "address": "花蓮縣吉安鄉文化路88號",
+      "phone": "03-8123-4567",
+      "themes": [
+        "原住民",
         "歌手表演"
       ],
-      "area": "台南市",
-      "address": "台南市永康區舞廳路66號",
-      "phone": "06-9012-5678",
-      "themes": [
-        "歌手表演",
-        "其他"
-      ],
-      "startDate": "2025-08-15",
-      "endDate": "2025-08-15",
-      "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！DJ現場混音，帶你重返80 年代的經典時光。",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-28",
+      "description": "邀請原住民歌手與舞者共聚花蓮，共同享受原音重現與部落文化的精彩夜晚。傳統服飾、在地風味調酒、族語音樂交織出獨一無二的派對氛圍。",
       "imagesUrl": [
-        "https://example.com/event10_img1.jpg",
-        "https://example.com/event10_img2.jpg"
+        "https://images.unsplash.com/photo-1564883585098-a673507f49a0?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1735891969992-1256311f791a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2459,12 +2460,12 @@
         "歌手表演",
         "其他"
       ],
-      "startDate": "2025-08-15",
-      "endDate": "2025-08-15",
+      "startDate": "2025-08-02",
+      "endDate": "2025-09-15",
       "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！",
       "imagesUrl": [
-        "https://example.com/event11_img1.jpg",
-        "https://example.com/event11_img2.jpg"
+        "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1627020730793-2ccb5cd55e99?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2482,11 +2483,11 @@
         "桌遊競賽"
       ],
       "startDate": "2025-09-25",
-      "endDate": "2025-09-25",
+      "endDate": "2025-10-10",
       "description": "午夜的狼人正在出沒，來一場驚心動魄的邏輯對決！",
       "imagesUrl": [
-        "https://example.com/event12_img1.jpg",
-        "https://example.com/event12_img2.jpg"
+        "https://images.unsplash.com/photo-1676385795382-b29240c98fde?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1676984937691-4262ab195e17?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2505,11 +2506,11 @@
         "其他"
       ],
       "startDate": "2025-08-05",
-      "endDate": "2025-08-05",
+      "endDate": "2025-09-06",
       "description": "享受海風輕拂與現場音樂演出，搭配特製海洋風味調酒，打造難忘的夜晚！",
       "imagesUrl": [
-        "https://example.com/event13_img1.jpg",
-        "https://example.com/event13_img2.jpg"
+        "https://images.unsplash.com/photo-1559582759-e86a26070265?q=80&w=2007&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1580964104364-75c8ab6c8356?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2528,11 +2529,11 @@
         "其他"
       ],
       "startDate": "2025-07-14",
-      "endDate": "2025-07-14",
+      "endDate": "2025-11-14",
       "description": "與全球球迷同步觀看世界盃決賽，享受啤酒與足球的熱血激情！",
       "imagesUrl": [
-        "https://example.com/event14_img1.jpg",
-        "https://example.com/event14_img2.jpg"
+        "https://images.unsplash.com/photo-1727334291228-188f30b43f1f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1625006981702-ef37d4eda8b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2550,11 +2551,11 @@
         "其他"
       ],
       "startDate": "2025-07-20",
-      "endDate": "2025-07-20",
+      "endDate": "2025-08-12",
       "description": "海灘、雞尾酒、DJ 音樂！與朋友一起迎接最嗨的南國之夜！",
       "imagesUrl": [
-        "https://example.com/event15_img1.jpg",
-        "https://example.com/event15_img2.jpg"
+        "https://images.unsplash.com/photo-1707699164633-0e584b2da329?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1720363901423-60651bc3af5c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2573,11 +2574,11 @@
         "其他"
       ],
       "startDate": "2025-06-10",
-      "endDate": "2025-06-10",
+      "endDate": "2025-08-20",
       "description": "挑戰桌遊界最強對手，贏家將獲得豐厚獎品！",
       "imagesUrl": [
-        "https://example.com/event16_img1.jpg",
-        "https://example.com/event16_img2.jpg"
+        "https://images.unsplash.com/photo-1699730162391-142c6c174f26?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1609818698346-8cb3be6e0bc0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2599,8 +2600,8 @@
       "endDate": "2025-02-14",
       "description": "親手為你的愛人調製一杯專屬於你們的雞尾酒，享受現場浪漫音樂。",
       "imagesUrl": [
-        "https://example.com/event17_img1.jpg",
-        "https://example.com/event17_img2.jpg"
+        "https://images.unsplash.com/photo-1649635838811-4d5c8acb4899?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1518563795073-6b72265ad862?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2622,8 +2623,8 @@
       "endDate": "2025-10-31",
       "description": "來場驚悚的鬼屋探險，特製萬聖節驚悚調酒等你來挑戰！",
       "imagesUrl": [
-        "https://example.com/event18_img1.jpg",
-        "https://example.com/event18_img2.jpg"
+        "https://images.unsplash.com/photo-1730125708479-e1a7a74d0335?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1573306522240-15658094d2e1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2642,11 +2643,11 @@
         "其他"
       ],
       "startDate": "2025-09-18",
-      "endDate": "2025-09-18",
+      "endDate": "2025-12-05",
       "description": "單身的你還在等什麼？來場輕鬆愉快的聯誼遊戲，認識新朋友！",
       "imagesUrl": [
-        "https://example.com/event19_img1.jpg",
-        "https://example.com/event19_img2.jpg"
+        "https://images.unsplash.com/photo-1490576198307-6ff97609a0cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1608405133123-aa9791eb7eca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2664,12 +2665,12 @@
         "歌手表演",
         "跨年夜"
       ],
-      "startDate": "2025-07-22",
-      "endDate": "2025-07-22",
+      "startDate": "2025-02-22",
+      "endDate": "2025-07-19",
       "description": "電音與舞池完美結合，來場極致的夜晚派對！超強 DJ 陣容搭配雷射燈光秀，讓你嗨翻整夜！",
       "imagesUrl": [
-        "https://example.com/event20_img1.jpg",
-        "https://example.com/event20_img2.jpg"
+        "https://images.unsplash.com/photo-1696992722580-2eb485292363?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1680715901117-e1ec7be0e132?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     }
   ],
