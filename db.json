@@ -2237,12 +2237,12 @@
       "themes": [
         "其他"
       ],
-      "startDate": "2025-07-15",
-      "endDate": "2025-07-15",
+      "startDate": "2025-07-03",
+      "endDate": "2025-08-18",
       "description": "來場海灘狂歡夜，享受音樂、雞尾酒與沙灘的完美結合！",
       "imagesUrl": [
-        "https://example.com/event1_img1.jpg",
-        "https://example.com/event1_img2.jpg"
+        "https://images.unsplash.com/photo-1546484458-6904289cd4f0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1546484488-2a1430996887?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2263,8 +2263,8 @@
       "endDate": "2025-10-31",
       "description": "穿上你的最狂裝扮，參加一年一度的萬聖節驚悚之夜！",
       "imagesUrl": [
-        "https://example.com/event2_img1.jpg",
-        "https://example.com/event2_img2.jpg"
+        "https://images.unsplash.com/photo-1636442021109-e93bf88357d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1701262580152-001da5515afa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2285,8 +2285,8 @@
       "endDate": "2025-12-25",
       "description": "聖誕燈飾、特製熱紅酒、溫馨夜晚，這是一場不能錯過的微醺聖誕！",
       "imagesUrl": [
-        "https://example.com/event3_img1.jpg",
-        "https://example.com/event3_img2.jpg"
+        "https://images.unsplash.com/photo-1601118964938-228a89955311?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1605744435823-b88e4e9bc044?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2303,12 +2303,12 @@
       "themes": [
         "世足賽"
       ],
-      "startDate": "2025-07-20",
-      "endDate": "2025-07-20",
+      "startDate": "2025-06-20",
+      "endDate": "2025-07-25",
       "description": "與球迷一起為你的隊伍加油，享受啤酒與足球的完美夜晚！",
       "imagesUrl": [
-        "https://example.com/event4_img1.jpg",
-        "https://example.com/event4_img2.jpg"
+        "https://images.unsplash.com/photo-1671368913134-c211bc02487f?q=80&w=1998&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1625006981702-ef37d4eda8b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2329,8 +2329,8 @@
       "endDate": "2025-02-14",
       "description": "與心愛的人一起學習調酒，創造專屬於你們的愛情特調！",
       "imagesUrl": [
-        "https://example.com/event5_img1.jpg",
-        "https://example.com/event5_img2.jpg"
+        "https://images.unsplash.com/photo-1671116810473-ba453ea6d6c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1671116809653-21fbd5078a5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2351,8 +2351,8 @@
       "endDate": "2026-01-01",
       "description": "一場盛大的跨年煙火派對，現場音樂表演與免費香檳倒數迎新年！",
       "imagesUrl": [
-        "https://example.com/event6_img1.jpg",
-        "https://example.com/event6_img2.jpg"
+        "https://images.unsplash.com/photo-1535379665706-aea78de84a41?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1643186921363-d9fb2191f798?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2369,12 +2369,12 @@
       "themes": [
         "情人節"
       ],
-      "startDate": "2025-02-14",
+      "startDate": "2025-02-07",
       "endDate": "2025-02-14",
       "description": "燭光晚餐搭配現場小提琴演奏，讓你的情人節充滿浪漫氛圍！",
       "imagesUrl": [
-        "https://example.com/event7_img1.jpg",
-        "https://example.com/event7_img2.jpg"
+        "https://images.unsplash.com/photo-1579999962881-30d3cbcbbc28?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1608538242779-113f7b19baa1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2391,12 +2391,12 @@
       "themes": [
         "歌手表演"
       ],
-      "startDate": "2025-06-20",
-      "endDate": "2025-06-20",
+      "startDate": "2025-05-20",
+      "endDate": "2025-06-26",
       "description": "搖滾樂隊現場演出，感受震撼音浪與極致音樂熱情！",
       "imagesUrl": [
-        "https://example.com/event8_img1.jpg",
-        "https://example.com/event8_img2.jpg"
+        "https://images.unsplash.com/photo-1667617103558-dabb9d81ddcd?q=80&w=1956&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1640680406508-6da20a3338b6?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2413,35 +2413,36 @@
       "themes": [
         "其他"
       ],
-      "startDate": "2025-09-10",
-      "endDate": "2025-09-10",
+      "startDate": "2025-01-10",
+      "endDate": "2025-09-23",
       "description": "全台最厲害的調酒師同台競技，品嚐創意雞尾酒！",
       "imagesUrl": [
-        "https://example.com/event9_img1.jpg",
-        "https://example.com/event9_img2.jpg"
+        "https://images.unsplash.com/photo-1722537049087-88b6a257dd32?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1627962738328-93e0c6f2db57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
       "id": 10,
       "barId": 10,
-      "name": "復古迪斯可夜",
+      "name": "部落之夜・音樂與傳統的交會",
       "tags": [
-        "台南市",
+        "花蓮縣",
+        "原住民",
+        "音樂"
+      ],
+      "area": "花蓮縣",
+      "address": "花蓮縣吉安鄉文化路88號",
+      "phone": "03-8123-4567",
+      "themes": [
+        "原住民",
         "歌手表演"
       ],
-      "area": "台南市",
-      "address": "台南市永康區舞廳路66號",
-      "phone": "06-9012-5678",
-      "themes": [
-        "歌手表演",
-        "其他"
-      ],
-      "startDate": "2025-08-15",
-      "endDate": "2025-08-15",
-      "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！DJ現場混音，帶你重返80 年代的經典時光。",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-28",
+      "description": "邀請原住民歌手與舞者共聚花蓮，共同享受原音重現與部落文化的精彩夜晚。傳統服飾、在地風味調酒、族語音樂交織出獨一無二的派對氛圍。",
       "imagesUrl": [
-        "https://example.com/event10_img1.jpg",
-        "https://example.com/event10_img2.jpg"
+        "https://images.unsplash.com/photo-1564883585098-a673507f49a0?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1735891969992-1256311f791a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2459,12 +2460,12 @@
         "歌手表演",
         "其他"
       ],
-      "startDate": "2025-08-15",
-      "endDate": "2025-08-15",
+      "startDate": "2025-08-02",
+      "endDate": "2025-09-15",
       "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！",
       "imagesUrl": [
-        "https://example.com/event11_img1.jpg",
-        "https://example.com/event11_img2.jpg"
+        "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1627020730793-2ccb5cd55e99?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2482,11 +2483,11 @@
         "桌遊競賽"
       ],
       "startDate": "2025-09-25",
-      "endDate": "2025-09-25",
+      "endDate": "2025-10-10",
       "description": "午夜的狼人正在出沒，來一場驚心動魄的邏輯對決！",
       "imagesUrl": [
-        "https://example.com/event12_img1.jpg",
-        "https://example.com/event12_img2.jpg"
+        "https://images.unsplash.com/photo-1676385795382-b29240c98fde?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1676984937691-4262ab195e17?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2505,11 +2506,11 @@
         "其他"
       ],
       "startDate": "2025-08-05",
-      "endDate": "2025-08-05",
+      "endDate": "2025-09-06",
       "description": "享受海風輕拂與現場音樂演出，搭配特製海洋風味調酒，打造難忘的夜晚！",
       "imagesUrl": [
-        "https://example.com/event13_img1.jpg",
-        "https://example.com/event13_img2.jpg"
+        "https://images.unsplash.com/photo-1559582759-e86a26070265?q=80&w=2007&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1580964104364-75c8ab6c8356?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2528,11 +2529,11 @@
         "其他"
       ],
       "startDate": "2025-07-14",
-      "endDate": "2025-07-14",
+      "endDate": "2025-11-14",
       "description": "與全球球迷同步觀看世界盃決賽，享受啤酒與足球的熱血激情！",
       "imagesUrl": [
-        "https://example.com/event14_img1.jpg",
-        "https://example.com/event14_img2.jpg"
+        "https://images.unsplash.com/photo-1727334291228-188f30b43f1f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1625006981702-ef37d4eda8b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2550,11 +2551,11 @@
         "其他"
       ],
       "startDate": "2025-07-20",
-      "endDate": "2025-07-20",
+      "endDate": "2025-08-12",
       "description": "海灘、雞尾酒、DJ 音樂！與朋友一起迎接最嗨的南國之夜！",
       "imagesUrl": [
-        "https://example.com/event15_img1.jpg",
-        "https://example.com/event15_img2.jpg"
+        "https://images.unsplash.com/photo-1707699164633-0e584b2da329?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1720363901423-60651bc3af5c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2573,11 +2574,11 @@
         "其他"
       ],
       "startDate": "2025-06-10",
-      "endDate": "2025-06-10",
+      "endDate": "2025-08-20",
       "description": "挑戰桌遊界最強對手，贏家將獲得豐厚獎品！",
       "imagesUrl": [
-        "https://example.com/event16_img1.jpg",
-        "https://example.com/event16_img2.jpg"
+        "https://images.unsplash.com/photo-1699730162391-142c6c174f26?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1609818698346-8cb3be6e0bc0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2599,8 +2600,8 @@
       "endDate": "2025-02-14",
       "description": "親手為你的愛人調製一杯專屬於你們的雞尾酒，享受現場浪漫音樂。",
       "imagesUrl": [
-        "https://example.com/event17_img1.jpg",
-        "https://example.com/event17_img2.jpg"
+        "https://images.unsplash.com/photo-1649635838811-4d5c8acb4899?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1518563795073-6b72265ad862?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2622,8 +2623,8 @@
       "endDate": "2025-10-31",
       "description": "來場驚悚的鬼屋探險，特製萬聖節驚悚調酒等你來挑戰！",
       "imagesUrl": [
-        "https://example.com/event18_img1.jpg",
-        "https://example.com/event18_img2.jpg"
+        "https://images.unsplash.com/photo-1730125708479-e1a7a74d0335?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1573306522240-15658094d2e1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2642,11 +2643,11 @@
         "其他"
       ],
       "startDate": "2025-09-18",
-      "endDate": "2025-09-18",
+      "endDate": "2025-12-05",
       "description": "單身的你還在等什麼？來場輕鬆愉快的聯誼遊戲，認識新朋友！",
       "imagesUrl": [
-        "https://example.com/event19_img1.jpg",
-        "https://example.com/event19_img2.jpg"
+        "https://images.unsplash.com/photo-1490576198307-6ff97609a0cc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1608405133123-aa9791eb7eca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
@@ -2664,65 +2665,315 @@
         "歌手表演",
         "跨年夜"
       ],
-      "startDate": "2025-07-22",
-      "endDate": "2025-07-22",
+      "startDate": "2025-02-22",
+      "endDate": "2025-07-19",
       "description": "電音與舞池完美結合，來場極致的夜晚派對！超強 DJ 陣容搭配雷射燈光秀，讓你嗨翻整夜！",
       "imagesUrl": [
-        "https://example.com/event20_img1.jpg",
-        "https://example.com/event20_img2.jpg"
+        "https://images.unsplash.com/photo-1696992722580-2eb485292363?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1680715901117-e1ec7be0e132?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     }
   ],
   "users": [
     {
       "id": 1,
+      "nickname": "Alex Chen",
+      "email": "romerotravis@gmail.com",
+      "password": "$2a$10$7WRBTnHf/rs9qqxSn2Kgk.bjYxUv23W2PwiTGuOtiMDq74g/RIpo2",
       "imagesUrl": "https://randomuser.me/api/portraits/men/21.jpg",
-      "name": "Alex Chen"
+      "favorite_recipes": [1, 3, 4, 5, 8, 10, 11, 14, 15, 21],
+      "favorite_bars": [1, 2, 3, 4, 5, 8, 10, 14],
+      "like_recipes": [1, 4, 6, 13],
+      "like_bars": [1, 3, 7, 9, 14],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 2,
+      "nickname": "Lisa Wang",
+      "email": "stephaniebrown@yahoo.com.tw",
+      "password": "$2a$10$ALvSEY70JaG6al.thLW7MO87uE2Md6HqBBaiYr3luGdWQMhGyBMJ.",
       "imagesUrl": "https://randomuser.me/api/portraits/women/32.jpg",
-      "name": "Lisa Wang"
+      "favorite_recipes": [3, 4, 9, 17],
+      "favorite_bars": [3, 7, 8, 11, 12],
+      "like_recipes": [2, 5, 7, 14, 19],
+      "like_bars": [1, 8, 10, 13, 15],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 3,
+      "nickname": "Kevin Lin",
+      "email": "ryan39@gmail.com",
+      "password": "$2a$10$VYi0mQc2O9HLjetC4Vp3y.BR7Mx8KdA6mGqmfuCy.NPCGmAMM7V9C",
       "imagesUrl": "https://randomuser.me/api/portraits/men/45.jpg",
-      "name": "Kevin Lin"
+      "favorite_recipes": [2, 3, 7, 9, 10, 15, 16, 18, 20],
+      "favorite_bars": [1, 3, 5, 6, 8, 10, 11, 12, 13, 14],
+      "like_recipes": [1, 7, 13, 17],
+      "like_bars": [1, 14, 15],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 4,
+      "nickname": "Emily Wu",
+      "email": "richardallison@yahoo.com.tw",
+      "password": "$2a$10$SGKOyolUQr4TmEkYxsKyDO5dqBQFrp.R/cOWDWnLzltM9Uv4T8/jG",
       "imagesUrl": "https://randomuser.me/api/portraits/women/54.jpg",
-      "name": "Emily Wu"
+      "favorite_recipes": [1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 20, 22],
+      "favorite_bars": [1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14],
+      "like_recipes": [1, 9, 10],
+      "like_bars": [4, 5, 6, 7, 10, 15],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 5,
+      "nickname": "Daniel Yang",
+      "email": "zimmermanmichael@gmail.com",
+      "password": "$2a$10$2GIvTTs1w5BXdanMk6KwyON1f8tKw/ErBtoaTWXpq0gKQfY0lFD4e",
       "imagesUrl": "https://randomuser.me/api/portraits/men/67.jpg",
-      "name": "Daniel Yang"
+      "favorite_recipes": [2, 4, 6, 7, 8, 10, 11, 12, 13, 15, 16, 17, 18, 20],
+      "favorite_bars": [2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 15],
+      "like_recipes": [3, 6, 9, 13, 16, 17, 18, 20],
+      "like_bars": [1, 2, 6, 7, 8, 11],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 6,
+      "nickname": "Sophia Lee",
+      "email": "saundersdavid@gmail.com",
+      "password": "$2a$10$cJ25tJJ1pQPfMsozSqbc1eVgfAP/iETtqqsxkf8YZ8arswClV8jPS",
       "imagesUrl": "https://randomuser.me/api/portraits/women/12.jpg",
-      "name": "Sophia Lee"
+      "favorite_recipes": [2, 3, 4, 5, 6, 11, 13, 14, 15, 17],
+      "favorite_bars": [2, 4, 6, 7, 9, 10, 11, 13, 15],
+      "like_recipes": [3, 7, 9, 10],
+      "like_bars": [1, 3, 5, 9],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 7,
+      "nickname": "Jason Huang",
+      "email": "michael183@gmail.com",
+      "password": "$2a$10$73miGWuLjsQYAc7wt.VTc.i.VDdQPdGSBgW1vXCMCX.GzXki.bz/6",
       "imagesUrl": "https://randomuser.me/api/portraits/men/89.jpg",
-      "name": "Jason Huang"
+      "favorite_recipes": [2, 4, 5, 7, 9, 10, 11, 12, 16, 18, 19],
+      "favorite_bars": [2, 4, 6, 7, 9, 11, 12],
+      "like_recipes": [1, 3, 4, 5, 14],
+      "like_bars": [2, 5, 10, 14, 15],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 8,
+      "nickname": "Maggie Chang",
+      "email": "nelsongeorge@yahoo.com.tw",
+      "password": "$2a$10$0GmGEKQwGMKvimxTyXM2.OTIso9Ak4mn.n2hRyNz8H7fKoo6zeVm2",
       "imagesUrl": "https://randomuser.me/api/portraits/women/76.jpg",
-      "name": "Maggie Chang"
+      "favorite_recipes": [3, 5, 6, 7, 9, 12, 13, 14, 15, 17],
+      "favorite_bars": [1, 3, 5, 7, 10, 11, 13, 15],
+      "like_recipes": [2, 6, 10, 13],
+      "like_bars": [3, 6, 7, 13],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 9,
+      "nickname": "Eric Tsai",
+      "email": "alisonmiller@gmail.com",
+      "password": "$2a$10$iTRQP1jYdHF912UnXxkM1OriwMaNwG2qzy.21nqmC8kE8GexG3y7S",
       "imagesUrl": "https://randomuser.me/api/portraits/men/34.jpg",
-      "name": "Eric Tsai"
+      "favorite_recipes": [1, 3, 6, 8, 11, 13, 15, 16, 17],
+      "favorite_bars": [2, 4, 5, 8, 9, 10, 11, 15],
+      "like_recipes": [1, 3, 6, 7, 9],
+      "like_bars": [2, 3, 10, 11, 13],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
       "id": 10,
+      "nickname": "Cindy Hsu",
+      "email": "david62@yahoo.com.tw",
+      "password": "$2a$10$18I8gV9EnihxdaTTef7xJe60Lw52Pt41faKO4BeN3rjx.bOxttjHG",
       "imagesUrl": "https://randomuser.me/api/portraits/women/43.jpg",
-      "name": "Cindy Hsu"
-    }
+      "favorite_recipes": [1, 2, 4, 6, 7, 8, 10, 14, 17, 18, 20],
+      "favorite_bars": [1, 2, 4, 6, 8, 9, 13],
+      "like_recipes": [2, 3, 7, 10],
+      "like_bars": [5, 7, 8, 10],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 11,
+      "nickname": "David Anderson",
+      "email": "lucasschneider@yahoo.com.tw",
+      "password": "$2a$10$zT5MXQLlhBi9lJuX7RYOWuD9p/yyv64RhdFYFHFD7X2N6crMdOiSe",
+      "imagesUrl": "https://randomuser.me/api/portraits/men/8.jpg",
+      "favorite_recipes": [1, 2, 5, 7, 8, 9, 13, 14, 16],
+      "favorite_bars": [2, 5, 6, 7, 9, 11, 13],
+      "like_recipes": [1, 3, 6, 9],
+      "like_bars": [3, 5, 7, 9, 11, 14],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+		  "id": 12,
+		  "nickname": "Angela Thomas",
+		  "email": "riverapamela@gmail.com",
+		  "password": "$2a$10$lMEP8Xltm1R3VO6RgRQZzOZ93C70JxB1uYoC2BanxCQ5fbFYbMmTK",
+		  "imagesUrl": "https://randomuser.me/api/portraits/women/79.jpg",
+		  "favorite_recipes": [2, 3, 5, 6, 7, 11, 13, 15],
+		  "favorite_bars": [1, 3, 4, 7, 8, 10, 11, 14],
+		  "like_recipes": [4, 5, 7, 8, 13, 14, 16, 17],
+		  "like_bars": [3, 6, 7, 10, 12],
+		  "is_subscribed": true,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		},
+		{
+		  "id": 13,
+		  "nickname": "Dylan Nelson",
+		  "email": "jeffreywalker@yahoo.com.tw",
+		  "password": "$2a$10$uN1CBbNpihye73YGcxCqveoAEUOs2tI7ZwmuRz/eFTQIZq/jpvYpW",
+		  "imagesUrl": "https://randomuser.me/api/portraits/men/82.jpg",
+		  "favorite_recipes": [1, 2, 6, 7, 8, 10, 14, 16, 17],
+		  "favorite_bars": [2, 5, 6, 9, 10, 13, 15],
+		  "like_recipes": [2, 4, 5, 7, 14, 18, 21],
+		  "like_bars": [1, 5, 7, 9, 12, 13],
+		  "is_subscribed": true,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		},
+		{
+		  "id": 14,
+		  "nickname": "Jessica Edwards",
+		  "email": "kathryn74@gmail.com",
+		  "password": "$2a$10$H5iIl62R6pDclaGfTNWj5ecYsVR2fYlpiVSmsutbmfdgGPGPQ7NMe",
+		  "imagesUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+		  "favorite_recipes": [3, 5, 6, 7, 9, 11, 12, 13, 18, 21],
+		  "favorite_bars": [2, 4, 6, 7, 9, 12, 14],
+		  "like_recipes": [1, 5, 10, 14, 18],
+		  "like_bars": [1, 3, 6, 9, 10, 13, 15],
+		  "is_subscribed": false,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		},
+		{
+		  "id": 15,
+		  "nickname": "Zachary Chang",
+		  "email": "crystalgomez@yahoo.com.tw",
+		  "password": "$2a$10$jB7CrDAOmmkdxscr.pkldOFg.Mqpv15zHXW2hLYb6rD6F84Jl4Gfa",
+		  "imagesUrl": "https://randomuser.me/api/portraits/men/97.jpg",
+		  "favorite_recipes": [1, 3, 4, 6, 8, 10, 11, 13, 15, 20],
+		  "favorite_bars": [1, 3, 6, 9, 10, 13, 15],
+		  "like_recipes": [2, 4, 7, 11],
+		  "like_bars": [2, 6, 9, 13, 15, 20],
+		  "is_subscribed": true,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		},
+		{
+		  "id": 16,
+		  "nickname": "Steven Lee",
+		  "email": "christinacook@yahoo.com.tw",
+		  "password": "$2a$10$YnejQNhcJ32yf2vzUVbr0ei09ScnDk1owN3sIBRhSjggJKrOHBf4C",
+		  "imagesUrl": "https://randomuser.me/api/portraits/men/86.jpg",
+		  "favorite_recipes": [2, 4, 5, 6, 9, 11, 13, 15, 18],
+		  "favorite_bars": [1, 4, 5, 9, 10, 13],
+		  "like_recipes": [1, 4, 6, 9, 12, 21],
+		  "like_bars": [3, 5, 8, 14],
+		  "is_subscribed": false,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+	  },
+		{
+		  "id": 17,
+		  "nickname": "Heather Young",
+		  "email": "dustinlee@gmail.com",
+		  "password": "$2a$10$y1tX5opZOgXrT93yYRMKW.3SaKG47SmG1364HjF7D8zWH3TJ0OVJ6",
+		  "imagesUrl": "https://randomuser.me/api/portraits/women/83.jpg",
+		  "favorite_recipes": [1, 3, 6, 7, 10, 12, 15, 17],
+		  "favorite_bars": [2, 4, 6, 8, 9, 11, 13],
+		  "like_recipes": [2, 5, 10, 13],
+		  "like_bars": [3, 6, 7, 9],
+		  "is_subscribed": true,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+    },
+    {
+		  "id": 18,
+		  "nickname": "Gregory Huang",
+		  "email": "tracy26@gmail.com",
+		  "password": "$2a$10$4oBY9ZsGMoJG4ffCsIXMoevqyVyzry/FcwSbk1UWPYv7Cul156Pqa",
+		  "imagesUrl": "https://randomuser.me/api/portraits/men/59.jpg",
+		  "favorite_recipes": [2, 4, 5, 6, 9, 10, 11, 14, 15, 17],
+		  "favorite_bars": [1, 3, 5, 8, 9, 10, 11, 14],
+		  "like_recipes": [1, 2, 6, 8, 11],
+		  "like_bars": [2, 5, 6, 7, 15],
+		  "is_subscribed": true,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		},
+    {
+		  "id": 19,
+		  "nickname": "Timothy Lin",
+		  "email": "kristin77@gmail.com",
+		  "password": "$2a$10$Jj9ZFfVTPevLBlenb0WMDuxY1vG.2iidfb6X4TOc9SKWnZueWqhym",
+		  "imagesUrl": "https://randomuser.me/api/portraits/men/38.jpg",
+		  "favorite_recipes": [1, 2, 3, 5, 7, 9, 11, 14, 18, 23],
+		  "favorite_bars": [1, 2, 4, 6, 8, 10, 11, 13, 15],
+		  "like_recipes": [1, 6, 9, 10, 17],
+		  "like_bars": [1, 4, 5, 11, 13],
+		  "is_subscribed": false,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		},
+		{
+		  "id": 20,
+		  "nickname": "Lisa Chen",
+		  "email": "brittanymcdaniel@yahoo.com.tw",
+		  "password": "$2a$10$t6Wd4N6FmjHKzwlv6VUytuSpn10byDeUVxyRIKn6DauXdTxCxvG4.",
+		  "imagesUrl": "https://randomuser.me/api/portraits/women/91.jpg",
+		  "favorite_recipes": [2, 4, 6, 8, 10, 12, 13, 15, 18, 22],
+		  "favorite_bars": [2, 3, 5, 7, 8, 9, 12, 14, 15],
+		  "like_recipes": [3, 4, 7, 9, 11],
+		  "like_bars": [4, 6, 10, 12, 13],
+		  "is_subscribed": true,
+		  "is_active": true,
+		  "is_deleted": false,
+		  "deleted_at": ""
+		}
   ]
 }
