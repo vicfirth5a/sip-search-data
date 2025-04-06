@@ -1041,11 +1041,7 @@
         "https://i.imgur.com/eocXieO.png",
         "https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGluZWFwcGxlJTIwY29ja3RhaWx8ZW58MHx8MHx8fDI%3D"
       ],
-      "tags": [
-        "蘭姆酒",
-        "鳳梨",
-        "果汁"
-      ],
+      "tags": ["蘭姆酒", "鳳梨", "果汁"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1073,10 +1069,7 @@
         "加入冰塊，充分搖勻。",
         "使用濾網倒入裝有冰塊的高球杯中。"
       ],
-      "garnish": [
-        "鳳梨片",
-        "櫻桃"
-      ]
+      "garnish": ["鳳梨片", "櫻桃"]
     },
     {
       "id": 2,
@@ -1090,11 +1083,7 @@
         "https://i.imgur.com/6DGnFqc.png",
         "https://plus.unsplash.com/premium_photo-1661370085023-16bf34456bbf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "金酒",
-        "苦艾酒",
-        "苦味橙酒"
-      ],
+      "tags": ["金酒", "苦艾酒", "苦味橙酒"],
       "ingredients": [
         {
           "amount": "30 毫升",
@@ -1114,9 +1103,7 @@
         "加入冰塊並輕輕攪拌約 20 秒，直到混合物變冷。",
         "使用濾網將混合液倒入裝有冰塊的低球杯中。"
       ],
-      "garnish": [
-        "橙片"
-      ]
+      "garnish": ["橙片"]
     },
     {
       "id": 3,
@@ -1130,11 +1117,7 @@
         "https://i.imgur.com/RyXp6Ds.png",
         "https://images.unsplash.com/photo-1634003311194-152e30e732f7?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "龍舌蘭",
-        "果汁",
-        "檸檬"
-      ],
+      "tags": ["龍舌蘭", "果汁", "檸檬"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1158,10 +1141,7 @@
         "加入冰塊，充分搖勻。",
         "將混合液倒入已經塗上鹽邊的瑪格麗特杯中。"
       ],
-      "garnish": [
-        "青檸片",
-        "鹽邊"
-      ]
+      "garnish": ["青檸片", "鹽邊"]
     },
     {
       "id": 4,
@@ -1175,11 +1155,7 @@
         "https://i.imgur.com/j0XOHVd.png",
         "https://images.unsplash.com/photo-1497534446932-c925b458314e?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "伏特加",
-        "桃子",
-        "果汁"
-      ],
+      "tags": ["伏特加", "桃子", "果汁"],
       "ingredients": [
         {
           "amount": "30 毫升",
@@ -1203,9 +1179,7 @@
         "加入冰塊並充分搖勻。",
         "將混合液倒入裝有冰塊的低球杯中。"
       ],
-      "garnish": [
-        "檸檬片"
-      ]
+      "garnish": ["檸檬片"]
     },
     {
       "id": 5,
@@ -1219,11 +1193,7 @@
         "https://i.imgur.com/SCYj4RQ.png",
         "https://images.unsplash.com/photo-1560512823-829485b8bf24?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "苦艾酒",
-        "甜酒",
-        "果汁"
-      ],
+      "tags": ["苦艾酒", "甜酒", "果汁"],
       "ingredients": [
         {
           "amount": "60 毫升",
@@ -1243,9 +1213,7 @@
         "加入冰塊，然後倒入氣泡水與蘇打水。",
         "輕輕攪拌混合，直到冰塊融化稍微冷卻。"
       ],
-      "garnish": [
-        "橙片"
-      ]
+      "garnish": ["橙片"]
     },
     {
       "id": 6,
@@ -1259,11 +1227,7 @@
         "https://i.imgur.com/rmp6cje.png",
         "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "琴酒",
-        "苦艾酒",
-        "檸檬"
-      ],
+      "tags": ["琴酒", "苦艾酒", "檸檬"],
       "ingredients": [
         {
           "amount": "30 毫升",
@@ -1287,9 +1251,7 @@
         "加入冰塊並充分搖勻。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": [
-        "橙片"
-      ]
+      "garnish": ["橙片"]
     },
     {
       "id": 7,
@@ -1303,11 +1265,7 @@
         "https://images.unsplash.com/photo-1555766720-1e727844cc8f?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1624487394217-6d192d003564?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "蘭姆酒",
-        "果汁",
-        "水果"
-      ],
+      "tags": ["蘭姆酒", "果汁", "水果"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1335,10 +1293,7 @@
         "加入冰塊，搖勻直到充分冷卻。",
         "將混合液倒入裝有冰塊的高球杯中，輕輕攪拌。"
       ],
-      "garnish": [
-        "橙片",
-        "櫻桃"
-      ]
+      "garnish": ["橙片", "櫻桃"]
     },
     {
       "id": 8,
@@ -1352,11 +1307,7 @@
         "https://images.unsplash.com/photo-1527761939622-9119094630cf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1720785519308-853615297fad?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "伏特加",
-        "水果",
-        "果汁"
-      ],
+      "tags": ["伏特加", "水果", "果汁"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1384,9 +1335,7 @@
         "加入冰塊，搖勻直到充分冷卻。",
         "將混合液倒入冷卻過的雞尾酒杯中，並輕輕攪拌。"
       ],
-      "garnish": [
-        "新鮮漿果（如藍莓、草莓）"
-      ]
+      "garnish": ["新鮮漿果（如藍莓、草莓）"]
     },
     {
       "id": 9,
@@ -1400,10 +1349,7 @@
         "https://images.unsplash.com/photo-1712025853693-d16e904d0662?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1618799805265-4f27cb61ede9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGNvY2t0YWlsfGVufDB8fDB8fHww"
       ],
-      "tags": [
-        "金巴利",
-        "苦艾酒"
-      ],
+      "tags": ["金巴利", "苦艾酒"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1427,10 +1373,7 @@
         "加入冰塊並充分搖勻，直到混合物變冷。",
         "將混合液倒入冷卻過的低球杯中。"
       ],
-      "garnish": [
-        "橙片",
-        "檸檬片"
-      ]
+      "garnish": ["橙片", "檸檬片"]
     },
     {
       "id": 10,
@@ -1444,11 +1387,7 @@
         "https://images.unsplash.com/photo-1651657550053-24c3eb116161?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGNvY2t0YWlsJTIwd2l0aCUyMHJvc2V8ZW58MHx8MHx8fDI%3D",
         "https://plus.unsplash.com/premium_photo-1687977548082-4705375cbbcf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "龍舌蘭",
-        "果汁",
-        "玫瑰"
-      ],
+      "tags": ["龍舌蘭", "果汁", "玫瑰"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1472,9 +1411,7 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
       ],
-      "garnish": [
-        "玫瑰花瓣"
-      ]
+      "garnish": ["玫瑰花瓣"]
     },
     {
       "id": 11,
@@ -1488,10 +1425,7 @@
         "https://plus.unsplash.com/premium_photo-1668063245248-90ee5a1ff77c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1632277671161-d2e225749d75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNob2NvbGF0ZSUyMCUyMGNvY2t0YWlsfGVufDB8fDB8fHwy"
       ],
-      "tags": [
-        "威士忌",
-        "可可粉"
-      ],
+      "tags": ["威士忌", "可可粉"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1515,10 +1449,7 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
       ],
-      "garnish": [
-        "可可粉",
-        "巧克力片"
-      ]
+      "garnish": ["可可粉", "巧克力片"]
     },
     {
       "id": 12,
@@ -1532,10 +1463,7 @@
         "https://images.unsplash.com/photo-1689163351000-5fed60a2a331?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1563223771-5fe4038fbfc9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGdyYXBlJTIwc3ByaXR6JTIwY29ja3RhaWx8ZW58MHx8MHx8fDI%3D"
       ],
-      "tags": [
-        "葡萄酒",
-        "果汁"
-      ],
+      "tags": ["葡萄酒", "果汁"],
       "ingredients": [
         {
           "amount": "90 毫升",
@@ -1560,10 +1488,7 @@
         "輕輕攪拌，如果需要，可以加入糖漿調味。",
         "加入冰塊，繼續攪拌直到混合物均勻冷卻。"
       ],
-      "garnish": [
-        "檸檬片",
-        "薄荷葉"
-      ]
+      "garnish": ["檸檬片", "薄荷葉"]
     },
     {
       "id": 13,
@@ -1577,11 +1502,7 @@
         "https://plus.unsplash.com/premium_photo-1720692882782-3cdd152b1a1a?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1687977548453-50d9e2b89dce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "龍舌蘭",
-        "水果",
-        "桃子"
-      ],
+      "tags": ["龍舌蘭", "水果", "桃子"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1605,10 +1526,7 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": [
-        "橙片",
-        "薄荷葉"
-      ]
+      "garnish": ["橙片", "薄荷葉"]
     },
     {
       "id": 14,
@@ -1622,11 +1540,7 @@
         "https://images.unsplash.com/photo-1729719930700-51fc4f0c6731?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1514362453360-8f94243c9996?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fG1pbnQlMjBnYXJuaXNoJTIwY29ja3RhaWx8ZW58MHx8MHx8fDI%3D"
       ],
-      "tags": [
-        "白蘭地",
-        "水果",
-        "熱情果"
-      ],
+      "tags": ["白蘭地", "水果", "熱情果"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1650,10 +1564,7 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中，輕輕攪拌。"
       ],
-      "garnish": [
-        "熱情果片",
-        "薄荷葉"
-      ]
+      "garnish": ["熱情果片", "薄荷葉"]
     },
     {
       "id": 15,
@@ -1667,10 +1578,7 @@
         "https://plus.unsplash.com/premium_photo-1694994137835-196def6d9aa9?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1664391791898-000961bce086?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "威士忌",
-        "甜酒"
-      ],
+      "tags": ["威士忌", "甜酒"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1694,10 +1602,7 @@
         "輕輕攪拌，直到蜂蜜完全溶解。",
         "將混合液倒入溫暖的玻璃杯中，享受這款溫暖的飲品。"
       ],
-      "garnish": [
-        "檸檬片",
-        "肉桂棒"
-      ]
+      "garnish": ["檸檬片", "肉桂棒"]
     },
     {
       "id": 16,
@@ -1711,11 +1616,7 @@
         "https://images.unsplash.com/photo-1602093675596-19cee418220b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1632935253723-f37c5a038f41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFwcGxlJTIwY29ja3RhaWx8ZW58MHx8MHx8fDI%3D"
       ],
-      "tags": [
-        "啤酒",
-        "水果",
-        "蘋果"
-      ],
+      "tags": ["啤酒", "水果", "蘋果"],
       "ingredients": [
         {
           "amount": "60 毫升",
@@ -1740,10 +1641,7 @@
         "倒入啤酒，輕輕攪拌，使其與蘋果汁混合。",
         "如果需要，可以加入少量糖漿來調整甜度。"
       ],
-      "garnish": [
-        "蘋果片",
-        "薄荷葉"
-      ]
+      "garnish": ["蘋果片", "薄荷葉"]
     },
     {
       "id": 17,
@@ -1757,11 +1655,7 @@
         "https://images.unsplash.com/photo-1633119368995-bfa6091fe7c2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGdyYXBlZnJ1aXQlMjBjb2NrdGFpbHxlbnwwfHwwfHx8Mg%3D%3D",
         "https://plus.unsplash.com/premium_photo-1671013031985-b6d00dadc67b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "威士忌",
-        "果汁",
-        "葡萄柚"
-      ],
+      "tags": ["威士忌", "果汁", "葡萄柚"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1785,10 +1679,7 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": [
-        "葡萄柚片",
-        "薄荷葉"
-      ]
+      "garnish": ["葡萄柚片", "薄荷葉"]
     },
     {
       "id": 18,
@@ -1802,11 +1693,7 @@
         "https://images.unsplash.com/photo-1457518919282-b199744eefd6?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1610229472338-fef4daba2e14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcyfHxncmFwZSUyMGRyaW5rfGVufDB8fDB8fHwy"
       ],
-      "tags": [
-        "金巴利",
-        "水果",
-        "葡萄"
-      ],
+      "tags": ["金巴利", "水果", "葡萄"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1830,10 +1717,7 @@
         "加入冰塊，充分搖勻直到混合物變冷。",
         "將混合液倒入冷卻過的雞尾酒杯中。"
       ],
-      "garnish": [
-        "葡萄串",
-        "薄荷葉"
-      ]
+      "garnish": ["葡萄串", "薄荷葉"]
     },
     {
       "id": 19,
@@ -1847,11 +1731,7 @@
         "https://plus.unsplash.com/premium_photo-1661369896155-07e1be87c43f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1661380265633-bb1e654df3d7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "萊姆酒",
-        "奧綸莉",
-        "白朗姆酒"
-      ],
+      "tags": ["萊姆酒", "奧綸莉", "白朗姆酒"],
       "ingredients": [
         {
           "amount": "45 毫升",
@@ -1875,10 +1755,7 @@
         "加入冰塊，充分搖勻。",
         "過濾後倒入事先冷卻的雞尾酒杯中。"
       ],
-      "garnish": [
-        "檸檬皮",
-        "薄荷"
-      ]
+      "garnish": ["檸檬皮", "薄荷"]
     },
     {
       "id": 20,
@@ -1892,10 +1769,7 @@
         "https://images.unsplash.com/photo-1617524455170-ca63c7f0d472?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1585778226755-167cecfec8c5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "金酒",
-        "蘇打水"
-      ],
+      "tags": ["金酒", "蘇打水"],
       "ingredients": [
         {
           "amount": "50 毫升",
@@ -1915,9 +1789,7 @@
         "加入蘇打水並輕輕攪拌。",
         "用青檸片裝飾，隨後即可享用。"
       ],
-      "garnish": [
-        "青檸片"
-      ]
+      "garnish": ["青檸片"]
     },
     {
       "id": 21,
@@ -1931,10 +1803,7 @@
         "https://plus.unsplash.com/premium_photo-1661377336516-2d802ad096c4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://plus.unsplash.com/premium_photo-1671647122567-ade48287e971?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "威士忌",
-        "美酒"
-      ],
+      "tags": ["威士忌", "美酒"],
       "ingredients": [
         {
           "amount": "50 毫升",
@@ -1954,9 +1823,7 @@
         "加入冰塊，充分搖勻。",
         "過濾後倒入事先冷卻的雞尾酒杯中。"
       ],
-      "garnish": [
-        "櫻桃"
-      ]
+      "garnish": ["櫻桃"]
     },
     {
       "id": 22,
@@ -1970,12 +1837,7 @@
         "https://images.unsplash.com/photo-1650814843722-2498e2aa8e3e?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1712025853733-b7fe9947055c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "威士忌",
-        "甜酒",
-        "白蘭地",
-        "苦精"
-      ],
+      "tags": ["威士忌", "甜酒", "白蘭地", "苦精"],
       "ingredients": [
         {
           "amount": "30 毫升",
@@ -1999,9 +1861,7 @@
         "加入冰塊，充分攪拌。",
         "過濾後倒入裝有冰塊的低球杯中。"
       ],
-      "garnish": [
-        "檸檬皮"
-      ]
+      "garnish": ["檸檬皮"]
     },
     {
       "id": 23,
@@ -2015,11 +1875,7 @@
         "https://images.unsplash.com/photo-1634564324736-1049b7c440ec?q=80&w=2018&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1608182843647-7f5a220f36ed?q=80&w=1988&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "tags": [
-        "威士忌",
-        "杏仁",
-        "利口酒"
-      ],
+      "tags": ["威士忌", "杏仁", "利口酒"],
       "ingredients": [
         {
           "amount": "50 毫升",
@@ -2035,116 +1891,90 @@
         "加入冰塊，輕輕攪拌。",
         "過濾後倒入低球杯中。"
       ],
-      "garnish": [
-        "橙皮"
-      ]
+      "garnish": ["橙皮"]
     }
   ],
   "recipscomments": [
     {
       "id": 1,
-      "content": [
-        "這杯叢林鳥真的很好喝，鳳梨味很濃，完美的熱帶風味！"
-      ],
+      "content": ["這杯叢林鳥真的很好喝，鳳梨味很濃，完美的熱帶風味！"],
       "recipeId": 1,
       "userId": 1,
       "date": "2025-02-08"
     },
     {
       "id": 2,
-      "content": [
-        "尼格羅尼的苦味正好，這是我最喜歡的經典調酒之一。"
-      ],
+      "content": ["尼格羅尼的苦味正好，這是我最喜歡的經典調酒之一。"],
       "recipeId": 2,
       "userId": 2,
       "date": "2025-02-09"
     },
     {
       "id": 3,
-      "content": [
-        "瑪格麗特的酸味和龍舌蘭的口感很搭，真的是完美的平衡！"
-      ],
+      "content": ["瑪格麗特的酸味和龍舌蘭的口感很搭，真的是完美的平衡！"],
       "recipeId": 3,
       "userId": 3,
       "date": "2025-02-10"
     },
     {
       "id": 4,
-      "content": [
-        "花花公子很適合夏天，桃子的香氣真的很迷人。"
-      ],
-      "recipeId": 3,
+      "content": ["花花公子很適合夏天，桃子的香氣真的很迷人。"],
+      "recipeId": 4,
       "userId": 4,
       "date": "2025-02-11"
     },
     {
       "id": 5,
-      "content": [
-        "阿佩羅雞尾酒喝起來超級清爽，非常適合開胃！"
-      ],
+      "content": ["阿佩羅雞尾酒喝起來超級清爽，非常適合開胃！"],
       "recipeId": 5,
       "userId": 5,
       "date": "2025-02-12"
     },
     {
       "id": 6,
-      "content": [
-        "奧林匹克的味道簡單卻很有層次，非常好喝！"
-      ],
+      "content": ["奧林匹克的味道簡單卻很有層次，非常好喝！"],
       "recipeId": 6,
       "userId": 6,
       "date": "2025-02-13"
     },
     {
       "id": 7,
-      "content": [
-        "蘭姆果汁是我最喜歡的蘭姆酒調酒，果汁的酸甜剛好。"
-      ],
+      "content": ["蘭姆果汁是我最喜歡的蘭姆酒調酒，果汁的酸甜剛好。"],
       "recipeId": 7,
       "userId": 7,
       "date": "2025-02-14"
     },
     {
       "id": 8,
-      "content": [
-        "伏特加漿果的水果風味讓我每一口都覺得新鮮，好喜歡這杯！"
-      ],
+      "content": ["伏特加漿果的水果風味讓我每一口都覺得新鮮，好喜歡這杯！"],
       "recipeId": 8,
       "userId": 8,
       "date": "2025-02-15"
     },
     {
       "id": 9,
-      "content": [
-        "金巴利夜幕有著非常深邃的味道，適合喜歡苦酒的人。"
-      ],
+      "content": ["金巴利夜幕有著非常深邃的味道，適合喜歡苦酒的人。"],
       "recipeId": 9,
       "userId": 9,
       "date": "2025-02-16"
     },
     {
       "id": 10,
-      "content": [
-        "龍舌蘭玫瑰非常有花香，喝起來讓人感覺很浪漫。"
-      ],
+      "content": ["龍舌蘭玫瑰非常有花香，喝起來讓人感覺很浪漫。"],
       "recipeId": 10,
       "userId": 10,
       "date": "2025-02-17"
     },
     {
       "id": 11,
-      "content": [
-        "威士忌可可的口感濃郁，非常適合冬天飲用。"
-      ],
+      "content": ["威士忌可可的口感濃郁，非常適合冬天飲用。"],
       "recipeId": 11,
       "userId": 11,
       "date": "2025-02-18"
     },
     {
       "id": 12,
-      "content": [
-        "葡萄酒氣泡的清爽和氣泡水的口感真的是完美的結合！"
-      ],
+      "content": ["葡萄酒氣泡的清爽和氣泡水的口感真的是完美的結合！"],
       "recipeId": 12,
       "userId": 12,
       "date": "2025-02-19"
@@ -2169,36 +1999,28 @@
     },
     {
       "id": 15,
-      "content": [
-        "蜂蜜威士忌的甜味與威士忌的醇香搭配得非常好，超級順口。"
-      ],
+      "content": ["蜂蜜威士忌的甜味與威士忌的醇香搭配得非常好，超級順口。"],
       "recipeId": 15,
       "userId": 15,
       "date": "2025-02-22"
     },
     {
       "id": 16,
-      "content": [
-        "啤酒蘋果的酸甜口感讓我很驚艷，是一杯很輕鬆的調酒。"
-      ],
+      "content": ["啤酒蘋果的酸甜口感讓我很驚艷，是一杯很輕鬆的調酒。"],
       "recipeId": 16,
       "userId": 16,
       "date": "2025-02-23"
     },
     {
       "id": 17,
-      "content": [
-        "葡萄柚威士忌有很好的酸味平衡，威士忌的香氣也不會被蓋過。"
-      ],
+      "content": ["葡萄柚威士忌有很好的酸味平衡，威士忌的香氣也不會被蓋過。"],
       "recipeId": 17,
       "userId": 17,
       "date": "2025-02-24"
     },
     {
       "id": 18,
-      "content": [
-        "金巴利葡萄的果香讓人覺得很清新，這是一杯適合放鬆的調酒。"
-      ],
+      "content": ["金巴利葡萄的果香讓人覺得很清新，這是一杯適合放鬆的調酒。"],
       "recipeId": 18,
       "userId": 18,
       "date": "2025-02-25"
@@ -2227,16 +2049,11 @@
       "id": 1,
       "barId": 1,
       "name": "夏日海灘派對",
-      "tags": [
-        "台北市",
-        "其他"
-      ],
+      "tags": ["台北市", "其他"],
       "area": "台北市",
       "address": "台北市信義區海灘大道88號",
       "phone": "02-1234-5678",
-      "themes": [
-        "其他"
-      ],
+      "themes": ["其他"],
       "startDate": "2025-07-03",
       "endDate": "2025-08-18",
       "description": "來場海灘狂歡夜，享受音樂、雞尾酒與沙灘的完美結合！",
@@ -2249,16 +2066,11 @@
       "id": 2,
       "barId": 2,
       "name": "萬聖節變裝夜",
-      "tags": [
-        "台中市",
-        "萬聖節"
-      ],
+      "tags": ["台中市", "萬聖節"],
       "area": "台中市",
       "address": "台中市西屯區神秘巷弄66號",
       "phone": "04-8765-4321",
-      "themes": [
-        "萬聖節"
-      ],
+      "themes": ["萬聖節"],
       "startDate": "2025-10-31",
       "endDate": "2025-10-31",
       "description": "穿上你的最狂裝扮，參加一年一度的萬聖節驚悚之夜！",
@@ -2271,16 +2083,11 @@
       "id": 3,
       "barId": 3,
       "name": "聖誕夜微醺",
-      "tags": [
-        "新竹市",
-        "聖誕節"
-      ],
+      "tags": ["新竹市", "聖誕節"],
       "area": "新竹市",
       "address": "新竹市北區雪松路45號",
       "phone": "03-2345-6789",
-      "themes": [
-        "聖誕節"
-      ],
+      "themes": ["聖誕節"],
       "startDate": "2025-12-24",
       "endDate": "2025-12-25",
       "description": "聖誕燈飾、特製熱紅酒、溫馨夜晚，這是一場不能錯過的微醺聖誕！",
@@ -2293,16 +2100,11 @@
       "id": 4,
       "barId": 4,
       "name": "世界盃足球夜",
-      "tags": [
-        "高雄市",
-        "世足賽"
-      ],
+      "tags": ["高雄市", "世足賽"],
       "area": "高雄市",
       "address": "高雄市苓雅區運動路101號",
       "phone": "07-3456-7890",
-      "themes": [
-        "世足賽"
-      ],
+      "themes": ["世足賽"],
       "startDate": "2025-06-20",
       "endDate": "2025-07-25",
       "description": "與球迷一起為你的隊伍加油，享受啤酒與足球的完美夜晚！",
@@ -2315,16 +2117,11 @@
       "id": 5,
       "barId": 5,
       "name": "情人節雙人特調",
-      "tags": [
-        "台南市",
-        "情人節"
-      ],
+      "tags": ["台南市", "情人節"],
       "area": "台南市",
       "address": "台南市安平區愛情路77號",
       "phone": "06-4567-8901",
-      "themes": [
-        "情人節"
-      ],
+      "themes": ["情人節"],
       "startDate": "2025-02-14",
       "endDate": "2025-02-14",
       "description": "與心愛的人一起學習調酒，創造專屬於你們的愛情特調！",
@@ -2337,16 +2134,11 @@
       "id": 6,
       "barId": 6,
       "name": "跨年煙火狂歡",
-      "tags": [
-        "台北市",
-        "跨年夜"
-      ],
+      "tags": ["台北市", "跨年夜"],
       "area": "台北市",
       "address": "台北市大安區信義路99號",
       "phone": "02-5678-1234",
-      "themes": [
-        "跨年夜"
-      ],
+      "themes": ["跨年夜"],
       "startDate": "2025-12-31",
       "endDate": "2026-01-01",
       "description": "一場盛大的跨年煙火派對，現場音樂表演與免費香檳倒數迎新年！",
@@ -2359,16 +2151,11 @@
       "id": 7,
       "barId": 7,
       "name": "情人節微光晚宴",
-      "tags": [
-        "桃園市",
-        "情人節"
-      ],
+      "tags": ["桃園市", "情人節"],
       "area": "桃園市",
       "address": "桃園市中壢區愛情大道55號",
       "phone": "03-6789-2345",
-      "themes": [
-        "情人節"
-      ],
+      "themes": ["情人節"],
       "startDate": "2025-02-07",
       "endDate": "2025-02-14",
       "description": "燭光晚餐搭配現場小提琴演奏，讓你的情人節充滿浪漫氛圍！",
@@ -2381,16 +2168,11 @@
       "id": 8,
       "barId": 8,
       "name": "搖滾之夜",
-      "tags": [
-        "台中市",
-        "歌手表演"
-      ],
+      "tags": ["台中市", "歌手表演"],
       "area": "台中市",
       "address": "台中市西區音樂街77號",
       "phone": "04-7890-3456",
-      "themes": [
-        "歌手表演"
-      ],
+      "themes": ["歌手表演"],
       "startDate": "2025-05-20",
       "endDate": "2025-06-26",
       "description": "搖滾樂隊現場演出，感受震撼音浪與極致音樂熱情！",
@@ -2403,16 +2185,11 @@
       "id": 9,
       "barId": 9,
       "name": "調酒師大賽",
-      "tags": [
-        "新竹市",
-        "其他"
-      ],
+      "tags": ["新竹市", "其他"],
       "area": "新竹市",
       "address": "新竹市東區酒吧街88號",
       "phone": "03-8901-4567",
-      "themes": [
-        "其他"
-      ],
+      "themes": ["其他"],
       "startDate": "2025-01-10",
       "endDate": "2025-09-23",
       "description": "全台最厲害的調酒師同台競技，品嚐創意雞尾酒！",
@@ -2425,18 +2202,11 @@
       "id": 10,
       "barId": 10,
       "name": "部落之夜・音樂與傳統的交會",
-      "tags": [
-        "花蓮縣",
-        "原住民",
-        "音樂"
-      ],
+      "tags": ["花蓮縣", "原住民", "音樂"],
       "area": "花蓮縣",
       "address": "花蓮縣吉安鄉文化路88號",
       "phone": "03-8123-4567",
-      "themes": [
-        "原住民",
-        "歌手表演"
-      ],
+      "themes": ["原住民", "歌手表演"],
       "startDate": "2025-09-15",
       "endDate": "2025-09-28",
       "description": "邀請原住民歌手與舞者共聚花蓮，共同享受原音重現與部落文化的精彩夜晚。傳統服飾、在地風味調酒、族語音樂交織出獨一無二的派對氛圍。",
@@ -2449,17 +2219,11 @@
       "id": 11,
       "barId": 11,
       "name": "復古迪斯可夜",
-      "tags": [
-        "台南市",
-        "歌手表演"
-      ],
+      "tags": ["台南市", "歌手表演"],
       "area": "台南市",
       "address": "台南市永康區舞廳路66號",
       "phone": "06-9012-5678",
-      "themes": [
-        "歌手表演",
-        "其他"
-      ],
+      "themes": ["歌手表演", "其他"],
       "startDate": "2025-08-02",
       "endDate": "2025-09-15",
       "description": "復古潮流再現，來場閃亮的迪斯可舞會，盡情搖擺！",
@@ -2472,16 +2236,11 @@
       "id": 12,
       "barId": 12,
       "name": "深夜狼人殺",
-      "tags": [
-        "高雄市",
-        "桌遊競賽"
-      ],
+      "tags": ["高雄市", "桌遊競賽"],
       "area": "高雄市",
       "address": "高雄市鼓山區遊戲街99號",
       "phone": "07-1234-6789",
-      "themes": [
-        "桌遊競賽"
-      ],
+      "themes": ["桌遊競賽"],
       "startDate": "2025-09-25",
       "endDate": "2025-10-10",
       "description": "午夜的狼人正在出沒，來一場驚心動魄的邏輯對決！",
@@ -2494,17 +2253,11 @@
       "id": 13,
       "barId": 13,
       "name": "基隆港夜景音樂會",
-      "tags": [
-        "基隆市",
-        "歌手表演"
-      ],
+      "tags": ["基隆市", "歌手表演"],
       "area": "基隆市",
       "address": "基隆市仁愛區港灣路10號",
       "phone": "02-2468-1357",
-      "themes": [
-        "歌手表演",
-        "其他"
-      ],
+      "themes": ["歌手表演", "其他"],
       "startDate": "2025-08-05",
       "endDate": "2025-09-06",
       "description": "享受海風輕拂與現場音樂演出，搭配特製海洋風味調酒，打造難忘的夜晚！",
@@ -2517,17 +2270,11 @@
       "id": 14,
       "barId": 14,
       "name": "世界盃足球之夜",
-      "tags": [
-        "彰化縣",
-        "世足賽"
-      ],
+      "tags": ["彰化縣", "世足賽"],
       "area": "彰化縣",
       "address": "彰化縣彰化市體育路101號",
       "phone": "04-7523-6789",
-      "themes": [
-        "世足賽",
-        "其他"
-      ],
+      "themes": ["世足賽", "其他"],
       "startDate": "2025-07-14",
       "endDate": "2025-11-14",
       "description": "與全球球迷同步觀看世界盃決賽，享受啤酒與足球的熱血激情！",
@@ -2540,16 +2287,11 @@
       "id": 15,
       "barId": 15,
       "name": "墾丁沙灘派對",
-      "tags": [
-        "屏東縣",
-        "其他"
-      ],
+      "tags": ["屏東縣", "其他"],
       "area": "屏東縣",
       "address": "屏東縣恆春鎮墾丁大道99號",
       "phone": "08-8889-5678",
-      "themes": [
-        "其他"
-      ],
+      "themes": ["其他"],
       "startDate": "2025-07-20",
       "endDate": "2025-08-12",
       "description": "海灘、雞尾酒、DJ 音樂！與朋友一起迎接最嗨的南國之夜！",
@@ -2562,17 +2304,11 @@
       "id": 16,
       "barId": 1,
       "name": "桌遊對決之夜",
-      "tags": [
-        "台南市",
-        "桌遊競賽"
-      ],
+      "tags": ["台南市", "桌遊競賽"],
       "area": "台南市",
       "address": "台南市安南區遊戲館22號",
       "phone": "06-7890-1234",
-      "themes": [
-        "桌遊競賽",
-        "其他"
-      ],
+      "themes": ["桌遊競賽", "其他"],
       "startDate": "2025-06-10",
       "endDate": "2025-08-20",
       "description": "挑戰桌遊界最強對手，贏家將獲得豐厚獎品！",
@@ -2585,17 +2321,11 @@
       "id": 17,
       "barId": 2,
       "name": "浪漫情人節調酒夜",
-      "tags": [
-        "桃園市",
-        "情人節"
-      ],
+      "tags": ["桃園市", "情人節"],
       "area": "桃園市",
       "address": "桃園市中壢區戀人巷55號",
       "phone": "03-8901-2345",
-      "themes": [
-        "情人節",
-        "歌手表演"
-      ],
+      "themes": ["情人節", "歌手表演"],
       "startDate": "2025-02-14",
       "endDate": "2025-02-14",
       "description": "親手為你的愛人調製一杯專屬於你們的雞尾酒，享受現場浪漫音樂。",
@@ -2608,17 +2338,11 @@
       "id": 18,
       "barId": 8,
       "name": "萬聖節恐怖之夜",
-      "tags": [
-        "南投縣",
-        "萬聖節"
-      ],
+      "tags": ["南投縣", "萬聖節"],
       "area": "南投縣",
       "address": "南投縣魚池鄉鬼屋巷88號",
       "phone": "049-7890-3456",
-      "themes": [
-        "萬聖節",
-        "其他"
-      ],
+      "themes": ["萬聖節", "其他"],
       "startDate": "2025-10-31",
       "endDate": "2025-10-31",
       "description": "來場驚悚的鬼屋探險，特製萬聖節驚悚調酒等你來挑戰！",
@@ -2631,17 +2355,11 @@
       "id": 19,
       "barId": 9,
       "name": "聯誼遊戲派對",
-      "tags": [
-        "台北市",
-        "聯誼遊戲"
-      ],
+      "tags": ["台北市", "聯誼遊戲"],
       "area": "台北市",
       "address": "台北市士林區戀愛路66號",
       "phone": "02-1234-5678",
-      "themes": [
-        "聯誼遊戲",
-        "其他"
-      ],
+      "themes": ["聯誼遊戲", "其他"],
       "startDate": "2025-09-18",
       "endDate": "2025-12-05",
       "description": "單身的你還在等什麼？來場輕鬆愉快的聯誼遊戲，認識新朋友！",
@@ -2654,17 +2372,11 @@
       "id": 20,
       "barId": 12,
       "name": "電音狂潮之夜",
-      "tags": [
-        "新北市",
-        "歌手表演"
-      ],
+      "tags": ["新北市", "歌手表演"],
       "area": "新北市",
       "address": "新北市板橋區潮流大道88號",
       "phone": "02-9876-5432",
-      "themes": [
-        "歌手表演",
-        "跨年夜"
-      ],
+      "themes": ["歌手表演", "跨年夜"],
       "startDate": "2025-02-22",
       "endDate": "2025-07-19",
       "description": "電音與舞池完美結合，來場極致的夜晚派對！超強 DJ 陣容搭配雷射燈光秀，讓你嗨翻整夜！",
@@ -2726,7 +2438,9 @@
       "email": "richardallison@yahoo.com.tw",
       "password": "$2a$10$SGKOyolUQr4TmEkYxsKyDO5dqBQFrp.R/cOWDWnLzltM9Uv4T8/jG",
       "imagesUrl": "https://randomuser.me/api/portraits/women/54.jpg",
-      "favorite_recipes": [1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 20, 22],
+      "favorite_recipes": [
+        1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 20, 22
+      ],
       "favorite_bars": [1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14],
       "like_recipes": [1, 9, 10],
       "like_bars": [4, 5, 6, 7, 10, 15],
@@ -2841,139 +2555,139 @@
       "deleted_at": ""
     },
     {
-		  "id": 12,
-		  "nickname": "Angela Thomas",
-		  "email": "riverapamela@gmail.com",
-		  "password": "$2a$10$lMEP8Xltm1R3VO6RgRQZzOZ93C70JxB1uYoC2BanxCQ5fbFYbMmTK",
-		  "imagesUrl": "https://randomuser.me/api/portraits/women/79.jpg",
-		  "favorite_recipes": [2, 3, 5, 6, 7, 11, 13, 15],
-		  "favorite_bars": [1, 3, 4, 7, 8, 10, 11, 14],
-		  "like_recipes": [4, 5, 7, 8, 13, 14, 16, 17],
-		  "like_bars": [3, 6, 7, 10, 12],
-		  "is_subscribed": true,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		},
-		{
-		  "id": 13,
-		  "nickname": "Dylan Nelson",
-		  "email": "jeffreywalker@yahoo.com.tw",
-		  "password": "$2a$10$uN1CBbNpihye73YGcxCqveoAEUOs2tI7ZwmuRz/eFTQIZq/jpvYpW",
-		  "imagesUrl": "https://randomuser.me/api/portraits/men/82.jpg",
-		  "favorite_recipes": [1, 2, 6, 7, 8, 10, 14, 16, 17],
-		  "favorite_bars": [2, 5, 6, 9, 10, 13, 15],
-		  "like_recipes": [2, 4, 5, 7, 14, 18, 21],
-		  "like_bars": [1, 5, 7, 9, 12, 13],
-		  "is_subscribed": true,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		},
-		{
-		  "id": 14,
-		  "nickname": "Jessica Edwards",
-		  "email": "kathryn74@gmail.com",
-		  "password": "$2a$10$H5iIl62R6pDclaGfTNWj5ecYsVR2fYlpiVSmsutbmfdgGPGPQ7NMe",
-		  "imagesUrl": "https://randomuser.me/api/portraits/women/12.jpg",
-		  "favorite_recipes": [3, 5, 6, 7, 9, 11, 12, 13, 18, 21],
-		  "favorite_bars": [2, 4, 6, 7, 9, 12, 14],
-		  "like_recipes": [1, 5, 10, 14, 18],
-		  "like_bars": [1, 3, 6, 9, 10, 13, 15],
-		  "is_subscribed": false,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		},
-		{
-		  "id": 15,
-		  "nickname": "Zachary Chang",
-		  "email": "crystalgomez@yahoo.com.tw",
-		  "password": "$2a$10$jB7CrDAOmmkdxscr.pkldOFg.Mqpv15zHXW2hLYb6rD6F84Jl4Gfa",
-		  "imagesUrl": "https://randomuser.me/api/portraits/men/97.jpg",
-		  "favorite_recipes": [1, 3, 4, 6, 8, 10, 11, 13, 15, 20],
-		  "favorite_bars": [1, 3, 6, 9, 10, 13, 15],
-		  "like_recipes": [2, 4, 7, 11],
-		  "like_bars": [2, 6, 9, 13, 15, 20],
-		  "is_subscribed": true,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		},
-		{
-		  "id": 16,
-		  "nickname": "Steven Lee",
-		  "email": "christinacook@yahoo.com.tw",
-		  "password": "$2a$10$YnejQNhcJ32yf2vzUVbr0ei09ScnDk1owN3sIBRhSjggJKrOHBf4C",
-		  "imagesUrl": "https://randomuser.me/api/portraits/men/86.jpg",
-		  "favorite_recipes": [2, 4, 5, 6, 9, 11, 13, 15, 18],
-		  "favorite_bars": [1, 4, 5, 9, 10, 13],
-		  "like_recipes": [1, 4, 6, 9, 12, 21],
-		  "like_bars": [3, 5, 8, 14],
-		  "is_subscribed": false,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-	  },
-		{
-		  "id": 17,
-		  "nickname": "Heather Young",
-		  "email": "dustinlee@gmail.com",
-		  "password": "$2a$10$y1tX5opZOgXrT93yYRMKW.3SaKG47SmG1364HjF7D8zWH3TJ0OVJ6",
-		  "imagesUrl": "https://randomuser.me/api/portraits/women/83.jpg",
-		  "favorite_recipes": [1, 3, 6, 7, 10, 12, 15, 17],
-		  "favorite_bars": [2, 4, 6, 8, 9, 11, 13],
-		  "like_recipes": [2, 5, 10, 13],
-		  "like_bars": [3, 6, 7, 9],
-		  "is_subscribed": true,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
+      "id": 12,
+      "nickname": "Angela Thomas",
+      "email": "riverapamela@gmail.com",
+      "password": "$2a$10$lMEP8Xltm1R3VO6RgRQZzOZ93C70JxB1uYoC2BanxCQ5fbFYbMmTK",
+      "imagesUrl": "https://randomuser.me/api/portraits/women/79.jpg",
+      "favorite_recipes": [2, 3, 5, 6, 7, 11, 13, 15],
+      "favorite_bars": [1, 3, 4, 7, 8, 10, 11, 14],
+      "like_recipes": [4, 5, 7, 8, 13, 14, 16, 17],
+      "like_bars": [3, 6, 7, 10, 12],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
     },
     {
-		  "id": 18,
-		  "nickname": "Gregory Huang",
-		  "email": "tracy26@gmail.com",
-		  "password": "$2a$10$4oBY9ZsGMoJG4ffCsIXMoevqyVyzry/FcwSbk1UWPYv7Cul156Pqa",
-		  "imagesUrl": "https://randomuser.me/api/portraits/men/59.jpg",
-		  "favorite_recipes": [2, 4, 5, 6, 9, 10, 11, 14, 15, 17],
-		  "favorite_bars": [1, 3, 5, 8, 9, 10, 11, 14],
-		  "like_recipes": [1, 2, 6, 8, 11],
-		  "like_bars": [2, 5, 6, 7, 15],
-		  "is_subscribed": true,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		},
+      "id": 13,
+      "nickname": "Dylan Nelson",
+      "email": "jeffreywalker@yahoo.com.tw",
+      "password": "$2a$10$uN1CBbNpihye73YGcxCqveoAEUOs2tI7ZwmuRz/eFTQIZq/jpvYpW",
+      "imagesUrl": "https://randomuser.me/api/portraits/men/82.jpg",
+      "favorite_recipes": [1, 2, 6, 7, 8, 10, 14, 16, 17],
+      "favorite_bars": [2, 5, 6, 9, 10, 13, 15],
+      "like_recipes": [2, 4, 5, 7, 14, 18, 21],
+      "like_bars": [1, 5, 7, 9, 12, 13],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
     {
-		  "id": 19,
-		  "nickname": "Timothy Lin",
-		  "email": "kristin77@gmail.com",
-		  "password": "$2a$10$Jj9ZFfVTPevLBlenb0WMDuxY1vG.2iidfb6X4TOc9SKWnZueWqhym",
-		  "imagesUrl": "https://randomuser.me/api/portraits/men/38.jpg",
-		  "favorite_recipes": [1, 2, 3, 5, 7, 9, 11, 14, 18, 23],
-		  "favorite_bars": [1, 2, 4, 6, 8, 10, 11, 13, 15],
-		  "like_recipes": [1, 6, 9, 10, 17],
-		  "like_bars": [1, 4, 5, 11, 13],
-		  "is_subscribed": false,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		},
-		{
-		  "id": 20,
-		  "nickname": "Lisa Chen",
-		  "email": "brittanymcdaniel@yahoo.com.tw",
-		  "password": "$2a$10$t6Wd4N6FmjHKzwlv6VUytuSpn10byDeUVxyRIKn6DauXdTxCxvG4.",
-		  "imagesUrl": "https://randomuser.me/api/portraits/women/91.jpg",
-		  "favorite_recipes": [2, 4, 6, 8, 10, 12, 13, 15, 18, 22],
-		  "favorite_bars": [2, 3, 5, 7, 8, 9, 12, 14, 15],
-		  "like_recipes": [3, 4, 7, 9, 11],
-		  "like_bars": [4, 6, 10, 12, 13],
-		  "is_subscribed": true,
-		  "is_active": true,
-		  "is_deleted": false,
-		  "deleted_at": ""
-		}
+      "id": 14,
+      "nickname": "Jessica Edwards",
+      "email": "kathryn74@gmail.com",
+      "password": "$2a$10$H5iIl62R6pDclaGfTNWj5ecYsVR2fYlpiVSmsutbmfdgGPGPQ7NMe",
+      "imagesUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+      "favorite_recipes": [3, 5, 6, 7, 9, 11, 12, 13, 18, 21],
+      "favorite_bars": [2, 4, 6, 7, 9, 12, 14],
+      "like_recipes": [1, 5, 10, 14, 18],
+      "like_bars": [1, 3, 6, 9, 10, 13, 15],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 15,
+      "nickname": "Zachary Chang",
+      "email": "crystalgomez@yahoo.com.tw",
+      "password": "$2a$10$jB7CrDAOmmkdxscr.pkldOFg.Mqpv15zHXW2hLYb6rD6F84Jl4Gfa",
+      "imagesUrl": "https://randomuser.me/api/portraits/men/97.jpg",
+      "favorite_recipes": [1, 3, 4, 6, 8, 10, 11, 13, 15, 20],
+      "favorite_bars": [1, 3, 6, 9, 10, 13, 15],
+      "like_recipes": [2, 4, 7, 11],
+      "like_bars": [2, 6, 9, 13, 15, 20],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 16,
+      "nickname": "Steven Lee",
+      "email": "christinacook@yahoo.com.tw",
+      "password": "$2a$10$YnejQNhcJ32yf2vzUVbr0ei09ScnDk1owN3sIBRhSjggJKrOHBf4C",
+      "imagesUrl": "https://randomuser.me/api/portraits/men/86.jpg",
+      "favorite_recipes": [2, 4, 5, 6, 9, 11, 13, 15, 18],
+      "favorite_bars": [1, 4, 5, 9, 10, 13],
+      "like_recipes": [1, 4, 6, 9, 12, 21],
+      "like_bars": [3, 5, 8, 14],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 17,
+      "nickname": "Heather Young",
+      "email": "dustinlee@gmail.com",
+      "password": "$2a$10$y1tX5opZOgXrT93yYRMKW.3SaKG47SmG1364HjF7D8zWH3TJ0OVJ6",
+      "imagesUrl": "https://randomuser.me/api/portraits/women/83.jpg",
+      "favorite_recipes": [1, 3, 6, 7, 10, 12, 15, 17],
+      "favorite_bars": [2, 4, 6, 8, 9, 11, 13],
+      "like_recipes": [2, 5, 10, 13],
+      "like_bars": [3, 6, 7, 9],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 18,
+      "nickname": "Gregory Huang",
+      "email": "tracy26@gmail.com",
+      "password": "$2a$10$4oBY9ZsGMoJG4ffCsIXMoevqyVyzry/FcwSbk1UWPYv7Cul156Pqa",
+      "imagesUrl": "https://randomuser.me/api/portraits/men/59.jpg",
+      "favorite_recipes": [2, 4, 5, 6, 9, 10, 11, 14, 15, 17],
+      "favorite_bars": [1, 3, 5, 8, 9, 10, 11, 14],
+      "like_recipes": [1, 2, 6, 8, 11],
+      "like_bars": [2, 5, 6, 7, 15],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 19,
+      "nickname": "Timothy Lin",
+      "email": "kristin77@gmail.com",
+      "password": "$2a$10$Jj9ZFfVTPevLBlenb0WMDuxY1vG.2iidfb6X4TOc9SKWnZueWqhym",
+      "imagesUrl": "https://randomuser.me/api/portraits/men/38.jpg",
+      "favorite_recipes": [1, 2, 3, 5, 7, 9, 11, 14, 18, 23],
+      "favorite_bars": [1, 2, 4, 6, 8, 10, 11, 13, 15],
+      "like_recipes": [1, 6, 9, 10, 17],
+      "like_bars": [1, 4, 5, 11, 13],
+      "is_subscribed": false,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    },
+    {
+      "id": 20,
+      "nickname": "Lisa Chen",
+      "email": "brittanymcdaniel@yahoo.com.tw",
+      "password": "$2a$10$t6Wd4N6FmjHKzwlv6VUytuSpn10byDeUVxyRIKn6DauXdTxCxvG4.",
+      "imagesUrl": "https://randomuser.me/api/portraits/women/91.jpg",
+      "favorite_recipes": [2, 4, 6, 8, 10, 12, 13, 15, 18, 22],
+      "favorite_bars": [2, 3, 5, 7, 8, 9, 12, 14, 15],
+      "like_recipes": [3, 4, 7, 9, 11],
+      "like_bars": [4, 6, 10, 12, 13],
+      "is_subscribed": true,
+      "is_active": true,
+      "is_deleted": false,
+      "deleted_at": ""
+    }
   ]
 }
